@@ -22,6 +22,7 @@
 
 >[!WARNING]
 >Minimum Requirements
+
 Requires a 64-bit processor and operating system
 
 OS: Windows 10 64-bit
