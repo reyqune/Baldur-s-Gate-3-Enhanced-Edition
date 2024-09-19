@@ -91,7 +91,7 @@ Temporary Files: ~16 GB (on OS drive)
 
 ## Installation
 
-Installing Apostasy is relatively easy and, if you have Nexus Premium, will be a simple waiting game. If you are updating the modlist, you can safely skip to the [updating section](#updating-the-modlist).
+Installing the mod list is relatively easy and, if you have Nexus Premium, will be a simple waiting game. If you are updating the modlist, you can safely skip to the [updating section](#updating-the-modlist).
 
 ### Pre-Installation
 
@@ -109,7 +109,7 @@ These steps are only required for installing the modlist for the first time. Add
 #### Pagefile and Crash Prevention
 
 >[!WARNING]
->Larger Skyrim modlists require a significant amount of memory, running out of memory **will** result in crashes and other potential issues. Due to Apostasy's size and number of files, this step is **NOT** optional. I do not care how much RAM or VRAM you have, please do this step.
+>Larger modlists require a significant amount of memory, running out of memory **will** result in crashes and other potential issues. Due to the mod list's size and number of files, this step is **NOT** optional. I do not care how much RAM or VRAM you have, please do this step.
 
 **To set up a Pagefile:**
 
