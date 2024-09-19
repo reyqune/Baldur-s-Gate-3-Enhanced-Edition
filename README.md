@@ -1,5 +1,5 @@
 
-![](https://raw.githubusercontent.com/Oghma-Infinium/Apostasy/main/images/Banner.png)
+![](https://raw.githubusercontent.com/reyqune/Baldur-s-Gate-3-Enhanced-Edition/main/images/Banner.png)
 
 <p align="center">
   [ <a href="https://www.nexusmods.com/skyrimspecialedition/mods/118893">Nexus</a> |
@@ -10,8 +10,7 @@
   <a href="https://github.com/Oghma-Infinium/Apostasy/blob/main/Documentation/FAQ.md">FAQ</a> |
   <a href="https://github.com/Oghma-Infinium/Apostasy/blob/main/Documentation/CONFIG.md">Configuration</a> |
   <a href="https://github.com/Oghma-Infinium/Apostasy/blob/main/Documentation/ADDONS.md">ADDONS</a> |
-  <a href="https://ko-fi.com/reyqune">Ko-fi</a> | 
-  <a href="https://www.patreon.com/aljoxo">Patreon</a> ]
+  <a href="https://ko-fi.com/reyqune">Ko-fi</a> ]
 </p>
 
 ---
