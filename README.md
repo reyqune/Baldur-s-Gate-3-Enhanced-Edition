@@ -23,13 +23,21 @@
 >[!WARNING]
 >Minimum Requirements
 Requires a 64-bit processor and operating system
+
 OS: Windows 10 64-bit
+
 Processor: Intel i7 8700K / AMD r5 3600
+
 Memory: 16 GB RAM
+
 Graphics: Nvidia 2060 Super / RX 5700 XT (8GB+ of VRAM)
+
 DirectX: Version 11
+
 Storage: 150 GB available space
-Additional Notes: SSD required
+
+Additional Notes: **SSD required**
+
 
 # Contents
 
