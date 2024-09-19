@@ -28,7 +28,7 @@
       - [Installing Rare Curios Files](#installing-rare-curios-files)
     - [Wabbajack Installation](#wabbajack-installation)
       - [Installing Wabbajack](#installing-wabbajack)
-      - [Downloading and Installing Apostasy](#downloading-and-installing-apostasy)
+      - [Downloading and Installing Apostasy](#downloading-and-installing-the-mod-list)
     - [Problems with installation](#problems-with-installation)
       - [Problematic Files](#problematic-files)
   - [Post-Installation and Optional Setup](#post-installation-and-optional-setup)
@@ -224,7 +224,7 @@ Once you have completed the pre-installation section, follow these steps to inst
 >[!IMPORTANT]
 >The list requires Wabbajack version **3.6.1.0 or later**. Installing the modlist on older versions of Wabbajack will prevent the installation from being completed.
 
-#### Downloading and Installing Apostasy
+#### Downloading and Installing the mod list
 
 >[!CAUTION]
 >**A legal copy of Skyrim Special Edition is required.** Pirated copies of the game will cause the installation to fail and even if you manage to somehow get around Wabbajack's built-in piracy prevention measures, SKSE does not work with the cracked exes.  
