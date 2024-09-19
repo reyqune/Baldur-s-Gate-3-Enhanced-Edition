@@ -346,107 +346,16 @@ If you use Windows Defender, it is advised that you set up an exception for the 
 
 </Details>  
 
-### Post-Installation Issues and Troubleshooting
-
-<Details>
-<summary>Game is zoomed into the top left corner!</summary>
-
-Windows Scaling can prevent games from displaying correctly, and will often result in the game appearing "zoomed in". To fix this, find the `SkyrimSE.exe` located in your `[Path to Modlist]\Stock Game` and follow the steps in the images below:
-
-![](https://raw.githubusercontent.com/Oghma-Infinium/Apostasy/main/images/skyrim-scaling.png)
-
-</Details>
-
-<Details>
-<summary>Form 43 Error in MO2. / A DLL plugin has failed to load correctly.</summary>
-
-Your installation did not complete. Rerun Wabbajack and make sure to tick the **Overwrite Installation** box. If the error persists after a reinstall, then delete the `[Path to Modlist]\mods` folder, and rerun Wabbajack again.
-
-</Details>  
-
-<Details>
-<summary>Crashing on Startup</summary>
-
-Report it in the `#apostasy-support` channel of the [discord](https://discord.gg/4WwqfK5yHg). There are several reasons why this might happen, and 99.9% of them are a corrupt installation.
-
-</Details>  
-
-<Details>
-<summary>Crashes during Gameplay</summary>
-
-Skyrim is a notoriously buggy game and cramming thousands of mods into it is not gauranteed to always produce the most stable experience possible. Especially in heavier lists where you may be pushing the limitations of your hardware as a result of Skyrim's old and unoptimized rendering pipeline.
-
-If you find yourself crashing, then please share your crashlogs in the appropriate #support channel on the [discord server](https://discord.gg/4WwqfK5yHg).
-
-In order to get the best possible response please ensure that:
-
- 1. Your crash is reproducible.
- 2. You include all relevant crashlogs (if you do not know where to find them then use the `!crashlog` command in chat).
- 3. Provide details about the crash (what you were doing, where it took place, if there was an associated quest, etc). Details are necessary in order to quickly diagnose crashes.
-
-</Details>  
-
-<Details>
-<summary>Crashes When Loading Saves</summary>
-
-This issue is caused by Large Reference Workarounds done by [DynDOLOD NG](https://www.nexusmods.com/skyrimspecialedition/mods/97720) Due to importance of the mod, it cannot be removed from the modlist.
-
-Follow the steps below for a temporary experimental fix to prevent these crashes:
-  1. Navigate to `[Your Apostasy Install Location}\profiles\Apostasy\SkyrimPrefs.ini`  
-  2. Change `uLargeRefLODGridSize =9` to `uLargeRefLODGridSize =5`  
-  3. Press `Ctrl+S` on your keyboard to save your changes
-
-This will reduce the quality of certain large objects at far away distances, however the difference is **very minor** and you will be unlikely to even notice it. Changing these settings may even improve performance.
-
-</Details>
-
-### Keyboard Keybinds
-
-![](https://raw.githubusercontent.com/Oghma-Infinium/Apostasy/main/images/Keybinds.png)
-
-### Gamepad Keybinds
-
->[!WARNING]
->Gamepads may need additional setup in order to work as intended. Please refer to the [Configuration](https://github.com/Oghma-Infinium/Apostasy/blob/main/Documentation/CONFIG.md#gamepad-support) page.
-
-![](https://raw.githubusercontent.com/Oghma-Infinium/Apostasy/main/images/controlmap.png)
-
->[!TIP]
->You can review default keybinds in game by pressing `F11`!
-
 ## Playing the List
-
->[!WARNING]
->Before starting the list, read over the [Configuration](https://github.com/Oghma-Infinium/Apostasy/blob/main/Documentation/CONFIG.md), [FAQ](https://github.com/Oghma-Infinium/Apostasy/blob/main/Documentation/FAQ.md), and [Gameplay](https://github.com/Oghma-Infinium/Apostasy/blob/main/GAMEPLAY.md) pages.
 
 ### Starting the Game
 
- 1. Head over to your modlist installation folder (e.g. `C:\Apostasy`), locate an executable named `ModOrganizer.exe`, and launch it. Your first launch of Mod Organizer 2 may take several minutes due to GitHub repository downloads, so please be patient.
- 2. Set up your CPU Affinity by following the instructions below. Please do not skip this step
-    <Details>
-    <summary>Setting CPU Affinity</summary>
-    
-    This section is also covered in the [Configuration Guide](https://github.com/Oghma-Infinium/apostasy/blob/main/Documentation/CONFIG.md#performance-optimizations).
+ 1. Head over to your modlist installation folder (e.g. `C:\modlist`), locate an executable named `ModOrganizer.exe`, and launch it. Your first launch of Mod Organizer 2 may take several minutes due to GitHub repository downloads, so please be patient.
 
-    [Skyrim Priority](https://www.nexusmods.com/skyrimspecialedition/mods/50129) is a mod that can greatly improve performance, improving FPS and preventing stutters by optimizing Skyrim's CPU Priority and Core Affinity. [CPU Affinity](https://www.nexusmods.com/skyrimspecialedition/mods/94636) is a Mod Organizer 2 plugin that automates the manual setup of [Skyrim Priority](https://www.nexusmods.com/skyrimspecialedition/mods/50129). However, when improperly configured it can lead to worse performance than if it had not been present.
-
-    Due to Wabbajack limitations, the mod must be manually adjusted on the end-user's system. In order to do this follow the instructions below:
-
-    1. Click the `Puzzle Piece` button at the top of MO2 and select `Set CPU Affinity` and press `OK` on the pop-up box.
-  
-        ![](https://raw.githubusercontent.com/Oghma-Infinium/Vagabond/main/images/cpu%20affinity%20example.png)  
-
-    2. That's it, it's really that simple. **Please, please, please** do this before launching the game and whenever you update the modlist.
-
-    </Details>
-
- 3. Launch the "Play" Executable in MO2. The game may take several minutes to load on your first launch. Please be patient and **DO NOT** click the `Unlock` button on the MO2 prompt.
+ 4. Launch the "Play" Executable in MO2. The game may take several minutes to load on your first launch. Please be patient and **DO NOT** click the `Unlock` button on the MO2 prompt.
     a. **I REPEAT, DO NOT CLICK THE UNLOCK BUTTON! YOU WILL BREAK YOUR GAME!**
- 4. Select the **New Game** button.
- 5. Create your lovely character.
- 6. **(OPTIONAL)** Refer to the different MCM options listed on the [Configuration](https://github.com/Oghma-Infinium/Apostasy/blob/main/Documentation/CONFIG.md#in-game-mcm-options) to adjust any MCM settings you'd like.
- 7. Pick your class and talk to the little Dragon sitting on a lantern. If no specified start is chosen, then you will have the default start in the Helgen Inn.
- 8. Simply open the door next to him and step into the black void gazing at you :)
+ 5. Select the **New Game** button.
+ 6. Create your lovely character.
 
 ## Updating the modlist
 
@@ -459,25 +368,18 @@ Versioning for the list will adhere to the following format: `MAJOR.MINOR.PATCH`
 
 Updating is like installing the list. Simply make sure your paths are the same and tick the `overwrite installation` button. Please keep in mind any mods you have added will be deleted when updating. To make sure that Wabbajack does not delete your added mods upon updating, prefix your mods with `[NoDelete]`.
 
->[!IMPORTANT]
->Saves can be continued across **Save-Safe** updates. Updates will be indicated whether or not they are **Save-Safe** on the [Changelog](https://github.com/Oghma-Infinium/Apostasy/blob/main/CHANGELOG.md). It is suggested that you backup your saves before updating if you plan on continuing them.
-
->[!TIP]
->RaceMenu presets can be placed in the `[NoDelete] RaceMenu Presets` mod under the `Stock List [NoDelete]'s` separator of MO2 if you want to ensure they are saved after an update.
-
 ## Removing the Modlist
 
-Simply delete the Apostasy folder. Congratulations, you have uninstalled Apostasy.
+Simply delete the mod list folder. Congratulations, you have uninstalled the mod list.
 
 ## Issues
 
-Please check the [FAQ](https://github.com/Oghma-Infinium/Apostasy/blob/main/Documentation/FAQ.md) first if you have any issues.
-
 >[!TIP]
->If you encounter any bugs or issues while playing the list, the [Waking Dreams](https://discord.gg/4WwqfK5yHg) support server is preferred and will have the fastest turn around time for support.  Alternatively, you can leave an issue report on the Github [Issues Page](https://github.com/Oghma-Infinium/Apostasy/issues).
+>If you encounter any bugs or issues while playing the list, the [reyqune's discord server](https://discord.gg/QjBtu2JA) support server is preferred and will have the fastest turn around time for support.
 
 ## Credits and Thanks
 
 - *YOU* for reading this.
 - Everyone who contributed to the making of the included mods that are included in this here mod list
-- Aljo for making the template this readme is based on
+- The makers of the template for which this readme is based upon for making the readme this readme is based on which made it easier to make a readme
+- The wabberjack devs for making wabberjack
