@@ -12,38 +12,6 @@
 >[!IMPORTANT]
 - The game folder needs to be clean before you install/play the mod list, and the game needs to be set to English in Steam
 
-# Contents
-
-- [Contents](#contents)
-  - [Introduction](#introduction)
-    - [System Requirements](#system-requirements)
-    - [Video Guide](#video-guide)
-  - [Installation](#installation)
-    - [Pre-Installation](#pre-installation)
-      - [Installing Microsoft Visual C++ and .NET](#installing-microsoft-visual-c-and-net)
-      - [Pagefile and Crash Prevention](#pagefile-and-crash-prevention)
-      - [Setting Shader Cache Size (NVIDIA Users Only)](#setting-shader-cache-size-nvidia-users-only)
-      - [Steam Setup](#steam-setup)
-      - [Changing the Game Language](#changing-the-game-language)
-      - [Installing Rare Curios Files](#installing-rare-curios-files)
-    - [Wabbajack Installation](#wabbajack-installation)
-      - [Installing Wabbajack](#installing-wabbajack)
-      - [Downloading and Installing Apostasy](#downloading-and-installing-the-mod-list)
-    - [Problems with installation](#problems-with-installation)
-      - [Problematic Files](#problematic-files)
-  - [Post-Installation and Optional Setup](#post-installation-and-optional-setup)
-    - [Game Folder](#game-folder)
-    - [Antivirus Exceptions](#antivirus-exceptions)
-    - [Post-Installation Issues and Troubleshooting](#post-installation-issues-and-troubleshooting)
-    - [Keyboard Keybinds](#keyboard-keybinds)
-    - [Gamepad Keybinds](#gamepad-keybinds)
-  - [Playing the List](#playing-the-list)
-    - [Starting the Game](#starting-the-game)
-  - [Updating the modlist](#updating-the-modlist)
-  - [Removing the Modlist](#removing-the-modlist)
-  - [Issues](#issues)
-  - [Credits and Thanks](#credits-and-thanks)
-
 ## Introduction
 
 a mostly vanilla plus mod list with the additon of a few quality of life additions, and some visual improvements.
@@ -66,7 +34,7 @@ The listed specs are the best idea of a baseline that I can provide at the curre
 >[!WARNING]
 >
 >- An SSD is **required** to the play the modlist.
->- Only Windows 10 or 11 operating systems are supported. Windows LTSC, special variants, lightened editions or any other modified variant **WILL NOT WORK.** Linux installations may work, but aren't supported.
+>- Only Windows 10 or 11 operating systems are supported. Windows LTSC, special variants, lightened editions or any other modified variant **WILL NOT WORK.** Linux installations may work, but aren't supported. MacOS is just fully unsupported.
 
 Minimum requirements:
 
@@ -76,10 +44,6 @@ Memory: 32 GB RAM
 
 Graphics: Nvidia 2080 Super (or AMD equivalent)
 
-<Details>
-<summary>Clarification on PC Requirements</summary>
-
-</Details>
 
 Downloads Size: ~14 GB  
 Install Size: ~16 GB  
@@ -109,7 +73,7 @@ These steps are only required for installing the modlist for the first time. Add
 #### Pagefile and Crash Prevention
 
 >[!WARNING]
->Larger modlists require a significant amount of memory, running out of memory **will** result in crashes and other potential issues. Due to the mod list's size and number of files, this step is **NOT** optional. I do not care how much RAM or VRAM you have, please do this step.
+>Modern games require a significant amount of memory, running out of memory **will** result in crashes and other potential issues. Due to the mod list's size and number of files, this step is **NOT** optional. I do not care how much RAM or VRAM you have, please do this step.
 
 **To set up a Pagefile:**
 
@@ -132,17 +96,6 @@ These steps are only required for installing the modlist for the first time. Add
 >[!TIP]
 > Your pagefile does not need to be on the same drive as your Wabbajack install or Steam install.
 
-<Details>
-<summary>Bonus Reading: Why do we need a Pagefile?</summary>
-
-Skyrim is a very old game (originally released in 2011) that is built on the [Creation Engine](https://en.wikipedia.org/wiki/Creation_Engine), a engine based off of the [Gamebryo](https://en.wikipedia.org/wiki/Gamebryo) engine that was originally used for Morrowind (released in 2002).
-
-Through lots of experience and trial-and-error, we have discovered that increasing the window's pagefile can fix certain types of Skyrim crashes, the two most common examples being `Unhandled native exception occurred at 0x7FF6ADC8DDDA` and `Unhandled native exception occurred at 0x0`.
-
-But why is this? Skyrim appears to use system memory in very unexpected ways, for example it will frequently dip into the pagefile memory despite there being available RAM. Skyrim heavily favors high speed, low latency RAM (the best you can get as of writing this is 6000MHz and CL30 for DDR5).
-
-</Details>
-
 #### Setting Shader Cache Size (NVIDIA Users Only)
 
 >[!IMPORTANT]
@@ -163,49 +116,23 @@ But why is this? Skyrim appears to use system memory in very unexpected ways, fo
 >[!WARNING]
 >If you have your Steam Library in Program Files, read [this article](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) by LostDragonist. Locations such as Desktop, Documents, Downloads, OneDrive, etc. *will* cause issues with installing and playing the list.
 
- 1. Change Skyrim so it does not [automatically update](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
- 2. Right click on Skyrim SE and click on properties, untick the `Enable Steam Overlay while in-game.`
- 3. Please ensure you follow the steps outlined in the [Installing Rare Curios Files](#installing-rare-curios-files) section. **DO NOT SKIP THIS STEP OR YOUR INSTALL WILL FAIL.**
+ 1. Change Baldur's Gate 3 so it does not [automatically update](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
+ 2. Right click on Baldur's Gate 3 and click on properties, untick the `Enable Steam Overlay while in-game.`
+ 3. If it does update use the beta branch to select update 7
 
 #### Changing the Game Language
 
 >[!WARNING]
->**The English Steam version of Skyrim SE is the only supported version.**
+>**The English Steam version of Baldur's Gate 3 is the only supported version.**
 
-I understand that this may be frustrating for non-English speaking users or users with the GOG/Bethesda.net versions, but due to the core file differences between the different versions, I am only able to support one game version.
+I understand that this may be frustrating for non-English speaking users, but due to the core file differences between the different versions, I am only able to support one game version.
 
-To change your Skyrim SE's language:
+To change your Baldur's Gate 3's language:
 
- 1. Right click on Skyrim SE in Steam
+ 1. Right click on Baldur's Gate 3 in Steam
  2. Click `Properties`
  3. Click `Language`
  4. Set the Language to `English`
-
-#### Installing Rare Curios Files
->
->[!WARNING]
-> ***Do NOT skip this step or your install may fail!***
-
-From the 1.6.1130 update and onwards, Steam now ships Skyrim with its own version of the free CC files. However these files do not have the same hashes as the files that are downloaded from the in-game Creation Club menu for AE users. In order to work around this issue and make the list as accessible as possible, the list is compiled using the file hashes from the in-game CC downloads.
-
-To download Bethesda's version of Rare Curios:
-
-- Navigate to your Skyrim SE's Steam Data folder
-  - i.e. `D:\SteamLibrary\steamapps\common\Skyrim Special Edition\data`
-- Delete *both* Rare Curios files:
-  - `ccbgssse037-curios.bsa`
-  - `ccbgssse037-curios.esl`
-- Launch Skyrim SE from Steam and select **Creations** at the main menu
-- Select **Search** at the bottom and search for `Rare Curios`
-- Select the card titled `Rare Curios` and press **Download**
-- Once it is done, accept Bethesda's load order message and exit the game
-
-![](https://cdn.discordapp.com/attachments/1008055818782003421/1263168806054920283/Rare_Curios.png?ex=669a929f&is=6699411f&hm=9441dc9f4f9e95a4ac3e890de860d406884be4b88dc8e8d8309a2ff3f93830b9&)
-
->[!IMPORTANT]
->
->- **DO NOT** Alt+Tab during this process or it will fail to properly download these files
->- **DO NOT** verify your game files after doing the steps above as it will revert the "correct" file hashes for the Rare Curios files
 
 ### Wabbajack Installation
 
@@ -227,16 +154,16 @@ Once you have completed the pre-installation section, follow these steps to inst
 #### Downloading and Installing the mod list
 
 >[!CAUTION]
->**A legal copy of Skyrim Special Edition is required.** Pirated copies of the game will cause the installation to fail and even if you manage to somehow get around Wabbajack's built-in piracy prevention measures, SKSE does not work with the cracked exes.  
+>**A legal copy of Baldur's Gate 3 is required.**  
 
-Downloading and installing Apostasy can take a while depending on your internet connection, PC specs, and if you have Nexus Premium. Without Premium, you will need to manually click the **Slow Download** button for each mod.
+Downloading and installing the mod list can take a while depending on your internet connection, PC specs, and if you have Nexus Premium. Without Premium, you will need to manually click the **Slow Download** button for each mod.
 
-To install Apostasy, complete the following steps.
+To install the mod list, complete the following steps.
 
  1. Open Wabbajack and click `Browse Modlists`
- 2. Tick on the `Show Unofficial Lists` box and pick the **Skyrim Special Edition** option from the game filter drop-down box (or use the search bar to find the modlist)
- 3. Press the download arrow on the Apostasy UI card and wait for it to download
- 4. Set the `Modlist Installation Location` to a folder such as `C:\Apostasy`.
+ 2. Tick on the `Show Unofficial Lists` box and pick the **Baldur's Gate 3** option from the game filter drop-down box (or use the search bar to find the modlist)
+ 3. Press the download arrow on the the mod list UI card and wait for it to download
+ 4. Set the `Modlist Installation Location` to a folder such as `C:\modlist`.
     > - **DO NOT place it in Program Files, User folders (such as Desktop, Documents, Downloads, OneDrive, etc.), or in your Skyrim's Steam folder**
     > - The `Resource Download Location` does not need to be on an SSD, but it makes installing faster. You can set this location to an HDD for the sake of saving space.
  5. Download the files from the [Problematic Files](#problematic-files) section and place them in your designated `Resource Download Location` folder.
@@ -249,18 +176,9 @@ To install Apostasy, complete the following steps.
 It is possible that you may encounter an error with Wabbajack when installing. Some common issues are listed below.
 
 <Details>
-<summary>I'm having trouble downloading Non-Nexus files or specific files!</summary>
-
-Big files can fail to download due to connection issues or website issues. You can either run Wabbajack again or download the missing file manually. If you decide to manually download the file, make sure to place the file(s) inside the folder you set as the `Resource Download Location`.
-
-This issue can also occur with files sources from Google Drive, MEGA, Patreon, and other sites. If you are failing on a non-nexus file, then read the [Problematic Files](#problematic-files) section.
-
-</Details>
-
-<Details>
 <summary>Wabbajack couldn't find my game folder!</summary>
 
-Either buy the game or re-read the [Pre-Installation](#pre-installation) section.  
+Either buy the game, or re-read the [Pre-Installation](#pre-installation) section.  
 
 </Details>  
 
@@ -269,21 +187,7 @@ Either buy the game or re-read the [Pre-Installation](#pre-installation) section
 
 Windows 10/11 may automatically quarantine a key file which is needed for Mod Organizer. You can fix this by [adding an exclusion for Mod Organizer in windows defender](#antivirus-exceptions).  
 
-</Details>
-
-<Details>
-<summary>Unable to download 'Data_ccbgssse037-curios': </summary>
-
-Please make sure you are following the steps outlined in the [Installing Rare Curios Files](#installing-rare-curios-files) section
-
-</Details>  
-
-<Details>
-<summary>Unable to download Skyrim_Default.ini:</summary>
-
-This error means you failed to follow this Readme. Go back and follow the steps outlines in the [Changing the Game Language](#changing-the-game-language) section
-
-</Details>  
+</Details> 
 
 <Details>
 <summary>Sanity check error extracting file:</summary>
