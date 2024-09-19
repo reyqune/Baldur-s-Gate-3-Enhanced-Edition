@@ -9,6 +9,9 @@
 
 **Modlist Support: [reyqune's discord server](https://discord.gg/QjBtu2JA)**
 
+>[!IMPORTANT]
+- The game folder needs to be clean before you install/play the mod list, and the game needs to be set to English in Steam
+
 # Contents
 
 - [Contents](#contents)
@@ -314,33 +317,6 @@ If you find yourself struggling to run Wabbajack without it crashing, freezing u
 
 </Details>  
 
-#### Problematic Files
-
-Wabbajack frequently has trouble downloading mods hosted on sites other than Nexus. These files are listed below for your convenience. You will need to manually download these files and place them in the `Resource Download Location` that is made in the [Downloading and Installing Apostasy](#downloading-and-installing-apostasy) section.
-
-Google Drive Files:
-
-- [High Poly Head v1.4 (SE)](https://drive.google.com/uc?id=15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq&export=download)
-- [Dint's BDOR Hairs](https://drive.usercontent.google.com/download?id=1tpY3bDs-LR6rptf8oPUfraKs1CkxJJB3&export=download&authuser=0)
-- [Dint's HairPack 02](https://drive.usercontent.google.com/download?id=1Ts0sQz3hDxhCeS_LUnXJQFuws_qbw9YQ&authuser=0)
-- [Dint's Face Part mod](https://drive.usercontent.google.com/u/0/uc?id=1RQl8ki73fgLnzBZn6EWjneuW4Dk8TUO_&export=download)
-- [Olivier Kenjutsu Battleaxe and Warhammer](https://drive.google.com/file/d/1rX4INfO3ieWp25gPh0NiLPl1ktLoegZ9)
-
-MEGA Files:
-
-- [High Poly Head - EFA - Male Eyebrow fix](https://mega.nz/file/WZt0BDCL#JNUTn_5P2sEPuHm3znSdrrqN28tPnxvmVzeFOw67FAU)
-
-Patreon Files: (These are free to download)
-
-- [ESkyrim MCO Installer](https://www.patreon.com/file?h=68233071&i=11449877)
-- [HDT-SMP Sona Armor - Female](https://www.patreon.com/file?h=68902488&i=12781379)
-- [HDT-SMP Sona Armor - Male](https://www.patreon.com/file?h=68902488&i=13158956)
-- [Highlander Armor - Female](https://www.patreon.com/file?h=79874952&i=13365775)
-- [Highlander Armor - Male](https://www.patreon.com/file?h=79874952&i=13365782)
-- [HDT-SMP Melony Armor](https://www.patreon.com/file?h=67711235&i=10980531)
-
-## Post-Installation and Optional Setup
-
 ### Game Folder
 
 Apostasy uses a Wabbajack feature called Stock Game to keep your Skyrim installation clean. All the files that you need to run the list are in a folder called `Stock Game`. You don’t need to copy anything at all.
@@ -503,21 +479,5 @@ Please check the [FAQ](https://github.com/Oghma-Infinium/Apostasy/blob/main/Docu
 ## Credits and Thanks
 
 - *YOU* for reading this.
-- [Bingus](https://next.nexusmods.com/profile/bingusthecatto/about-me) for [Ascensio](https://github.com/Oghma-Infinium/Ascensio), ENB tweaking, asset editing, and much, much more.
-- Curly for the original iteration of Ascensio that got me started with my first modlist.
-- [Ylikollikas](https://next.nexusmods.com/profile/Ylikollikas) for a lot, I can not even begin to list what he has contributed.
-- [iAmMe27](https://ko-fi.com/iamme27) for general modding, documentation, and WJ assistance.
-- The [Waking Dreams](https://discord.gg/4WwqfK5yHg) Helpers for their time and effort playtesting, providing feedback, and support assistance.
-- Those who play tested and provided feedback during beta.
-- [Jolly Co-Operators](https://discord.gg/jolly-coop) and [Cacophony](https://www.patreon.com/cacophony1979) for their wonderful community that inspired me to start modding more.
-- [JustThatKing](https://next.nexusmods.com/profile/JustThatKing/about-me), [jdsmith2816](https://next.nexusmods.com/profile/jdsmith2816/about-me), and [Total](https://github.com/NotTotal) for their feedback and assistance when I started modding.
-- Bethesda Game Studios for Skyrim and the Creation Kit.
-- [ElminsterAU](https://www.patreon.com/ElminsterAU) and the xEdit team for SSEEdit.
-- [Noggog](https://www.nexusmods.com/skyrim/users/862590) for Mutagen and Synthesis.
-- [Halgari](https://www.nexusmods.com/skyrimspecialedition/users/17252164) and the WJ Team for the amazing platform that is Wabbajack.
-- [LivelyDismay](https://github.com/LivelyDismay) and [The Animonculory](https://github.com/The-Animonculory) for their modding guides.
-- [Sheson](https://ko-fi.com/sheson) for [DynDOLOD](https://dyndolod.info/) and associated tools.
-- [Styyx](https://github.com/Styyx1) for assisting heavily in creating DLLs for the custom mods made for the list.
-- [Aelarr](https://www.nexusmods.com/skyrim/users/6843757) and Anreme for permissions to use some custom mods from The Owl Archives server.
-- Mgde12, D1Z4STR, 半蔵 内倉, Kepler, Hencoat, nostalgic.wave, EnragedHamster, unclemestor, snowpeachcherry, Charlie Kriech, Durgenage, Pacifist Fist, Don Maker, Russell Collins, Oresh, Danimals, Monko, Anehum, hildocean, The Unattested Wombat, Ola Nordman, Regista433, Jaron Scotland, King_Sheogorath, TheRyge, Shakes, highchae, Robbie, cowbellhero55, Geero, JAYDENCITO, Nehellena, Mysthey, Echo, Scott MacLeod, Exanima, Thundertube, LELUGOLELU, ravenlake, Paultinich, icaruscien, Oracraen, Lykk3, VillainousJ, Micheal Hamm, netwolff, Nico, G1Broheim, sweeper240, calcteacher, Ark, Zenity for support on [patreon](https://www.patreon.com/aljoxo).
-- adorion1981, aexilkv, AlphaGhost47, ambo, Ananta, annakins, Atlas, Blade, BlueBeagle, Bubborus, Chef Nicnaq, Danimals, derbaer, derkaenaz, DevZan, Don Maker, doombot117, E2J, Elendil, EnragedHamster, FalseRealism / Shingee Tingee, Felivath, Forsaken Jing, freshr, FutureWorld, Gous, Gremlin, hedich, Hencoat, Jeremy, Joey, JoeyFlow, JollyTheRancher, JXEYES, Kannon555, kanpeki, Kathie Murphy, Kiqing, Lunaros, Maelstrom, Mgde12, Mike, Monko, netwolff, orca, paulogrupp, Psyguyy, rezthe0one, Roxiie, SaddestNoddles, shallow_green, skylion, Soloist, Steve, Stryn, thefrogwithnoname, Thomas Brack, Tom Curran, tyler, tyrotoxism, Victoriam, Won Pham, WoWZaton, Xtremza, Zhijia, and zidan for their support via [Ko-fi](https://ko-fi.com/aljoxo).
+- Everyone who contributed to the making of the included mods that are included in this here mod list
+- Aljo for making the template this readme is based on
