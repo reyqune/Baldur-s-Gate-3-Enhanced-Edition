@@ -10,7 +10,7 @@
   <a href="https://github.com/Oghma-Infinium/Apostasy/blob/main/Documentation/FAQ.md">FAQ</a> |
   <a href="https://github.com/Oghma-Infinium/Apostasy/blob/main/Documentation/CONFIG.md">Configuration</a> |
   <a href="https://github.com/Oghma-Infinium/Apostasy/blob/main/Documentation/ADDONS.md">ADDONS</a> |
-  <a href="https://ko-fi.com/aljoxo">Ko-fi</a> | 
+  <a href="https://ko-fi.com/reyqune">Ko-fi</a> | 
   <a href="https://www.patreon.com/aljoxo">Patreon</a> ]
 </p>
 
