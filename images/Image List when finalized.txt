@@ -1,5 +1,0 @@
-Banner.png
-Banner.webp
-Bannernew.webp
-NexusHeader.png
-Splash.png
