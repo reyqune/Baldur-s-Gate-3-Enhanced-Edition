@@ -86,28 +86,6 @@ Temporary Files: ~16 GB (on OS drive)
 
 > The **Install Size** listed on the Wabbajack Gallery is **wrong** and does not properly account of the size saved by compressing files during the installation.
 
-<Details>
-<summary>Info on Temporary Files</summary>
-
-Wabbajack typically requires around 30-40 GB of space on your main OS drive for temporary and working files during the installation, this space is not counted towards the total install space of the list for sake of this guide, however Wabbajack roughly accounts for it in the UI.
-
-</Details>
-
-<Details>
-<summary>BSA Warning</summary>
-
-Apostasy heavily employs [BSA](https://en.uesp.net/wiki/Skyrim_Mod:Archive_File_Format)s in order to keep the list's size down and improve performance. However, this means that the installation process may take longer than some other lists and you may run into issues with Wabbajack crashing if you allocate too many system resources to it. It also can potentially inflate the amount of temporary file space required by Wabbajack but this still needs to be tested and confirmed.
-
-If you are struggling with issues of Wabbajack crashing during the installation process, please read the [Problems with Installation](#problems-with-installation) section of this ReadMe.
-
-</Details>
-
-### Video Guide
-
-If you would prefer to follow along with a video guide, you can watch the Installation Guide by clicking the image below.
-
-[![](https://raw.githubusercontent.com/Oghma-Infinium/Apostasy/main/images/InstallThumbnail.png)](https://youtu.be/6IJlT_H7pvk?si=OldwShLFkc1-W9Xq)
-
 ## Installation
 
 Installing Apostasy is relatively easy and, if you have Nexus Premium, will be a simple waiting game. If you are updating the modlist, you can safely skip to the [updating section](#updating-the-modlist).
