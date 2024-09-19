@@ -9,29 +9,6 @@
 
 **Modlist Support: [reyqune's discord server](https://discord.gg/QjBtu2JA)**
 
->[!IMPORTANT]
->Only compatible with higher end Windows computers!
-
->[!WARNING]
->Minimum Requirements
-
-Requires a 64-bit processor and operating system
-
-OS: Windows 10 64-bit
-
-Processor: Intel i7 8700K / AMD r5 3600
-
-Memory: 16 GB RAM
-
-Graphics: Nvidia 2060 Super / RX 5700 XT (8GB+ of VRAM)
-
-DirectX: Version 11
-
-Storage: 150 GB available space
-
-Additional Notes: **SSD required**
-
-
 # Contents
 
 - [Contents](#contents)
@@ -66,11 +43,10 @@ Additional Notes: **SSD required**
 
 ## Introduction
 
-Apostasy is a Wabbajack modlist for Skyrim SE that offers a modern, action-oriented combat system, custom tailored gameplay, and a consistent, high-fidelity graphics overhaul. Apostasy aims to deliver a cohesive and refined experience, enhancing both visuals and mechanics.
+a mostly vanilla plus mod list with the additon of a few quality of life additions, and some visual improvements.
+the main focus is to basically be an enhanced edition of the game
 
-A full list of the mods used in this modlist can be viewed [here](https://loadorderlibrary.com/lists/Apostasy).
-
-You can find a summary of all relevant gameplay changes on the [Gameplay Guide](https://github.com/Oghma-Infinium/Apostasy/blob/main/GAMEPLAY.md) as well.
+A full list of the mods used in this modlist can be viewed on the WJ gallery page
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
@@ -87,9 +63,15 @@ The listed specs are the best idea of a baseline that I can provide at the curre
 >[!WARNING]
 >
 >- An SSD is **required** to the play the modlist.
->- Only Windows 10 or 11 operating systems are supported. Windows LTSC, special variants, lightened editions or any other modified variant **WILL NOT WORK.** Linux installations also **WILL NOT WORK**.
+>- Only Windows 10 or 11 operating systems are supported. Windows LTSC, special variants, lightened editions or any other modified variant **WILL NOT WORK.** Linux installations may work, but aren't supported.
 
-![](https://raw.githubusercontent.com/Oghma-Infinium/Apostasy/main/images/perfTarget.PNG)
+Minimum requirements:
+
+Processor: AMD r5 3600 (or Intel equivalent)
+
+Memory: 32 GB RAM
+
+Graphics: Nvidia 2080 Super (or AMD equivalent)
 
 <Details>
 <summary>Clarification on PC Requirements</summary>
