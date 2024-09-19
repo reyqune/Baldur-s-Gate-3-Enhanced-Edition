@@ -15,7 +15,7 @@
 
 ---
 
-**Modlist Support: [Waking Dreams](https://discord.gg/4WwqfK5yHg)**
+**Modlist Support: [reyqune's discord server](https://discord.gg/QjBtu2JA)**
 
 >[!IMPORTANT]
 >Apostasy requires the four free AE mods (Fishing, Rare Curios, Survival Mode, and Saints and Seducers) included in the Skyrim Anniversary Edition update from November 2021.
