@@ -76,15 +76,13 @@ Graphics: Nvidia 2080 Super (or AMD equivalent)
 <Details>
 <summary>Clarification on PC Requirements</summary>
 
-For complete clarity, my specs while building the list were a 5800X, 2080, and 32GB of RAM. This PC ran the list @ 50-60FPS on 1440p (16:9).  
-My current specs are a 7800X3D, 3080, and 32GB of RAM with some BIOS tweaks (ReBar and PBO mostly). This PC runs the list @ stable (locked) 61FPS on 1440p (16:9).
-
 </Details>
 
-Downloads Size: ~160 GB  
-Install Size: ~190 GB  
-Temporary Files: ~40 GB (on OS drive)  
-**TOTAL:** ~350 GB  
+Downloads Size: ~14 GB  
+Install Size: ~16 GB  
+Game:		~143 GB
+Temporary Files: ~16 GB (on OS drive)  
+**TOTAL:** ~175 GB
 
 > The **Install Size** listed on the Wabbajack Gallery is **wrong** and does not properly account of the size saved by compressing files during the installation.
 
