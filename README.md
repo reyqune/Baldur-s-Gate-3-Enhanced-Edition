@@ -10,7 +10,7 @@
 **Modlist Support: [reyqune's discord server](https://discord.gg/QjBtu2JA)**
 
 >[!IMPORTANT]
-- The game folder needs to be clean before you install/play the mod list, and the game needs to be set to English in Steam, so either fully remove the game and reinstall it, or manually remove any files that do not belong there.
+> The game folder needs to be clean before you install/play the mod list, and the game needs to be set to English in Steam, so either fully remove the game and reinstall it, or manually remove any files that do not belong there.
 
 ## Introduction
 
