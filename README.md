@@ -18,10 +18,18 @@
 **Modlist Support: [reyqune's discord server](https://discord.gg/QjBtu2JA)**
 
 >[!IMPORTANT]
->Apostasy requires the four free AE mods (Fishing, Rare Curios, Survival Mode, and Saints and Seducers) included in the Skyrim Anniversary Edition update from November 2021.
+>Only compatible with higher end Windows computers!
 
 >[!WARNING]
->You must update Skyrim to the latest version (1.6.1170) on Steam to install this list.
+>Minimum Requirements
+Requires a 64-bit processor and operating system
+OS: Windows 10 64-bit
+Processor: Intel i7 8700K / AMD r5 3600
+Memory: 16 GB RAM
+Graphics: Nvidia 2060 Super / RX 5700 XT (8GB+ of VRAM)
+DirectX: Version 11
+Storage: 150 GB available space
+Additional Notes: SSD required
 
 # Contents
 
