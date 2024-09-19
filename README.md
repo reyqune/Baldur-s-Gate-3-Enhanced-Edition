@@ -10,7 +10,7 @@
 **Modlist Support: [reyqune's discord server](https://discord.gg/QjBtu2JA)**
 
 >[!IMPORTANT]
-- The game folder needs to be clean before you install/play the mod list, and the game needs to be set to English in Steam
+- The game folder needs to be clean before you install/play the mod list, and the game needs to be set to English in Steam, so either fully remove the game and reinstall it, or manually remove any files that do not belong there.
 
 ## Introduction
 
@@ -166,10 +166,9 @@ To install the mod list, complete the following steps.
  4. Set the `Modlist Installation Location` to a folder such as `C:\modlist`.
     > - **DO NOT place it in Program Files, User folders (such as Desktop, Documents, Downloads, OneDrive, etc.), or in your Skyrim's Steam folder**
     > - The `Resource Download Location` does not need to be on an SSD, but it makes installing faster. You can set this location to an HDD for the sake of saving space.
- 5. Download the files from the [Problematic Files](#problematic-files) section and place them in your designated `Resource Download Location` folder.
- 6. Press the play arrow to begin.
- 7. Turn on your favorite show or a nice long video essay as Wabbajack does its thing. Alternatively read through this readme again.
- 8. If the installation is successful, then rejoice and move onto [post installation](#post-installation-and-optional-setup). If the installation is unsuccessful, follow the tips below or the [discord server](https://discord.gg/4WwqfK5yHg) for support.
+ 5. Press the play arrow to begin.
+ 6. Turn on your favorite show or a nice long video essay as Wabbajack does its thing. Alternatively read through this readme again.
+ 7. If the installation is successful, then rejoice and move onto [post installation](#post-installation-and-optional-setup). If the installation is unsuccessful, follow the tips below or the [discord server](https://discord.gg/4WwqfK5yHg) for support.
 
 ### Problems with installation
 
@@ -220,10 +219,6 @@ If you find yourself struggling to run Wabbajack without it crashing, freezing u
 > It is suggested to have a program installed on your PC that can open `.json` files, like [Notepad++](https://notepad-plus-plus.org/) or [Visual Studio Code](https://code.visualstudio.com/)
 
 </Details>  
-
-### Game Folder
-
-Apostasy uses a Wabbajack feature called Stock Game to keep your Skyrim installation clean. All the files that you need to run the list are in a folder called `Stock Game`. You don’t need to copy anything at all.
 
 ### Antivirus Exceptions
 
