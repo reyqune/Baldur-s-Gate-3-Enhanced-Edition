@@ -70,32 +70,6 @@ These steps are only required for installing the modlist for the first time. Add
 >[!WARNING]
 >If you already have Visual C++ installed, please make sure you install it again and use the `Repair` option to get the latest version of the redistributables. **Do NOT skip this step or MO2 and the game may fail to launch.**
 
-#### Pagefile and Crash Prevention
-
->[!WARNING]
->Modern games require a significant amount of memory, running out of memory **will** result in crashes and other potential issues. Due to the mod list's size and number of files, this step is **NOT** optional. I do not care how much RAM or VRAM you have, please do this step.
-
-**To set up a Pagefile:**
-
- 1. Press `Win Key + R`
- 2. Type `sysdm.cpl ,3` and hit `ENTER`
- 3. Navigate to **Performance** and click the box `Settings...`
- 4. Click the **Advanced** tab at the top
- 5. Under **Virtual Memory** click the box `Change...`
- 6. Uncheck `Automatically Manage` if it is checked
- 7. Select your disk drive, ideally your fastest solid state drive
- 8. Click `Custom Size:`
- 9. In the box next to **Initial Size (MB)**, type `40960`
- 10. In the box next to **Maximum Size (MB)**, type `40960`
- 11. Click `Set`.
- 12. Click `OK`.
- 13. Click `Apply`.
- 14. Click `OK`.
- 15. **Restart your PC**.
-
->[!TIP]
-> Your pagefile does not need to be on the same drive as your Wabbajack install or Steam install.
-
 #### Setting Shader Cache Size (NVIDIA Users Only)
 
 >[!IMPORTANT]
