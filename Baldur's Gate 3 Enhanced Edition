@@ -1,0 +1,39 @@
+[
+    {
+        "$type": "ModListMetadata, Wabbajack.Lib",
+        "title": "Baldur's Gate 3 Enhanced Edition",
+        "description": "a minimal Baldur's Gate 3 mod list",
+        "author": "reyqune",
+        "maintainers": [
+            "https://github.com/reyqune/"
+        ],
+        "game": "baldursgate3",
+        "tags": [
+            "Vanilla Plus",
+            "Cosmetics",
+            "Roleplay",
+            "Quality of Life"
+        ],
+        "nsfw": false,
+        "image_contains_title": false,
+        "force_down": false,
+        "links": {
+            "$type": "Links, Wabbajack.Lib",
+            "image": "https://raw.githubusercontent.com/reyqune/Baldur-s-Gate-3-Enhanced-Edition/main/images/banner.webp",
+            "readme": "https://github.com/reyqune/Baldur-s-Gate-3-Enhanced-Edition/blob/main/README.md",
+            "download": "https://authored-files.wabbajack.org/Baldur's%20Gate%203%20Enhanced%20Edition.wabbajack_b09d8ade-bff3-460c-a9d5-2ef7dbc68e68",
+            "machineURL": "reyqune_Baldur_s_Gate_3_Enhanced_Edition",
+            "discordURL": "https://discord.gg/QjBtu2JA"
+        },
+        "download_metadata": {
+            "$type": "DownloadMetadata, Wabbajack.Lib",
+            "Hash": "FVgYz526o48=",
+            "Size": 6839499,
+            "NumberOfArchives": 252,
+            "SizeOfArchives": 14137877905,
+            "NumberOfInstalledFiles": 3008,
+            "SizeOfInstalledFiles": 16990676478
+        },
+        "version": "1.0"
+    }
+]
