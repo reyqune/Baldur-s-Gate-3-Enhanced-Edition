@@ -256,3 +256,4 @@ Simply delete the mod list folder. Congratulations, you have uninstalled the mod
 - Everyone who contributed to the making of the included mods that are included in this here mod list
 - The makers of the template for which this readme is based upon for making the readme this readme is based on which made it easier to make a readme
 - The wabberjack devs for making wabberjack
+- the makers of the list listonomicon
