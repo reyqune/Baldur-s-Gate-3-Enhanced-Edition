@@ -1,5 +1,5 @@
 
-![](https://raw.githubusercontent.com/reyqune/Baldur-s-Gate-3-Enhanced-Edition/main/images/Banner.png)
+![](https://raw.githubusercontent.com/reyqune/Baldur-s-Gate-3-Enhanced-Edition/refs/heads/main/images/Banner.png)
 
 <p align="center">
   [ <a href="https://ko-fi.com/reyqune">Ko-fi</a> ]
