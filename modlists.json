@@ -2,7 +2,7 @@
     {
         "$type": "ModListMetadata, Wabbajack.Lib",
         "title": "Baldur's Gate 3 Enhanced Edition",
-        "description": "a minimal Baldur's Gate 3 mod list",
+        "description": "A curated Baldur's Gate 3 mod list that stays (somewhat) true to the vanilla experience, featuring a handful of quality-of-life improvements, bug fixes, and several visual enhancements for a smoother and more polished gameplay.",
         "author": "reyqune",
         "maintainers": [
             "https://github.com/reyqune/"
