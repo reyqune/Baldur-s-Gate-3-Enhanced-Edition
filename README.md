@@ -14,10 +14,9 @@
 
 ## Introduction
 
-a mostly vanilla plus mod list with the additon of a few quality of life additions, and some visual improvements.
-the main focus is to basically be an enhanced edition of the game
+A curated Baldur's Gate 3 mod list that stays (somewhat) true to the vanilla experience, featuring a handful of quality-of-life improvements, bug fixes, and several visual enhancements for a smoother and more polished gameplay.
 
-A full list of the mods used in this modlist can be viewed on the WJ gallery page
+A full list of the mods used in this modlist can be viewed [here](https://loadorderlibrary.com/lists/baldur-s-gate-3-enhanced-edition)
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
