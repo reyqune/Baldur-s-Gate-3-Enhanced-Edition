@@ -88,12 +88,12 @@ These steps are only required for installing the modlist for the first time. Add
 
 Uninstall the game completely, delete anything left of the install folder (e.g. `C:/Steam/steamapps/common/Baldurs Gate 3`), and delete the folder at `%Localappdata%\Larian Studios`. This is to ensure that no errant files are left over from any previous playthroughs and is especially important for preventing data mismatches that will block multiplayer. Cleaning everything improves the odds that the mod list works as expected by providing a blank slate to build up from. Otherwise some files like an unwanted modsettings.lsx or gustavdev could interfere with the mod list. This is especially important now with Mod.io integration and Larian's official mod manager services.
 
+Install the game through Steam, and launch it at least once, and then quit via the main menu of the game.
+
 #### Changing the Game Language
 
 >[!WARNING]
 >**The English Steam version of Baldur's Gate 3 is the only supported version.**
-
-I understand that this may be frustrating for non-English speaking users, but due to the core file differences between the different versions, I am only able to support one game version.
 
 To change your Baldur's Gate 3's language:
 
