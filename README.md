@@ -84,14 +84,9 @@ These steps are only required for installing the modlist for the first time. Add
 - Exit out of the application
 ![](https://raw.githubusercontent.com/iAmMe27/Tahrovin/main/img/ShaderCache.png)
 
-#### Steam Setup
+#### Cleaning a previously installed game setup
 
->[!WARNING]
->If you have your Steam Library in Program Files, read [this article](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) by LostDragonist. Locations such as Desktop, Documents, Downloads, OneDrive, etc. *will* cause issues with installing and playing the list.
-
- 1. Change Baldur's Gate 3 so it does not [automatically update](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
- 2. Right click on Baldur's Gate 3 and click on properties, untick the `Enable Steam Overlay while in-game.`
- 3. If it does update use the beta branch to select update 7
+Uninstall the game completely, delete anything left of the install folder (e.g. `C:/Steam/steamapps/common/Baldurs Gate 3`), and delete the folder at `%Localappdata%\Larian Studios`. This is to ensure that no errant files are left over from any previous playthroughs and is especially important for preventing data mismatches that will block multiplayer. Cleaning everything improves the odds that the mod list works as expected by providing a blank slate to build up from. Otherwise some files like an unwanted modsettings.lsx or gustavdev could interfere with the mod list. This is especially important now with Mod.io integration and Larian's official mod manager services.
 
 #### Changing the Game Language
 
@@ -106,6 +101,16 @@ To change your Baldur's Gate 3's language:
  2. Click `Properties`
  3. Click `Language`
  4. Set the Language to `English`
+
+#### Steam Setup
+
+>[!WARNING]
+>If you have your Steam Library in Program Files, read [this article](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) by LostDragonist. Locations such as Desktop, Documents, Downloads, OneDrive, etc. *will* cause issues with installing and playing the list.
+
+ 1. Change Baldur's Gate 3 so it does not [automatically update](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
+ 2. Right click on Baldur's Gate 3 and click on properties, untick the `Enable Steam Overlay while in-game.`
+ 3. If it does update use the beta branch to select update 7
+ 4. go into Steam\steamapps and [make the file appmanifest_1086940.acf read only](https://support.microsoft.com/en-us/office/make-a-document-read-only-5c25909c-46d9-4eb0-9d1f-d072a560e340) to prevent Baldur's Gate 3 from updating
 
 ### Wabbajack Installation
 
