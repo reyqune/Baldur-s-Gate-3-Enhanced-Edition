@@ -7,7 +7,7 @@
 
 ---
 
-**Modlist Support: [reyqune's discord server](https://discord.gg/kgR2NmU5)**
+**Modlist Support: [reyqune's discord server](https://discord.gg/ty62eQTdkE)**
 
 >[!IMPORTANT]
 > The game folder needs to be clean before you install/play the mod list, and the game needs to be set to English in Steam, so either fully remove the game and reinstall it, or manually remove any files that do not belong there.
@@ -146,7 +146,7 @@ To install the mod list, complete the following steps.
     > - The `Resource Download Location` does not need to be on an SSD, but it makes installing faster. You can set this location to an HDD for the sake of saving space.
  5. Press the play arrow to begin.
  6. Turn on your favorite show or a nice long video essay as Wabbajack does its thing. Alternatively read through this readme again.
- 7. If the installation is successful, then rejoice and move onto [post installation](#post-installation-and-optional-setup). If the installation is unsuccessful, follow the tips below or the [discord server](https://discord.gg/kgR2NmU5) for support.
+ 7. If the installation is successful, then rejoice and move onto [post installation](#post-installation-and-optional-setup). If the installation is unsuccessful, follow the tips below or the [discord server](https://discord.gg/ty62eQTdkE) for support.
 
 ### Problems with installation
 
@@ -252,7 +252,7 @@ Simply delete the mod list folder. Congratulations, you have uninstalled the mod
 ## Issues
 
 >[!TIP]
->If you encounter any bugs or issues while playing the list, the [reyqune's discord server](https://discord.gg/kgR2NmU5) support server is preferred and will have the fastest turn around time for support.
+>If you encounter any bugs or issues while playing the list, the [reyqune's discord server](https://discord.gg/ty62eQTdkE) support server is preferred and will have the fastest turn around time for support.
 
 ## Credits and Thanks
 
