@@ -1,7 +1,7 @@
 [
     {
         "$type": "ModListMetadata, Wabbajack.Lib",
-        "title": " ­ ",
+        "title": "Baldur's Gate 3 Enhanced Edition",
         "description": "A curated Baldur's Gate 3 mod list that stays (somewhat) true to the vanilla experience, featuring a handful of quality-of-life improvements, bug fixes, and several visual enhancements for a smoother and more polished gameplay.",
         "author": "reyqune",
         "maintainers": [
@@ -16,7 +16,7 @@
             "Complementary Character Creation Choices"
         ],
         "nsfw": false,
-        "image_contains_title": false,
+        "image_contains_title": true,
         "force_down": false,
         "links": {
             "$type": "Links, Wabbajack.Lib",
