@@ -266,7 +266,7 @@ Simply delete the mod list folder. Congratulations, you have uninstalled the mod
 
 - [*YOU*](https://www.youtube.com/watch?v=1TO48Cnl66w) for reading this.
 - [Everyone](https://www.youtube.com/watch?v=74BzSTQCl_c) who contributed to the making of the included mods that are included in this here mod list
-- The [makers of the template](https://github.com/Oghma-Infinium/Apostasy/) for which this readme is based upon for making the readme this readme is based on which made it easier to make a readme
+- [aljoxo](https://github.com/aljoxo) the [creator of the template](https://github.com/Oghma-Infinium/Apostasy/) for which this readme is based upon for making the readme this readme is based on which made it easier to make a readme
 - The wabberjack devs for making [Wabberjack](https://github.com/wabbajack-tools/wabbajack)
 - Ajax, and LillyBird the makers of the list [Listonomicon](https://www.nexusmods.com/baldursgate3/mods/8976)
 - [BaldursGoonsack](https://next.nexusmods.com/profile/BaldursGoonsack/about-me?gameId=3474) the creator of the list [Difficulty, Immersion, Quality](https://next.nexusmods.com/baldursgate3/collections/pns4qv)
