@@ -260,7 +260,7 @@ Simply delete the mod list folder. Congratulations, you have uninstalled the mod
 ## Issues
 
 >[!TIP]
->If you encounter any bugs or issues while playing the list, the [reyqune's discord server](https://discord.gg/ty62eQTdkE) support server is preferred and will have the fastest turn around time for support.
+>If you encounter any bugs or issues while playing the list, go to the [reyqune's discord server](https://discord.gg/ty62eQTdkE) for help.
 
 ## Credits and Thanks
 
