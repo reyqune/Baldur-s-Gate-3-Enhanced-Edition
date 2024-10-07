@@ -240,7 +240,7 @@ If you use Windows Defender, it is advised that you set up an exception for the 
  1. Open the settings, and go to the Gameplay section
  2. Toggle Karmic Dice off
  3. Press Save
- [](https://raw.githubusercontent.com/reyqune/Baldur-s-Gate-3-Enhanced-Edition/refs/heads/main/images/karmicDice.jpg)
+ ![](https://raw.githubusercontent.com/reyqune/Baldur-s-Gate-3-Enhanced-Edition/refs/heads/main/images/karmicDice.jpg)
 
 ## Updating the modlist
 
