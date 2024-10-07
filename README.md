@@ -270,3 +270,4 @@ Simply delete the mod list folder. Congratulations, you have uninstalled the mod
 - The wabberjack devs for making [Wabberjack](https://github.com/wabbajack-tools/wabbajack)
 - the makers of the list [Listonomicon](https://www.nexusmods.com/baldursgate3/mods/8976)
 - the creator of the list [Difficulty, Immersion, Quality](https://next.nexusmods.com/baldursgate3/collections/pns4qv)
+- the creator of the plugin that made it possible to mod BG3 in MO2, [Alvadus (zino)](https://github.com/Alvadus)
