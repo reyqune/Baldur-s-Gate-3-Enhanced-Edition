@@ -233,6 +233,14 @@ If you use Windows Defender, it is advised that you set up an exception for the 
     a. **I REPEAT, DO NOT CLICK THE UNLOCK BUTTON! YOU WILL BREAK YOUR GAME!**
  5. Select the **New Game** button.
  6. Create your lovely character.
+ 
+ ### Optionals
+ 
+ For a better gameplay experience, it's recommended to disable the Karmic Dice
+ 1. Open the settings, and go to the Gameplay section
+ 2. Toggle Karmic Dice off
+ 3. Press Save
+ [](https://raw.githubusercontent.com/reyqune/Baldur-s-Gate-3-Enhanced-Edition/refs/heads/main/images/karmicDice.jpg)
 
 ## Updating the modlist
 
