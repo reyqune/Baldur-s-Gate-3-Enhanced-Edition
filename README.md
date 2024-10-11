@@ -16,6 +16,7 @@
 
 A curated Baldur's Gate 3 mod list that stays (somewhat) true to the vanilla experience, featuring a handful of quality-of-life improvements, bug fixes, and several visual enhancements for a smoother and more polished gameplay.
 
+
 What is included:
 https://loadorderlibrary.com/lists/baldur-s-gate-3-enhanced-edition
 
@@ -23,9 +24,11 @@ https://loadorderlibrary.com/lists/baldur-s-gate-3-enhanced-edition
 - Better CPU performance
 - Camera overhaul
 - Some minor overhauls of the visuals, mostly fixes to minor issues, but also high resolution environmental textures
-- Gameplay changes are mostyle QoL changes, and bug fixes to make the overall experience less tedious
+- Gameplay changes are mostly QoL changes, and bug fixes to make the overall experience less tedious
 - There are a few gameplay changes to increase the overall difficulty via the mod [Combat Extender](https://www.nexusmods.com/baldursgate3/mods/5207)
 - Other than that the rest of the changes are bug fixes, or fixes to parts of the game that seemed broken, but weren't technically bugs
+
+
 
 A full list of the mods used in this modlist can be viewed [here](https://loadorderlibrary.com/lists/baldur-s-gate-3-enhanced-edition)
 
