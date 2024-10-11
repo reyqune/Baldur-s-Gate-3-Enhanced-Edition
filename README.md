@@ -22,7 +22,7 @@ https://loadorderlibrary.com/lists/baldur-s-gate-3-enhanced-edition
 
 - QoL additions and fixes for the UI
 - Better CPU performance
-- Camera overhaul
+- [Camera overhaul](https://www.nexusmods.com/baldursgate3/mods/945)
 - Some minor overhauls of the visuals, mostly fixes to minor issues, but also high resolution environmental textures
 - Gameplay changes are mostly QoL changes, and bug fixes to make the overall experience less tedious
 - There are a few gameplay changes to increase the overall difficulty via the mod [Combat Extender](https://www.nexusmods.com/baldursgate3/mods/5207)
