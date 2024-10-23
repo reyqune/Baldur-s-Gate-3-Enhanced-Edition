@@ -14,7 +14,9 @@
 
 ## Introduction
 
-A curated Baldur's Gate 3 mod list that stays (somewhat) true to the vanilla experience, featuring a handful of quality-of-life improvements, bug fixes, and several visual enhancements for a smoother and more polished gameplay.
+A curated Baldur's Gate 3 mod list that stays (somewhat) true to the vanilla experience but also a bit more difficult, featuring a handful of quality-of-life improvements, bug fixes, and several visual enhancements for a smoother and more polished gameplay.
+The list is meant to be played on the tactician mode difficulty, or higher. But there are options to play on lower difficulty by disabling the mod [Combat Extender](https://www.nexusmods.com/baldursgate3/mods/5207).
+It does deviate somewhat in order to have a bit more balance, most of which can be toggledd off if you prefer, but I cannot guarantee that any such changes will work perfectly fine, as the list is intended to be played as is.
 
 
 What is included:
@@ -28,6 +30,14 @@ https://loadorderlibrary.com/lists/baldur-s-gate-3-enhanced-edition
 - There are a few gameplay changes to increase the overall difficulty via the mod [Combat Extender](https://www.nexusmods.com/baldursgate3/mods/5207)
 - Other than that the rest of the changes are bug fixes, or fixes to parts of the game that seemed broken, but weren't technically bugs
 
+What the list isn't:
+- [Listonomicon](https://www.nexusmods.com/baldursgate3/mods/8976)
+- additonal races/classes
+- changes that deviate way to much from the original experience designed by Larian
+- adult mods, or frameworks
+- a kitchen sink of every mod available on nexusmods, mashed together into one strange cursed mix
+- cheats, unbalanced content, or too punishing content
+- a list to play regular honour mode, use custom mode instead. There are too many issues to break the game without mods, and it's unpredictable how these mods will affect a genuine honour mode play-through
 
 
 A full list of the mods used in this modlist can be viewed [here](https://loadorderlibrary.com/lists/baldur-s-gate-3-enhanced-edition)
@@ -58,11 +68,11 @@ Memory: 32 GB RAM
 Graphics: Nvidia 2080 Super (or AMD equivalent)
 
 
-Downloads Size: 1,76 GB  
-Install Size: 2,75 GB  
+Downloads Size: 387 MB  
+Install Size: 586 MB 
 Game:		~147 GB
-Temporary Files: ~1,76 GB (on OS drive)  
-**TOTAL:** ~151,51 GB
+Temporary Files: 198 MB (on OS drive)  
+**TOTAL:** ~148 GB
 
 > The **Install Size** listed on the Wabbajack Gallery is **wrong** and does not properly account of the size saved by compressing files during the installation.
 
@@ -246,7 +256,8 @@ If you use Windows Defender, it is advised that you set up an exception for the 
  4. Launch the "Play" Executable in MO2. The game may take several minutes to load on your first launch. Please be patient and **DO NOT** click the `Unlock` button on the MO2 prompt.
     a. **I REPEAT, DO NOT CLICK THE UNLOCK BUTTON! YOU WILL BREAK YOUR GAME!**
  5. Select the **New Game** button.
- 6. Create your lovely character.
+ 6. Select custom difficulty, and play on tactician difficulty or higher, and chose the other options as you want them to be
+ 7. Create your lovely character.
  
  ### Optionals
  
