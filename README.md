@@ -14,7 +14,7 @@
 
 ## Introduction
 
-A minimal Baldur's Gate 3 mod list that stays (somewhat) true to the vanilla experience but also a bit more difficult, featuring a handful of quality-of-life improvements, bug fixes, and several visual enhancements for a smoother and more polished gameplay.
+A minimalist curated Baldur's Gate 3 mod list that stays (somewhat) true to the vanilla experience but also a bit more difficult, featuring a handful of quality-of-life improvements, bug fixes, and several visual enhancements for a smoother and more polished gameplay.
 The list is meant to be played on the tactician mode difficulty, or higher. But there are options to play on lower difficulty by disabling the mod [Combat Extender](https://www.nexusmods.com/baldursgate3/mods/5207).
 It does deviate somewhat in order to have a bit more balance, most of which can be toggledd off if you prefer, but I cannot guarantee that any such changes will work perfectly fine, as the list is intended to be played as is.
 
