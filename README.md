@@ -71,6 +71,7 @@ Graphics: Nvidia 2080 Super (or AMD equivalent)
 Downloads Size: 387 MB  
 Install Size: 586 MB 
 Game:		~147 GB
+
 Temporary Files: 198 MB (on OS drive)  
 **TOTAL:** ~148 GB
 
