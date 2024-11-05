@@ -7,7 +7,7 @@
 
 ---
 
-**Modlist Support: [reyqune's discord server](https://discord.gg/ty62eQTdkE)**
+**mod list Support: [reyqune's discord server](https://discord.gg/ty62eQTdkE)**
 
 >[!IMPORTANT]
 > The game folder needs to be clean before you install/play the mod list, and the game needs to be set to English in Steam, so either fully remove the game and reinstall it, or manually remove any files that do not belong there.
@@ -40,7 +40,7 @@ What the list isn't:
 - a list to play regular honour mode, use custom mode instead. There are too many issues to break the game without mods, and it's unpredictable how these mods will affect a genuine honour mode play-through
 
 
-A full list of the mods used in this modlist can be viewed [here](https://loadorderlibrary.com/lists/baldur-s-gate-3-enhanced-edition)
+A full list of the mods used in this mod list can be viewed [here](https://loadorderlibrary.com/lists/baldur-s-gate-3-enhanced-edition)
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
@@ -56,7 +56,7 @@ The listed specs are the best idea of a baseline that I can provide at the curre
 
 >[!WARNING]
 >
->- An SSD is **required** to the play the modlist.
+>- An SSD is **required** to the play the mod list.
 >- Only Windows 10 or 11 operating systems are supported. Windows LTSC, special variants, lightened editions or any other modified variant **WILL NOT WORK.** Linux installations may work, but aren't supported. MacOS is just fully unsupported.
 
 Minimum requirements:
@@ -78,11 +78,11 @@ Temporary Files: 198 MB (on OS drive)
 
 ## Installation
 
-Installing the mod list is relatively easy and, if you have Nexus Premium, will be a simple waiting game. If you are updating the modlist, you can safely skip to the [updating section](#updating-the-modlist).
+Installing the mod list is relatively easy and, if you have Nexus Premium, will be a simple waiting game. If you are updating the mod list, you can safely skip to the [updating section](#updating-the-mod list).
 
 ### Pre-Installation
 
-These steps are only required for installing the modlist for the first time. Additionally, many of these steps may be covered in other modlist installs, for new users I suggest reading through here regardless.
+These steps are only required for installing the mod list for the first time. Additionally, many of these steps may be covered in other mod list installs, for new users I suggest reading through here regardless.
 
 #### Installing Microsoft Visual C++ and .NET
 
@@ -143,7 +143,7 @@ To change your Baldur's Gate 3's language:
 Once you have completed the pre-installation section, follow these steps to install Wabbajack:
 
 1. Create an empty folder named `Wabbajack` on the root of your drive, such as `C:\Wabbajack` for example.
-    > - **DO NOT place it in Program Files, User folders (such as Desktop, Documents, Downloads, OneDrive, etc.), in your Skyrim's Steam folder, or in any folders related to the modlist itself (the downloads or install folder).**
+    > - **DO NOT place it in Program Files, User folders (such as Desktop, Documents, Downloads, OneDrive, etc.), in your Skyrim's Steam folder, or in any folders related to the mod list itself (the downloads or install folder).**
     > - The `Wabbajack` folder does not need to be on an SSD, but it makes installing faster. You can set this location to be on an HDD for the sake of saving space.
 
 2. Download the [latest version of Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases/latest/download/Wabbajack.exe) and place the `Wabbajack.exe` file inside the Wabbajack folder you created in Step 1.
@@ -151,7 +151,7 @@ Once you have completed the pre-installation section, follow these steps to inst
 3. Double-click the `Wabbajack.exe` file that is now inside your Wabbajack folder to set up the program.
 
 >[!IMPORTANT]
->The list requires Wabbajack version **3.6.1.0 or later**. Installing the modlist on older versions of Wabbajack will prevent the installation from being completed.
+>The list requires Wabbajack version **3.6.1.0 or later**. Installing the mod list on older versions of Wabbajack will prevent the installation from being completed.
 
 #### Downloading and Installing the mod list
 
@@ -162,10 +162,10 @@ Downloading and installing the mod list can take a while depending on your inter
 
 To install the mod list, complete the following steps.
 
- 1. Open Wabbajack and click `Browse Modlists`
- 2. Tick on the `Show Unofficial Lists` box and pick the **Baldur's Gate 3** option from the game filter drop-down box (or use the search bar to find the modlist)
+ 1. Open Wabbajack and click `Browse mod lists`
+ 2. Tick on the `Show Unofficial Lists` box and pick the **Baldur's Gate 3** option from the game filter drop-down box (or use the search bar to find the mod list)
  3. Press the download arrow on the the mod list UI card and wait for it to download
- 4. Set the `Modlist Installation Location` to a folder such as `C:\modlist`.
+ 4. Set the `mod list Installation Location` to a folder such as `C:\modlist`.
     > - **DO NOT place it in Program Files, User folders (such as Desktop, Documents, Downloads, OneDrive, etc.), or in your Skyrim's Steam folder**
     > - The `Resource Download Location` does not need to be on an SSD, but it makes installing faster. You can set this location to an HDD for the sake of saving space.
  5. Press the play arrow to begin.
@@ -184,7 +184,7 @@ Either buy the game, or re-read the [Pre-Installation](#pre-installation) sectio
 </Details>  
 
 <Details>
-<summary>My antivirus reports a virus with the program or modlist!</summary>
+<summary>My antivirus reports a virus with the program or mod list!</summary>
 
 Windows 10/11 may automatically quarantine a key file which is needed for Mod Organizer. You can fix this by [adding an exclusion for Mod Organizer in windows defender](#antivirus-exceptions).  
 
@@ -227,7 +227,7 @@ If you find yourself struggling to run Wabbajack without it crashing, freezing u
 >[!WARNING]
 >Antivirus programs are notorious for false flagging [MO2's Virtual File System](https://stepmodifications.org/wiki/Guide:Mod_Organizer/Advanced), which can and will cause crashes and other problems. Antivirus programs like BitDefender, Norton, and Webroot are especially aggressive, and you will very likely need to fully remove them from your PC in order to actually launch the game through MO2. It is 2024, Windows Defender and being smart online is more than adequate to protect yourself from malicious software.
 
-If you use Windows Defender, it is advised that you set up an exception for the modlist.
+If you use Windows Defender, it is advised that you set up an exception for the mod list.
 
 <Details>
 <summary>Setting up Windows Defender Exceptions:</summary>
@@ -240,10 +240,6 @@ If you use Windows Defender, it is advised that you set up an exception for the 
  6. Windows Defender will prompt you with a run as administrator screen, just hit yes.
  7. Click the "Add an exclusion" button at the top and choose "Folder".
  8. Navigate to your Install folder for the list and click "Select Folder".
- 9. **(OPTIONAL)** You can repeat these steps for the other executables:
-    - ModOrganizer.exe (`[Path to Modlist]\ModOrganizer.exe`)
-    - Nemesis Unlimited Behavior Engine.exe (`[Path to Modlist]\mods\Project New Reign - Nemesis Unlimited Behavior Engine\Nemesis_Engine\Nemesis Unlimited Behavior Engine.exe`)
-    - Synthesis.exe (`[Path to Modlist]\tools\Synthesis\Synthesis.exe`)
 
 </Details>  
 
@@ -251,7 +247,7 @@ If you use Windows Defender, it is advised that you set up an exception for the 
 
 ### Starting the Game
 
- 1. Head over to your modlist installation folder (e.g. `C:\modlist`), locate an executable named `ModOrganizer.exe`, and launch it. Your first launch of Mod Organizer 2 may take several minutes due to GitHub repository downloads, so please be patient.
+ 1. Head over to your mod list installation folder (e.g. `C:\modlist`), locate an executable named `ModOrganizer.exe`, and launch it. Your first launch of Mod Organizer 2 may take several minutes due to GitHub repository downloads, so please be patient.
 
  4. Launch the "Play" Executable in MO2. The game may take several minutes to load on your first launch. Please be patient and **DO NOT** click the `Unlock` button on the MO2 prompt.
     a. **I REPEAT, DO NOT CLICK THE UNLOCK BUTTON! YOU WILL BREAK YOUR GAME!**
@@ -267,7 +263,7 @@ If you use Windows Defender, it is advised that you set up an exception for the 
  3. Press Save
  ![](https://raw.githubusercontent.com/reyqune/Baldur-s-Gate-3-Enhanced-Edition/refs/heads/main/images/karmicDice.jpg)
 
-## Updating the modlist
+## Updating the mod list
 
 Versioning for the list will adhere to the following format: `MAJOR.MINOR.PATCH`.
 
@@ -278,7 +274,7 @@ Versioning for the list will adhere to the following format: `MAJOR.MINOR.PATCH`
 
 Updating is like installing the list. Simply make sure your paths are the same and tick the `overwrite installation` button. Please keep in mind any mods you have added will be deleted when updating. To make sure that Wabbajack does not delete your self-added, mods upon updating, prefix your installed mods with `[NoDelete]`.
 
-## Removing the Modlist
+## Removing the mod list
 
 Simply delete the mod list folder. Congratulations, you have uninstalled the mod list.
 
