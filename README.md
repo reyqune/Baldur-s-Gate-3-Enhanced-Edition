@@ -11,6 +11,7 @@
 
 >[!IMPORTANT]
 > The game folder needs to be clean before you install/play the mod list, and the game needs to be set to English in Steam, so either fully remove the game and reinstall it, or manually remove any files that do not belong there.
+> The mod list will purge any modded content stored in the appdata folder, keep this in mind if you have any modded setup through the base game. As that will be purged.
 
 ## Introduction
 
