@@ -17,7 +17,7 @@
 
 A minimalist curated Baldur's Gate 3 mod list that stays (somewhat) true to the vanilla experience but also a bit more difficult, featuring a handful of quality-of-life improvements, bug fixes, and several visual enhancements for a smoother and more polished gameplay.
 The list is meant to be played on the tactician mode difficulty, or higher. But there are options to play on lower difficulty by disabling the mod [Combat Extender](https://www.nexusmods.com/baldursgate3/mods/5207).
-It does deviate somewhat in order to have a bit more balance, most of which can be toggledd off if you prefer, but I cannot guarantee that any such changes will work perfectly fine, as the list is intended to be played as is.
+It does deviate somewhat in order to have a bit more balance, most of which can be toggled off if you prefer, but I cannot guarantee that any such changes will work perfectly fine, as the list is intended to be played as is.
 
 
 What is included:
@@ -33,8 +33,8 @@ https://loadorderlibrary.com/lists/baldur-s-gate-3-enhanced-edition
 
 What the list isn't:
 - [Listonomicon](https://www.nexusmods.com/baldursgate3/mods/8976), you should go play it instead if you want what it provides, say hello to the devs from me. <3
-- additonal races/classes
-- changes that deviate way to much from the original experience designed by Larian
+- additional races/classes
+- changes that deviate way too much from the original experience designed by Larian
 - adult mods, or frameworks
 - a kitchen sink of every mod available on nexusmods, mashed together into one strange cursed mix
 - cheats, unbalanced content, or too punishing content
@@ -165,7 +165,7 @@ To install the mod list, complete the following steps.
 
  1. Open Wabbajack and click `Browse mod lists`
  2. Tick on the `Show Unofficial Lists` box and pick the **Baldur's Gate 3** option from the game filter drop-down box (or use the search bar to find the mod list)
- 3. Press the download arrow on the the mod list UI card and wait for it to download
+ 3. Press the download arrow on the mod list UI card and wait for it to download
  4. Set the `mod list Installation Location` to a folder such as `C:\modlist`.
     > - **DO NOT place it in Program Files, User folders (such as Desktop, Documents, Downloads, OneDrive, etc.), or in your Skyrim's Steam folder**
     > - The `Resource Download Location` does not need to be on an SSD, but it makes installing faster. You can set this location to an HDD for the sake of saving space.
@@ -253,7 +253,7 @@ If you use Windows Defender, it is advised that you set up an exception for the 
  4. Launch the "Play" Executable in MO2. The game may take several minutes to load on your first launch. Please be patient and **DO NOT** click the `Unlock` button on the MO2 prompt.
     a. **I REPEAT, DO NOT CLICK THE UNLOCK BUTTON! YOU WILL BREAK YOUR GAME!**
  5. Select the **New Game** button.
- 6. Select custom difficulty, and play on tactician difficulty or higher, and chose the other options as you want them to be
+ 6. Select custom difficulty, and play on tactician difficulty or higher, and choose the other options as you want them to be
  7. Create your lovely character.
  
  ### Optionals
