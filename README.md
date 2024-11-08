@@ -72,7 +72,7 @@ Graphics: Nvidia 2080 Super (or AMD equivalent)
 Downloads Size: 387 MB<br/>  
 Install Size: 594 MB<br/> 
 Game:		~147 GB<br/>
-Temporary Files: 198 MB (on OS drive)<br/>
+Temporary Files: 198 MB (on the OS drive)<br/>
 **TOTAL:** ~148 GB<br/>
 
 > The **Install Size** listed on the Wabbajack Gallery is **wrong** and does not properly account of the size saved by compressing files during the installation.
