@@ -88,7 +88,7 @@ These steps are only required for installing the mod list for the first time. Ad
 #### Installing Microsoft Visual C++ and .NET
 
  1. Install [Visual C++ x64](https://aka.ms/vs/17/release/vc_redist.x64.exe).
- 2. Install [.NET Runtime 8.X.X Desktop x64](https://dotnet.microsoft.com/en-us/download/dotnet/8.0).
+ 2. Install [.NET Runtime 8.X.X Desktop x64](https://download.visualstudio.microsoft.com/download/pr/4e4fef83-93d2-4bff-bc74-2c1b0623fbfb/f40b7f2752c23bd0a1046a2a8ed887c5/dotnet-runtime-8.0.4-win-x64.exe).
  3. Install [.NET 6.0 Runtime Desktop x64](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.30-windows-x64-installer).
 
 >[!WARNING]
