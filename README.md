@@ -134,8 +134,7 @@ To change your Baldur's Gate 3's language:
 
  1. Change Baldur's Gate 3 so it does not [automatically update](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
  2. Right click on Baldur's Gate 3 and click on properties, untick the `Enable Steam Overlay while in-game.`
- 3. If it does update use the beta branch to select update 7
- 4. go into Steam\steamapps and [make the file appmanifest_1086940.acf read only](https://support.microsoft.com/en-us/office/make-a-document-read-only-5c25909c-46d9-4eb0-9d1f-d072a560e340) to prevent Baldur's Gate 3 from updating
+ 3. go into Steam\steamapps and [make the file appmanifest_1086940.acf read only](https://support.microsoft.com/en-us/office/make-a-document-read-only-5c25909c-46d9-4eb0-9d1f-d072a560e340) to prevent Baldur's Gate 3 from updating
 
 ### Wabbajack Installation
 
