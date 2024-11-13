@@ -10,12 +10,12 @@
         "game": "baldursgate3",
         "tags": [
             "Official",
-			"Quality of Life",
+            "Quality of Life",
             "Visual Enhancements",
             "Lore Friendly",
             "Balance Enhancements"
         ],
-		"official": true,
+        "official": true,
         "nsfw": false,
         "image_contains_title": true,
         "force_down": false,
@@ -30,11 +30,11 @@
         "download_metadata": {
             "$type": "DownloadMetadata, Wabbajack.Lib",
             "Hash": "cMk376HiQ1g=",
-    "Size": 35448612,
-    "NumberOfArchives": 143,
-    "SizeOfArchives": 274693384,
-    "NumberOfInstalledFiles": 2141,
-    "SizeOfInstalledFiles": 614978288
+            "Size": 35448612,
+            "NumberOfArchives": 143,
+            "SizeOfArchives": 274693384,
+            "NumberOfInstalledFiles": 2141,
+            "SizeOfInstalledFiles": 614978288
         },
         "version": "1.1.6"
     }
