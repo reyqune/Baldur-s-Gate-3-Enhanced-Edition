@@ -9,11 +9,13 @@
         ],
         "game": "baldursgate3",
         "tags": [
-            "Quality of Life",
+            "Official",
+			"Quality of Life",
             "Visual Enhancements",
             "Lore Friendly",
             "Balance Enhancements"
         ],
+		"official": true,
         "nsfw": false,
         "image_contains_title": true,
         "force_down": false,
