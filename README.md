@@ -12,6 +12,7 @@
 >[!IMPORTANT]
 > The game folder needs to be clean before you install/play the mod list, and the game needs to be set to English in Steam, so either fully remove the game and reinstall it, or manually remove any files that do not belong there.<br/>
 > The mod list will purge any modded content stored in the appdata folder, keep this in mind if you have any modded setup through the base game. As that will be purged.<br/>
+> Do not have the baldur's gate 3 tool kit installed<br/>
 
 ## Introduction
 
@@ -110,6 +111,8 @@ These steps are only required for installing the mod list for the first time. Ad
 ![](https://raw.githubusercontent.com/iAmMe27/Tahrovin/main/img/ShaderCache.png)
 
 #### Cleaning a previously installed game setup
+
+Uinstall the Baldur's Gate 3 Tool Kit
 
 Uninstall the game completely, delete anything left of the install folder (e.g. `C:/Steam/steamapps/common/Baldurs Gate 3`), and delete the folder at `%Localappdata%\Larian Studios`. This is to ensure that no errant files are left over from any previous playthroughs and is especially important for preventing data mismatches that will block multiplayer. Cleaning everything improves the odds that the mod list works as expected by providing a blank slate to build up from. Otherwise some files like an unwanted modsettings.lsx or gustavdev could interfere with the mod list. This is especially important now with Mod.io integration and Larian's official mod manager services.
 
