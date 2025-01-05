@@ -61,20 +61,25 @@ The listed specs are the best idea of a baseline that I can provide at the curre
 >- An SSD is **required** to the play the mod list.
 >- Only Windows 10 or 11 operating systems are supported. Windows LTSC, special variants, lightened editions or any other modified variant **WILL NOT WORK.** Linux installations may work, but aren't supported. MacOS is just fully unsupported.
 
-Minimum requirements:
+    Minimum:
+        Requires a 64-bit processor and operating system
+        OS: Windows 10 64-bit
+        Processor: Intel I5 4690 / AMD FX 8350
+        Memory: 8 GB RAM
+        Graphics: Nvidia GTX 970 / RX 480 (4GB+ of VRAM)
+        DirectX: Version 11
+        Storage: 150 GB available space
+        Additional Notes: SSD required
 
-Processor: AMD r5 3600 (or Intel equivalent)
-
-Memory: 32 GB RAM
-
-Graphics: Nvidia 2080 Super (or AMD equivalent)
-
-
-Downloads Size: 387 MB<br/>  
-Install Size: 594 MB<br/> 
-Game:		~147 GB<br/>
-Temporary Files: 198 MB (on the OS drive)<br/>
-**TOTAL:** ~148 GB<br/>
+    Recommended:
+        Requires a 64-bit processor and operating system
+        OS: Windows 10 64-bit
+        Processor: Intel i7 8700K / AMD r5 3600
+        Memory: 16 GB RAM
+        Graphics: Nvidia 2060 Super / RX 5700 XT (8GB+ of VRAM)
+        DirectX: Version 11
+        Storage: 150 GB available space
+        Additional Notes: SSD required
 
 > The **Install Size** listed on the Wabbajack Gallery is **wrong** and does not properly account of the size saved by compressing files during the installation.
 
