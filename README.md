@@ -61,16 +61,6 @@ The listed specs are the best idea of a baseline that I can provide at the curre
 >- An SSD is **required** to the play the mod list.
 >- Only Windows 10 or 11 operating systems are supported. Windows LTSC, special variants, lightened editions or any other modified variant **WILL NOT WORK.** Linux installations may work, but aren't supported. MacOS is just fully unsupported.
 
-    Minimum:
-        Requires a 64-bit processor and operating system
-        OS: Windows 10 64-bit
-        Processor: Intel I5 4690 / AMD FX 8350
-        Memory: 8 GB RAM
-        Graphics: Nvidia GTX 970 / RX 480 (4GB+ of VRAM)
-        DirectX: Version 11
-        Storage: 150 GB available space
-        Additional Notes: SSD required
-
     Recommended:
         Requires a 64-bit processor and operating system
         OS: Windows 10 64-bit
