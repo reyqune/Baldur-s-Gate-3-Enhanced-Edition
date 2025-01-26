@@ -10,7 +10,7 @@
 **mod list Support: [reyqune's discord server](https://discord.gg/ty62eQTdkE)**
 
 >[!IMPORTANT]
-> Basic reading ability is needed to fully enjoy this game.
+> Basic reading ability is needed to fully enjoy this game.<br/>
 > The game folder needs to be clean before you install/play the mod list, and the game needs to be set to English in Steam, so either fully remove the game and reinstall it, or manually remove any files that do not belong there.<br/>
 > The mod list will purge any modded content stored in the appdata folder, keep this in mind if you have any modded setup through the base game. As that will be purged.<br/>
 > Do not have the baldur's gate 3 tool kit installed<br/>
