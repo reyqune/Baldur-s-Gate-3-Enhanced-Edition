@@ -59,6 +59,7 @@ The listed specs are the best idea of a baseline that I can provide at the curre
 
 >[!WARNING]
 >
+>- Basic reading ability is needed to fully enjoy this game.
 >- An SSD is **required** to the play the mod list.
 >- Only Windows 10 or 11 operating systems are supported. Windows LTSC, special variants, lightened editions or any other modified variant **WILL NOT WORK.** Linux installations may work, but aren't supported. MacOS is just fully unsupported.
 
