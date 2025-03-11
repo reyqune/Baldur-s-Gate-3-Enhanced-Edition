@@ -26,7 +26,6 @@ What is included:
 https://loadorderlibrary.com/lists/baldur-s-gate-3-enhanced-edition
 
 - QoL additions and fixes for the UI
-- Better CPU performance
 - [Camera overhaul](https://www.nexusmods.com/baldursgate3/mods/945)
 - Some minor overhauls of the visuals, mostly fixes to minor issues.
 - Gameplay changes are mostly QoL changes, and bug fixes to make the overall experience less tedious, and a few balance changes like via the mod [Relative Ability Boost Items](https://www.nexusmods.com/baldursgate3/mods/11057).
