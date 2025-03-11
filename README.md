@@ -34,7 +34,7 @@ https://loadorderlibrary.com/lists/baldur-s-gate-3-enhanced-edition
 - Other than that the rest of the changes are bug fixes, or fixes to parts of the game that seemed broken, but weren't technically bugs
 
 What the list isn't:
-- [Listonomicon](https://www.nexusmods.com/baldursgate3/mods/8976), you should go play it instead if you want what it provides, say hello to the devs from me. <3
+- [Listonomicon](https://www.nexusmods.com/baldursgate3/mods/15237), you should go play it instead if you want what it provides, say hello to the devs from me. <3
 - additional races/classes
 - changes that deviate way too much from the original experience designed by Larian
 - adult mods, or frameworks
@@ -299,6 +299,6 @@ Simply delete the mod list folder. Congratulations, you have uninstalled the mod
 - [Everyone](https://www.youtube.com/watch?v=74BzSTQCl_c) who contributed to the making of the included mods that are included in this here mod list
 - [aljoxo](https://github.com/aljoxo) the [creator of the template](https://github.com/Oghma-Infinium/Apostasy/) for which this readme is based upon for making the readme this readme is based on which made it easier to make a readme
 - The wabberjack devs for making [Wabberjack](https://github.com/wabbajack-tools/wabbajack)
-- [Ajax](https://github.com/ajaxxxxxxxx), and [LillyBird](https://linktr.ee/lillybird69) the creators of the list [Listonomicon](https://www.nexusmods.com/baldursgate3/mods/8976)
+- [Ajax](https://github.com/ajaxxxxxxxx), and [LillyBird](https://linktr.ee/lillybird69) the creators of the list [Listonomicon](https://www.nexusmods.com/baldursgate3/mods/15237)
 - [BaldursGoonsack](https://next.nexusmods.com/profile/BaldursGoonsack/about-me?gameId=3474) the creator of the list [Difficulty, Immersion, Quality](https://next.nexusmods.com/baldursgate3/collections/pns4qv)
 - the creator of the plugin that made it possible to mod BG3 in MO2, [Alvadus (zino)](https://github.com/Alvadus)
