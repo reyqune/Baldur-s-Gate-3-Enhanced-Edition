@@ -86,6 +86,7 @@ The listed specs are the best idea of a baseline that I can provide at the curre
 Installing the mod list is relatively easy and, if you have Nexus Premium, will be a simple waiting game. If you are updating the mod list, you can safely skip to the [updating section](#updating-the-mod list).
 
 >[!WARNING]
+>
 > You have to install the mod list to the same drive where the game is installed.
 
 ### Pre-Installation
