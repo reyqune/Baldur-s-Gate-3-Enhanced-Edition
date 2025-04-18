@@ -2,7 +2,7 @@
     {
         "$type": "ModListMetadata, Wabbajack.Lib",
         "title": "Baldur's Gate 3 Enhanced Edition",
-        "description": "A minimalist curated Baldur's Gate 3 mod list that stays (somewhat) true to the vanilla experience but also a bit more difficult, featuring a handful of quality-of-life improvements, and bug fixes for a smoother and more polished gameplay.",
+        "description": "Includes QoL improvements, UI overhauls, bug fixes, visual upgrades, combat balance, difficulty tweaks, and light story/dialogue edits—designed to enhance the experience without straying from the core feel and intent of the original game.",
         "author": "reyqune",
         "maintainers": [
             "https://github.com/reyqune/"
@@ -12,7 +12,8 @@
             "Official",
             "Quality of Life",
             "Visual Enhancements",
-            "Balance Enhancements"
+            "Balance Enhancements",
+			"Difficulty"
         ],
         "official": true,
         "nsfw": false,
