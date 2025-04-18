@@ -25,12 +25,9 @@ It does deviate somewhat in order to have a bit more balance, most of which can 
 What is included:
 https://loadorderlibrary.com/lists/baldur-s-gate-3-enhanced-edition
 
-- QoL additions and fixes for the UI
-- [Camera overhaul](https://www.nexusmods.com/baldursgate3/mods/945)
-- Some minor overhauls of the visuals, mostly fixes to minor issues.
-- Gameplay changes are mostly QoL changes, and bug fixes to make the overall experience less tedious, and a few balance changes like via the mod [Relative Ability Boost Items](https://www.nexusmods.com/baldursgate3/mods/11057).
-- There are a few gameplay changes to increase the overall difficulty via the mod [Combat Extender](https://www.nexusmods.com/baldursgate3/mods/5207)
-- Other than that the rest of the changes are bug fixes, or fixes to parts of the game that seemed broken, but weren't technically bugs
+- Quality of life additions that makes the experience so much smoother in general.
+- Game balance overhaul that makes the gameplay require more tactical thinking, but without deviating too much from the base experience. This includes both new tools for tackling challenges, but also overhauls for those challenges.
+
 
 What the list isn't:
 - [Listonomicon](https://www.nexusmods.com/baldursgate3/mods/15237), you should go play it instead if you want what it provides, say hello to the devs from me. <3
