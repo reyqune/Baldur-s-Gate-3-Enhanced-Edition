@@ -28,6 +28,7 @@ https://loadorderlibrary.com/lists/baldur-s-gate-3-enhanced-edition
 - Quality of life additions that makes the experience so much smoother in general.
 - The rebalanced gameplay, featuring more challenging enemy encounters with enhanced tactics, necessitates a shift in strategy; while Wi-Fi potions offer convenient healing, their stacking limitations now encourage players to either incorporate a dedicated healer or explore alternative healing methods to survive the increased brutality of combat.
 - Mistakes have consequences, tactical thikinging and smart choices are rewarded.
+- Attunement means you'll have to reconsider distribution, and use of powerful equipment.
 - Multiple UI options for several different Aspect ratios, 16:9, 16:10, and Ultrawide are available to choose from in Mod Organizer 2
 
 
