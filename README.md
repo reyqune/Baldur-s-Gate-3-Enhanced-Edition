@@ -26,7 +26,9 @@ What is included:
 https://loadorderlibrary.com/lists/baldur-s-gate-3-enhanced-edition
 
 - Quality of life additions that makes the experience so much smoother in general.
-- Game balance overhaul that makes the gameplay require more tactical thinking, but without deviating too much from the base experience. This includes both new tools for tackling challenges, but also overhauls for those challenges.
+- The rebalanced gameplay, featuring more challenging enemy encounters with enhanced tactics, necessitates a shift in strategy; while Wi-Fi potions offer convenient healing, their stacking limitations now encourage players to either incorporate a dedicated healer or explore alternative healing methods to survive the increased brutality of combat.
+- Mistakes have consequences, tactical thikinging and smart choices are rewarded.
+- Multiple UI options for several different Aspect ratios, 16:9, 16:10, and Ultrawide are available to choose from in Mod Organizer 2
 
 
 What the list isn't:
@@ -35,8 +37,8 @@ What the list isn't:
 - changes that deviate way too much from the original experience designed by Larian
 - adult mods, or frameworks
 - a kitchen sink of every mod available on nexusmods, mashed together into one strange cursed mix
-- cheats, unbalanced content, or too punishing content
-- a list to play regular honour mode, use custom mode instead. There are too many issues to break the game without mods, and it's unpredictable how these mods will affect a genuine honour mode play-through
+- cheats, unbalanced content, too punishing content, or too easy content. (Or rather that all depends on your skill as a player obviously ;))
+- a list to play regular honour mode, use custom mode instead. There are too many issues to break the game without mods, and it's unpredictable how these mods will affect a genuine honour mode play-through.
 
 
 A full list of the mods used in this mod list can be viewed [here](https://loadorderlibrary.com/lists/baldur-s-gate-3-enhanced-edition)
@@ -79,13 +81,11 @@ The listed specs are the best idea of a baseline that I can provide at the curre
         Storage: 150 GB available space
         Additional Notes: SSD required
 
-> The **Install Size** listed on the Wabbajack Gallery is **wrong** and does not properly account of the size saved by compressing files during the installation.
-
 ## Installation
 
 Installing the mod list is relatively easy and, if you have Nexus Premium, will be a simple waiting game. If you are updating the mod list, you can safely skip to the [updating section](#updating-the-mod list).
 
-> Install the mod list to the same drive where the game is installed.
+>[!WARNING] Install the mod list to the same drive where the game is installed.
 
 ### Pre-Installation
 
