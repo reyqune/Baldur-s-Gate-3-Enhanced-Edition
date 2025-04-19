@@ -17,7 +17,7 @@
 
 ## Introduction
 
-Breathing new life into the realms with improved quality of life, vanquished bugs, enriched visuals, and finely tuned combat balance — all forged with reverence for the spirit of the original adventure.
+Breathes new life into the realms with improved quality of life, vanquished bugs, enriched visuals, and finely tuned combat balance — all forged with reverence for the spirit of the original adventure.
 
 
 What is included:
