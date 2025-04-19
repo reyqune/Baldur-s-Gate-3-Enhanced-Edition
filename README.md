@@ -20,7 +20,7 @@
 Breathes new life into the realms with improved quality of life, vanquished bugs, enriched visuals, and finely tuned combat balance — all forged with reverence for the spirit of the original adventure.
 
 
-What is included:
+What the list is:
 
 - Quality of life additions for the user interface to make the experience smoother, also includes multiple options for several different Aspect ratios, 16:9, 16:10, and Ultrawide are available to choose from in Mod Organizer 2. Also includes accessibility options.
 - Enriched visuals that makes the world become more alive, but also with several options for personal preference.
