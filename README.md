@@ -17,20 +17,19 @@
 
 ## Introduction
 
-Breathing new life into the realms with improved quality of life, vanquished bugs, enriched visuals, finely tuned combat balance, and ever more savage skirmishes — all forged with reverence for the spirit of the original adventure.
-The list is meant to be played on the tactician mode difficulty, or higher. But there are options to play on lower difficulty by disabling the mod [Combat Extender](https://www.nexusmods.com/baldursgate3/mods/5207).
-It does deviate somewhat in order to have a bit more balance, most of which can be toggled off if you prefer, but I cannot guarantee that any such changes will work perfectly fine, as the list is intended to be played as is.
+Breathing new life into the realms with improved quality of life, vanquished bugs, enriched visuals, and finely tuned combat balance — all forged with reverence for the spirit of the original adventure.
 
 
 What is included:
 https://loadorderlibrary.com/lists/baldur-s-gate-3-enhanced-edition
 
-- Quality of life additions that makes the experience so much smoother in general.
-- The rebalanced gameplay, featuring more challenging enemy encounters with enhanced tactics, necessitates a shift in strategy; while Wi-Fi potions offer convenient healing, their stacking limitations now encourage players to either incorporate a dedicated healer or explore alternative healing methods to survive the increased brutality of combat.
-- Mistakes have consequences, tactical thikinging and smart choices are rewarded.
-- Attunement means you'll have to reconsider distribution, and use of powerful equipment.
-- Multiple UI options for several different Aspect ratios, 16:9, 16:10, and Ultrawide are available to choose from in Mod Organizer 2
-
+- Quality of life additions for the user interface to make the experience smoother, also includes multiple options for several different Aspect ratios, 16:9, 16:10, and Ultrawide are available to choose from in Mod Organizer 2. Also includes accesability options.
+- Enriched visuals that makes the world become more alive, but also with several options for personal preference.
+- Qualiy of Life additions for the gameplay that makes it overall less tedious, but without deviating too much from the original experience, or breaking the game balance.
+- Bug fixes to resolve several issues that still remain in the game even in Patch 8
+- Overhauls to gameplay that makes the gameplay more balanced, both with nerfs, and buffs for both the player characters, and the enemies.
+- Minor overhauls to a few story elements to make them smoother
+- A template to use to build a mod list of your own based on, the mods are clearly categorised.
 
 What the list isn't:
 - [Listonomicon](https://www.nexusmods.com/baldursgate3/mods/15237), you should go play it instead if you want what it provides, say hello to the devs from me. <3
