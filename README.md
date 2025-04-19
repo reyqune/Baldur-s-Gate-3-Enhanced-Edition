@@ -21,7 +21,6 @@ Breathing new life into the realms with improved quality of life, vanquished bug
 
 
 What is included:
-https://loadorderlibrary.com/lists/baldur-s-gate-3-enhanced-edition
 
 - Quality of life additions for the user interface to make the experience smoother, also includes multiple options for several different Aspect ratios, 16:9, 16:10, and Ultrawide are available to choose from in Mod Organizer 2. Also includes accesability options.
 - Enriched visuals that makes the world become more alive, but also with several options for personal preference.
