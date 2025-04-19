@@ -53,7 +53,7 @@ A full list of the mods used in this mod list can be viewed [here](https://loado
 
 ### System Requirements
 
-The listed specs are the best idea of a baseline that I can provide at the current moment, based on feedback I have gotten from testers and my own experiences. In the future this will be updated depending on feedback received. Your PC may run the list better or worse due a variety of reasons, **I will not provide troubleshooting or support for hardware related issues.**
+**I will not provide troubleshooting or support for hardware related issues.**
 
 >[!WARNING]
 >
