@@ -27,6 +27,7 @@ What is included:
 - Qualiy of Life additions for the gameplay that makes it overall less tedious, but without deviating too much from the original experience, or breaking the game balance.
 - Bug fixes to resolve several issues that still remain in the game even in Patch 8
 - Overhauls to gameplay that makes the gameplay more balanced, both with nerfs, and buffs for both the player characters, and the enemies.
+- Even though the list was built to be played at Tactician+, you can also play it at any other difficulty level too.
 - Minor overhauls to a few story elements to make them smoother
 - A template to use to build a mod list of your own based on, the mods are clearly categorised.
 
