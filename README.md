@@ -12,7 +12,7 @@
 >[!IMPORTANT]
 > The ability to read is needed to fully enjoy this game.<br/>
 > The game folder needs to be clean before you install/play the mod list, and the game needs to be set to English in Steam, so either fully remove the game and reinstall it, or manually remove any files that do not belong there.<br/>
-> The mod list will purge any modded content stored in the appdata folder, keep this in mind if you have any modded setup through the base game. As that will be purged.<br/>
+> The modlist will purge any modded content stored in the AppData folder. Keep this in mind if you have any modded setups through the base game, as they will be removed.<br/>
 > Do not have the baldur's gate 3 tool kit installed<br/>
 
 ## Introduction
@@ -22,7 +22,7 @@ Breathing new life into the realms with improved quality of life, vanquished bug
 
 What is included:
 
-- Quality of life additions for the user interface to make the experience smoother, also includes multiple options for several different Aspect ratios, 16:9, 16:10, and Ultrawide are available to choose from in Mod Organizer 2. Also includes accesability options.
+- Quality of life additions for the user interface to make the experience smoother, also includes multiple options for several different Aspect ratios, 16:9, 16:10, and Ultrawide are available to choose from in Mod Organizer 2. Also includes accessibility options.
 - Enriched visuals that makes the world become more alive, but also with several options for personal preference.
 - Qualiy of Life additions for the gameplay that makes it overall less tedious, but without deviating too much from the original experience, or breaking the game balance.
 - Bug fixes to resolve several issues that still remain in the game even in Patch 8
@@ -57,9 +57,8 @@ The listed specs are the best idea of a baseline that I can provide at the curre
 
 >[!WARNING]
 >
->- The ability to read is needed to fully enjoy this game.
->- An SSD is **required** to the play the mod list.
->- Only Windows 10 or 11 operating systems are supported. Windows LTSC, special variants, lightened editions or any other modified variant **WILL NOT WORK.** Linux installations may work, but aren't supported. MacOS is just fully unsupported.
+>- An SSD is **required** to the play the modlist.
+>- Only Windows 10 or 11 operating systems are supported. Windows LTSC, special variants, lightened editions or any other modified variant **will not work.** Linux installations may work, but aren't supported. MacOS is just fully unsupported.
 
     Minimum:
         Requires a 64-bit processor and operating system
@@ -119,9 +118,9 @@ These steps are only required for installing the mod list for the first time. Ad
 
 #### Cleaning a previously installed game setup
 
-Uinstall the Baldur's Gate 3 Tool Kit
+Uninstall the Baldur's Gate 3 Toolkit
 
-Uninstall the game completely, delete anything left of the install folder (e.g. `C:/Steam/steamapps/common/Baldurs Gate 3`), and delete the folder at `%Localappdata%\Larian Studios`. This is to ensure that no errant files are left over from any previous playthroughs and is especially important for preventing data mismatches that will block multiplayer. Cleaning everything improves the odds that the mod list works as expected by providing a blank slate to build up from. Otherwise some files like an unwanted modsettings.lsx or gustavdev could interfere with the mod list. This is especially important now with Mod.io integration and Larian's official mod manager services.
+Uninstall the game completely, delete anything left of the install folder (e.g. `C:/Steam/steamapps/common/Baldurs Gate 3`), and delete the folder at `%Localappdata%\Larian Studios`. This is to ensure that no errant files are left over from any previous playthroughs and is especially important for preventing data mismatches that will block multiplayer. Cleaning everything improves the odds that the modlist works as expected by providing a blank slate to build up from. Otherwise some files like an unwanted modsettings.lsx or gustavdev could interfere with the mod list. This is especially important now with Mod.io integration and Larian's official mod manager services.
 
 Install the game through Steam, and launch it at least once, and then quit via the main menu of the game.
 
