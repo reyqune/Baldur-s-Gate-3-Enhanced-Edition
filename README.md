@@ -13,7 +13,7 @@
 > The ability to read is needed to fully enjoy this game.<br/>
 > The game folder needs to be clean before you install/play the mod list, and the game needs to be set to English in Steam, so either fully remove the game and reinstall it, or manually remove any files that do not belong there.<br/>
 > The modlist will purge any modded content stored in the AppData folder. Keep this in mind if you have any modded setups through the base game, as they will be removed.<br/>
-> Do not have the baldur's gate 3 tool kit installed<br/>
+> Do not have the Baldur's Gate 3 Toolkit installed<br/>
 
 ## Introduction
 
