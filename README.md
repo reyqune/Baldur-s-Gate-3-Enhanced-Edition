@@ -127,7 +127,8 @@ Install the game through Steam/GOG, and launch it at least once, and then quit v
 #### Changing the Game Language
 
 >[!WARNING]
->**The English Steam version of Baldur's Gate 3 is the only supported version.**
+>**The English version of Baldur's Gate 3 is the only supported version.**
+> Other versions MAY work, but will end up being a combination of that language, and partially English.
 
 To change your Baldur's Gate 3's language:
 Steam:
