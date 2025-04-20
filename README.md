@@ -11,7 +11,7 @@
 
 >[!IMPORTANT]
 > The ability to read is needed to fully enjoy this game.<br/>
-> The game folder needs to be clean before you install/play the mod list, and the game needs to be set to English in Steam, so either fully remove the game and reinstall it, or manually remove any files that do not belong there.<br/>
+> The game folder needs to be clean before you install/play the mod list, and the game needs to be set to English in Steam/GOG, so either fully remove the game and reinstall it, or manually remove any files that do not belong there.<br/>
 > The modlist will purge any modded content stored in the AppData folder. Keep this in mind if you have any modded setups through the base game, as they will be removed.<br/>
 > Do not have the Baldur's Gate 3 Toolkit installed<br/>
 
@@ -122,7 +122,7 @@ Uninstall the Baldur's Gate 3 Toolkit
 
 Uninstall the game completely, delete anything left of the install folder (e.g. `C:/Steam/steamapps/common/Baldurs Gate 3`), and delete the folder at `%Localappdata%\Larian Studios`. This is to ensure that no errant files are left over from any previous playthroughs and is especially important for preventing data mismatches that will block multiplayer. Cleaning everything improves the odds that the modlist works as expected by providing a blank slate to build up from. Otherwise some files like an unwanted modsettings.lsx or gustavdev could interfere with the mod list. This is especially important now with Mod.io integration and Larian's official mod manager services.
 
-Install the game through Steam, and launch it at least once, and then quit via the main menu of the game.
+Install the game through Steam/GOG, and launch it at least once, and then quit via the main menu of the game.
 
 #### Changing the Game Language
 
@@ -130,20 +130,13 @@ Install the game through Steam, and launch it at least once, and then quit via t
 >**The English Steam version of Baldur's Gate 3 is the only supported version.**
 
 To change your Baldur's Gate 3's language:
-
+Steam:
  1. Right click on Baldur's Gate 3 in Steam
  2. Click `Properties`
  3. Click `Language`
  4. Set the Language to `English`
-
-#### Steam Setup
-
->[!WARNING]
->If you have your Steam Library in Program Files, read [this article](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) by LostDragonist. Locations such as Desktop, Documents, Downloads, OneDrive, etc. *will* cause issues with installing and playing the list.
-
- 1. Change Baldur's Gate 3 so it does not [automatically update](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
- 2. Right click on Baldur's Gate 3 and click on properties, untick the `Enable Steam Overlay while in-game.`
- 3. go into Steam\steamapps and [make the file appmanifest_1086940.acf read only](https://support.microsoft.com/en-us/office/make-a-document-read-only-5c25909c-46d9-4eb0-9d1f-d072a560e340) to prevent Baldur's Gate 3 from updating
+GOG:
+https://support.gog.com/hc/en-us/articles/4412958845329-How-do-I-change-the-game-language
 
 ### Wabbajack Installation
 
