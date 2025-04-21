@@ -1,6 +1,20 @@
 # Changelog
 
+- [2.0.0.1](#2001)
 - [2.0.0.0](#2000)
+
+## 2.0.0.1
+
+**Info:**
+- Download size change: -405B (Total: 350,7MB)
+- Install size change: -124,3KB (Total: 689,1MB)
+
+**Download Changes:**
+
+- Added [BG3-MO2-Unofficial-Plugin.zip](https://github.com/Alvadus/BG3-MO2-Unofficial-Plugin/releases/download/0.7.0/BG3-MO2-Unofficial-Plugin.zip)
+- Updated [Aether's Better Loading Screens to v1.03](https://www.nexusmods.com/baldursgate3/mods/757)
+- Removed [Baldur's Gate 3 - Unofficial MO2 Support](https://www.nexusmods.com/baldursgate3/mods/14407)
+- Removed [Aether's Better Loading Screens](https://www.nexusmods.com/baldursgate3/mods/757)
 
 ## 2.0.0.0
 
