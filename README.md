@@ -41,7 +41,7 @@ What the list isn't:
 - a list to play regular honour mode, use custom mode instead. There are too many issues to break the game without mods, and it's unpredictable how these mods will affect a genuine honour mode play-through.
 
 
-A full list of the mods used in this mod list can be viewed [here](https://loadorderlibrary.com/lists/baldur-s-gate-3-enhanced-edition)
+A full list of the mods used in this mod list can be viewed [here](https://www.wabbajack.org/search/BG3EE/BG3EE)
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
