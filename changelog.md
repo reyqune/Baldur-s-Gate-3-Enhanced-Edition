@@ -1,7 +1,30 @@
 # Changelog
 
+- [2.0.0.2](#2002)
 - [2.0.0.1](#2001)
 - [2.0.0.0](#2000)
+
+## 2.0.0.2
+
+**Info:**
+- Download size change: -945KB (Total: 351,7MB)
+- Install size change: -2,2MB (Total: 691,4MB)
+
+**Download Changes:**
+
+- Added [Gold Weights Nothing v1.1](https://www.nexusmods.com/baldursgate3/mods/12093)
+- Updated [ImprovedUI ReleaseReady to v3.15.1](https://www.nexusmods.com/baldursgate3/mods/366)
+- Updated [Automated Summons to v1.00.00](https://www.nexusmods.com/baldursgate3/mods/10922)
+- Updated [Baldur's Gate 3 Community Library to v2.2.2.0](https://www.nexusmods.com/baldursgate3/mods/1333)
+- Updated [Mod Configuration Menu to v1.4.1](https://www.nexusmods.com/baldursgate3/mods/9162)
+- Removed [Baldur's Gate 3 Community Library](https://www.nexusmods.com/baldursgate3/mods/1333)
+- Removed [Mod Configuration Menu](https://www.nexusmods.com/baldursgate3/mods/9162)
+- Removed [ImprovedUI ReleaseReady](https://www.nexusmods.com/baldursgate3/mods/366)
+- Removed [Automated Summons](https://www.nexusmods.com/baldursgate3/mods/10922)
+
+
+**Mod Changes:**
+- Added Gold Weights Nothing
 
 ## 2.0.0.1
 
