@@ -1,8 +1,41 @@
 # Changelog
 
+- [2.0.0.3](#2003)
 - [2.0.0.2](#2002)
 - [2.0.0.1](#2001)
 - [2.0.0.0](#2000)
+
+## 2.0.0.3
+
+**Info:**
+- Download size change: -331,4KB (Total: 352MB)
+- Install size change: -559,8KB (Total: 691,9MB)
+
+**Download Changes:**
+
+- Added [Strike a Pose - Extra poses for Photo Mode v1.0](https://www.nexusmods.com/baldursgate3/mods/16092)
+- Updated [Booming Blade BUGFIX to v1.0](https://www.nexusmods.com/baldursgate3/mods/15879)
+- Updated [Minthara's Poison Kiss to v1.0.0.1](https://www.nexusmods.com/baldursgate3/mods/15597)
+- Updated [Druid Perfection to v1.1.0](https://www.nexusmods.com/baldursgate3/mods/4939)
+- Updated [Mod Configuration Menu to v1.4.1](https://www.nexusmods.com/baldursgate3/mods/9162)
+- Updated [Druid Quality of Life to v2.1.6](https://www.nexusmods.com/baldursgate3/mods/3214)
+- Updated [Sensible Ambushing - Stealth Combat Overhaul to v0.5.1](https://www.nexusmods.com/baldursgate3/mods/13114)
+- Updated [Dark Urge Tweeaks to v1.0.0.15](https://www.nexusmods.com/baldursgate3/mods/15031)
+- Updated [Lesser Restoration - Assorted Bug Fixes to v1.0.0.1](https://www.nexusmods.com/baldursgate3/mods/15125)
+- Updated [Spell List Sorter to v1.1](https://www.nexusmods.com/baldursgate3/mods/9608)
+- Removed [Druid Quality of Life](https://www.nexusmods.com/baldursgate3/mods/3214)
+- Removed [Sensible Ambushing - Stealth Combat Overhaul](https://www.nexusmods.com/baldursgate3/mods/13114)
+- Removed [Dark Urge Tweeaks](https://www.nexusmods.com/baldursgate3/mods/15031)
+- Removed [Lesser Restoration - Assorted Bug Fixes](https://www.nexusmods.com/baldursgate3/mods/15125)
+- Removed [Spell List Sorter](https://www.nexusmods.com/baldursgate3/mods/9608)
+- Removed [Booming Blade BUGFIX](https://www.nexusmods.com/baldursgate3/mods/15879)
+- Removed [Minthara's Poison Kiss](https://www.nexusmods.com/baldursgate3/mods/15597)
+- Removed [Druid Perfection](https://www.nexusmods.com/baldursgate3/mods/4939)
+- Removed [Mod Configuration Menu](https://www.nexusmods.com/baldursgate3/mods/9162)
+
+
+**Mod Changes:**
+- Added Strike a Pose - Extra poses for Photo Mode
 
 ## 2.0.0.2
 
