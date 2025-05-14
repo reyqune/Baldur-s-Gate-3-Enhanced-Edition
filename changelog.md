@@ -1,9 +1,32 @@
 # Changelog
 
+- [2.0.0.4](#2004)
 - [2.0.0.3](#2003)
 - [2.0.0.2](#2002)
 - [2.0.0.1](#2001)
 - [2.0.0.0](#2000)
+
+## 2.0.0.4
+
+**Info:**
+- Download size change: 806,4KB (Total: 351,2MB)
+- Install size change: 776,5KB (Total: 691,2MB)
+
+**Download Changes:**
+
+- Added [Camp Event Notifications v0.4.5](https://www.nexusmods.com/baldursgate3/mods/1879)
+- Updated [Booming Blade BUGFIX to v1.0](https://www.nexusmods.com/baldursgate3/mods/15879)
+- Updated [Druid Perfection to v1.1.0](https://www.nexusmods.com/baldursgate3/mods/4939)
+- Updated [Volition Cabinet to v1.1.0](https://www.nexusmods.com/baldursgate3/mods/7676)
+- Removed [Booming Blade BUGFIX](https://www.nexusmods.com/baldursgate3/mods/15879)
+- Removed [Booming Blade No Extra Attack Nerf](https://www.nexusmods.com/baldursgate3/mods/15878)
+- Removed [Druid Perfection](https://www.nexusmods.com/baldursgate3/mods/4939)
+- Removed [Volition Cabinet](https://www.nexusmods.com/baldursgate3/mods/7676)
+
+
+**Mod Changes:**
+- Added Camp Event Notifications
+- Removed Booming Blade No Extra Attack Nerf
 
 ## 2.0.0.3
 
