@@ -1,19 +1,84 @@
 # Changelog
 
+- [2.0.1.0](#2010)
 - [2.0.0.4](#2004)
 - [2.0.0.3](#2003)
 - [2.0.0.2](#2002)
 - [2.0.0.1](#2001)
 - [2.0.0.0](#2000)
 
+## 2.0.1.0
+**Changes:**
+- Added [Poesielibre's Dark Urge Scale Collection v1.0](https://www.nexusmods.com/baldursgate3/mods/15036)
+- Added [Half Light Voicelines for Durge Voice 5 v1](https://www.nexusmods.com/baldursgate3/mods/13975)
+- Added [(Very) Subtle Astarion Edit v1.0.0](https://www.nexusmods.com/baldursgate3/mods/12756)
+- Added [Astralities Fluffy Ears v1.0](https://www.nexusmods.com/baldursgate3/mods/10398)
+- Added [Draconic Scales - Color Expansion v1.0](https://www.nexusmods.com/baldursgate3/mods/10686)
+- Added [Yogurt Heads - Half Orc and Elf Presets v2.2](https://www.nexusmods.com/baldursgate3/mods/4213)
+- Added [Astralities Fluffy Ears v1.0](https://www.nexusmods.com/baldursgate3/mods/10398)
+- Added [Crystal Crown - Gem Dragonborn CC pack v1.0.0.3](https://www.nexusmods.com/baldursgate3/mods/10292)
+- Added [LIFELIKE - Skin Tone Expansion v1.1](https://www.nexusmods.com/baldursgate3/mods/15934)
+- Added [Tav with a Backstory - Heavy Scarring Options v1.0](https://www.nexusmods.com/baldursgate3/mods/16782)
+- Added [Astralities' Fantasy Skintone Expansion v1.0](https://www.nexusmods.com/baldursgate3/mods/2900)
+- Added [Hornology - A Custom Horns Mod v1.0](https://www.nexusmods.com/baldursgate3/mods/7899)
+- Added [More beards v1](https://www.nexusmods.com/baldursgate3/mods/6396)
+- Added [Tav's Hair Salon vV.1.8](https://www.nexusmods.com/baldursgate3/mods/213)
+- Added [Astralities' Glow Eyes v1.4](https://www.nexusmods.com/baldursgate3/mods/4964)
+- Added [Horns of Plenty v1.0](https://www.nexusmods.com/baldursgate3/mods/7717)
+- Added [Astralities' Hair Color Collection v1.0](https://www.nexusmods.com/baldursgate3/mods/7852)
+- Added [Loulette Heads v2.1](https://www.nexusmods.com/baldursgate3/mods/470)
+- Added [Astralities' Hair Color Supplement v1.2](https://www.nexusmods.com/baldursgate3/mods/2002)
+- Added [Loulette Heads - Unique Tav and KAVT Patch v1.0](https://www.nexusmods.com/baldursgate3/mods/16720)
+- Added [No Crest for Dragonborn - Toolkit v1.0.0.2](https://www.nexusmods.com/baldursgate3/mods/13054)
+- Added [Astralities' Hair Color Overhaul v1.0](https://www.nexusmods.com/baldursgate3/mods/5020)
+- Added [Astralities' Hair Color Supplement v1.2](https://www.nexusmods.com/baldursgate3/mods/2002)
+- Added [Big Dwarven Beards v2](https://www.nexusmods.com/baldursgate3/mods/3810)
+- Added [Vessnelle's Hair Collection v1.0](https://www.nexusmods.com/baldursgate3/mods/1420)
+- Added [And Hold the Bra - A Dragonborn Underwear Mod v1.0.0.6](https://www.nexusmods.com/baldursgate3/mods/8747)
+- Added [Astralities' Skintone Expansion - Natural Tones v1.0](https://www.nexusmods.com/baldursgate3/mods/2536)
+- Added [Vessnelle's Hair Collection v1.0](https://www.nexusmods.com/baldursgate3/mods/1420)
+- Added [Appearance Edit Enhanced v3.0.7](https://www.nexusmods.com/baldursgate3/mods/899)
+- Added [Astralities' Wondrous Skintones v1.0](https://www.nexusmods.com/baldursgate3/mods/8538)
+- Added [Feywild Eyes - Eye Color Collection v1.0](https://www.nexusmods.com/baldursgate3/mods/9097)
+- Added [Some New Horns v1.0](https://www.nexusmods.com/baldursgate3/mods/6589)
+- Added [Vessnelle's Hair Collection v1.0](https://www.nexusmods.com/baldursgate3/mods/1420)
+- Added [Appearance Edit Enhanced v3.0.7](https://www.nexusmods.com/baldursgate3/mods/899)
+- Added [Deities Restored (plus Shar Curse Immunity) v2.1](https://www.nexusmods.com/baldursgate3/mods/690)
+- Added [Fix Jump-Fly Shortcut v1.0](https://www.nexusmods.com/baldursgate3/mods/16578)
+- Added [Sparrow's Gilded Dragonscales (New Dragonborn Scale Colours) v1.2](https://www.nexusmods.com/baldursgate3/mods/2999)
+- Added [Vessnelle's Hair Collection v1.0](https://www.nexusmods.com/baldursgate3/mods/1420)
+- Added [Demon Eyes - Eye Color Collection v1.0](https://www.nexusmods.com/baldursgate3/mods/4974)
+- Added [Karlach's Glowing Horns v1.0](https://www.nexusmods.com/baldursgate3/mods/8636)
+- Added [VIVIDS - Makeup Lip and Tattoo Color Collection v1.0](https://www.nexusmods.com/baldursgate3/mods/5946)
+- Added [Kaz x Astralities - Scarred Visage v1.0](https://www.nexusmods.com/baldursgate3/mods/16595)
+- Added [Colorizer - Makeup and Tattoo Color Organizer v1.0](https://www.nexusmods.com/baldursgate3/mods/16656)
+- Added [Gale's Beating And Glowing Orb v1.0.0](https://www.nexusmods.com/baldursgate3/mods/16205)
+- Added [Kazstra's Virtual Tav x Tattoo Makeup and Scar Extender v1.2](https://www.nexusmods.com/baldursgate3/mods/16325)
+- Added [Kylin's Horns v1.0](https://www.nexusmods.com/baldursgate3/mods/8681)
+- Added [PK Horns 2 v1.0](https://www.nexusmods.com/baldursgate3/mods/14851)
+- Added [Yet More Scales v1.1](https://www.nexusmods.com/baldursgate3/mods/12445)
+- Updated [Druid Perfection to v1.1.0](https://www.nexusmods.com/baldursgate3/mods/4939)
+- Updated [Druid Quality of Life to v2.1.6](https://www.nexusmods.com/baldursgate3/mods/3214)
+- Updated [Smart Autosaving to v2.3.0](https://www.nexusmods.com/baldursgate3/mods/5899)
+- Updated [Aura of Murder Rebalanced (Bhaalist Armour and Bhaalist Cultists) to v1.0.1](https://www.nexusmods.com/baldursgate3/mods/14890)
+- Updated [Mod Configuration Menu to v1.4.1](https://www.nexusmods.com/baldursgate3/mods/9162)
+- Updated [OIO - Overexplained Interaction Options to v5.3.0-Hotfix14](https://www.nexusmods.com/baldursgate3/mods/2631)
+- Updated [Astarion Confession Edit 2 to v1.0.1.1](https://www.nexusmods.com/baldursgate3/mods/14775)
+- Updated [Automated Summons to v1.00.00](https://www.nexusmods.com/baldursgate3/mods/10922)
+- Updated [Mod Uninstaller to v1.3.1](https://www.nexusmods.com/baldursgate3/mods/9701)
+- Removed [Astarion Confession Edit 2](https://www.nexusmods.com/baldursgate3/mods/14775)
+- Removed [Hexblade's Curse BUGFIX](https://www.nexusmods.com/baldursgate3/mods/15820)
+- Removed [OIO - Overexplained Interaction Options](https://www.nexusmods.com/baldursgate3/mods/2631)
+- Removed [Aura of Murder Rebalanced (Bhaalist Armour and Bhaalist Cultists)](https://www.nexusmods.com/baldursgate3/mods/14890)
+- Removed [Druid Perfection](https://www.nexusmods.com/baldursgate3/mods/4939)
+- Removed [Mod Configuration Menu](https://www.nexusmods.com/baldursgate3/mods/9162)
+- Removed [Druid Quality of Life](https://www.nexusmods.com/baldursgate3/mods/3214)
+- Removed [Automated Summons](https://www.nexusmods.com/baldursgate3/mods/10922)
+- Removed [Mod Uninstaller](https://www.nexusmods.com/baldursgate3/mods/9701)
+- Removed [Smart Autosaving](https://www.nexusmods.com/baldursgate3/mods/5899)
+
 ## 2.0.0.4
-
-**Info:**
-- Download size change: 806,4KB (Total: 351,2MB)
-- Install size change: 776,5KB (Total: 691,2MB)
-
-**Download Changes:**
-
+**Changes:**
 - Added [Camp Event Notifications v0.4.5](https://www.nexusmods.com/baldursgate3/mods/1879)
 - Updated [Booming Blade BUGFIX to v1.0](https://www.nexusmods.com/baldursgate3/mods/15879)
 - Updated [Druid Perfection to v1.1.0](https://www.nexusmods.com/baldursgate3/mods/4939)
@@ -23,19 +88,8 @@
 - Removed [Druid Perfection](https://www.nexusmods.com/baldursgate3/mods/4939)
 - Removed [Volition Cabinet](https://www.nexusmods.com/baldursgate3/mods/7676)
 
-
-**Mod Changes:**
-- Added Camp Event Notifications
-- Removed Booming Blade No Extra Attack Nerf
-
 ## 2.0.0.3
-
-**Info:**
-- Download size change: -331,4KB (Total: 352MB)
-- Install size change: -559,8KB (Total: 691,9MB)
-
-**Download Changes:**
-
+**Changes:**
 - Added [Strike a Pose - Extra poses for Photo Mode v1.0](https://www.nexusmods.com/baldursgate3/mods/16092)
 - Updated [Booming Blade BUGFIX to v1.0](https://www.nexusmods.com/baldursgate3/mods/15879)
 - Updated [Minthara's Poison Kiss to v1.0.0.1](https://www.nexusmods.com/baldursgate3/mods/15597)
@@ -56,18 +110,8 @@
 - Removed [Druid Perfection](https://www.nexusmods.com/baldursgate3/mods/4939)
 - Removed [Mod Configuration Menu](https://www.nexusmods.com/baldursgate3/mods/9162)
 
-
-**Mod Changes:**
-- Added Strike a Pose - Extra poses for Photo Mode
-
 ## 2.0.0.2
-
-**Info:**
-- Download size change: -945KB (Total: 351,7MB)
-- Install size change: -2,2MB (Total: 691,4MB)
-
-**Download Changes:**
-
+**Changes:**
 - Added [Gold Weights Nothing v1.1](https://www.nexusmods.com/baldursgate3/mods/12093)
 - Updated [ImprovedUI ReleaseReady to v3.15.1](https://www.nexusmods.com/baldursgate3/mods/366)
 - Updated [Automated Summons to v1.00.00](https://www.nexusmods.com/baldursgate3/mods/10922)
@@ -78,27 +122,15 @@
 - Removed [ImprovedUI ReleaseReady](https://www.nexusmods.com/baldursgate3/mods/366)
 - Removed [Automated Summons](https://www.nexusmods.com/baldursgate3/mods/10922)
 
-
-**Mod Changes:**
-- Added Gold Weights Nothing
-
 ## 2.0.0.1
-
-**Info:**
-- Download size change: -405B (Total: 350,7MB)
-- Install size change: -124,3KB (Total: 689,1MB)
-
-**Download Changes:**
-
+**Changes:**
 - Added [BG3-MO2-Unofficial-Plugin.zip](https://github.com/Alvadus/BG3-MO2-Unofficial-Plugin/releases/download/0.7.0/BG3-MO2-Unofficial-Plugin.zip)
 - Updated [Aether's Better Loading Screens to v1.03](https://www.nexusmods.com/baldursgate3/mods/757)
 - Removed [Baldur's Gate 3 - Unofficial MO2 Support](https://www.nexusmods.com/baldursgate3/mods/14407)
 - Removed [Aether's Better Loading Screens](https://www.nexusmods.com/baldursgate3/mods/757)
 
 ## 2.0.0.0
-
-**Download Changes:**
-
+**Changes:**
 - Added [Actual Fire Surface Damage Boost v0.0.0.1](https://www.nexusmods.com/baldursgate3/mods/14830)
 - Added [Automatic Inventory Manager (AIM) v2.4.1](https://www.nexusmods.com/baldursgate3/mods/6163)
 - Added [CompatibilityForOfficialClass (Patch 8) v1.0](https://www.nexusmods.com/baldursgate3/mods/15817)
@@ -309,7 +341,3 @@
 - Removed [Longstrider AOE - Patch 7 Compatible](https://www.nexusmods.com/baldursgate3/mods/12086)
 - Removed [OIO - Overexplained Interaction Options](https://www.nexusmods.com/baldursgate3/mods/2631)
 - Removed [Trade with Withers Add-on - Essential Supplies](https://www.nexusmods.com/baldursgate3/mods/3978)
-
-
-**Mod Changes:**
-- Added CompatibilityForOfficialClass (Patch 8)- Added Astarion's Greetings Edit- Added Raphael Bed Story- Added Emperor Finale Follower Dialogue Extended- Added Astarion Act 3 - But you're MY leaking blood-bag- Added Astarion Confession Edit 2- Added Astarion Docks Narration Unlocked- Added Astarion - Epilogue Edits- Added Avernus Epilogue Changes- Added Dark Urge Tweeaks- Added Minthara's Poison Kiss- Added Minthara's Alurlssrin- Added Karlach Romance - Better Hot Date- Added Missed Connections - Shadowheart- Added Stop accidentally dating Gale- Added Booming Blade No Extra Attack Nerf- Added Unarmored Defence Synergy- Added Add Unarmed to Savage Attacks trait- Added Add Unarmed to Savage Attacker feat- Added Necromancy of Thay Rebalance- Added Alternative Prone Rules- Added No Free NPC Heals- Added Automated Summons- Added Druid Quality of Life - Hotbar Restore- Added Druid Quality of Life- Added Druid Perfection- Added Call Your Companions- Added Aura of Murder Rebalanced (Bhaalist Armour and Bhaalist Cultists)- Added Bonk Enhanced - Knocked Out Failsafe - Non-Lethal Attacks and Damage Overhaul- Added Invisibiilty Counters Counterspell- Added Invisibility Rules - Movement Line Fix- Added (See) Invisibility Rework- Added Sensible Ambushing - Stealth Combat Overhaul- Added Actual Fire Surface Damage Boost- Added Hexblade's Curse BUGFIX- Added Shadow Blade Upcasting BUGFIX- Added Booming Blade BUGFIX- Added Vanilla Missing Icons- Added Auntie Ethel - Dark Urge Dialogue Bug Fix- Added Gale Chose Partner Over Dialog Fix- Added Owlbear Cub Permanent Aggression Fix on Honor Ruleset- Added Lesser Restoration - Assorted Bug Fixes- Added Epilogue bug fixes- Added Nightsong Points Bug Fix- Added Sussur Flower Dialogue Bug Fixes- Added Faster Rolls Quartered- Added Goon's Companion Protection- Added Automatic Inventory Manager (AIM)- Added Light Utility (QoL - Autolight - Toggle - Reapply - Autodim - Candlelight)- Added Smart Autosaving- Added Wi-Fi Potions- Added Do Not Eat Owlbear Egg- Added Remove Camera Move- Added Already Inspected (Visual opened containers)- Added Less Crowd Characters- Added Darker Paper- Added Darker Cazador's Palace- Added Darker Shar Temple- Added Darker Shadowlands- Added Darker Underdark- Added Astarion Unusual Smile Animation Replacer- Added Karlach's Barbarian Clothes - Starting Equipment- Added No Nature's Step Effects- Added No Temporary HP Effects- Added Smaller Boo- Added Smaller Flute- Added Smaller Lutes- Added Smaller Lyre- Added Smaller Torches- Added Dynamic Sidebar 16x9- Added Better Topbar 16x9- Added Better Character and Party Panels 16x9- Added Advanced Character Sheet (ACS)- Added Better Photo Mode- Added Highlight North- Added ImprovedUI Slim- Added Aether's Better Loading Screens- Added BG3EE Custom Loading Screen- Added Mod Configuration Menu- Added WASD Character Movement- Added Baldur's Gate 3 Script Extender- Removed Combat Extender- Removed Compatibility Framework_separator- Removed Shadowheart Idol of Shar Kiss Bug Fix- Removed Auntie Ethel - Dark Urge Dialogue Bug Fix (with Optional Astarion Priority)- Removed Be Nice to Skoona (Elfsong Half-Orc) Dialogue Edit- Removed Halsin - Tell Me About Yourself - Additional Player Responses- Removed Gale Spell Teaching Scene - Ability Check Changes- Removed Strange Ox - Dialogue Flow Fix- Removed Wyll Dialogue Fixes- Removed Additional Grove Raid Dialogue Options- Removed Flind - True Soul Dialogue Bug Fix- Removed Astarion Romance Reactions Fixed- Removed Astarion Kiss Dialogue Fixed- Removed Epilogue Kisses For Wyll- Removed Wyll's Act 3 Romance Tweaks- Removed Wyll Meets Minsc Fix- Removed Gale's High Hall Kiss Fix- Removed Astarion Bugbear and Ogre Dialogue Priority- Removed Lae'zel Recruitment Bug Fix- Removed Minor Fixes_separator- Removed Critical Miss Has Consequences FIXED- Removed Critical Miss Has Consequences- Removed Extra Attack Fix SE- Removed Universal Armour Fixer- Removed Infinite Turn Fix- Removed Longstrider AOE- Removed Gold Weights Nothing- Removed Racial Height Variation- Removed Event Auto Save - MCM- Removed Gear Revised Footwear- Removed Orin's True Bossfight- Removed 5e Reckless Attack- Removed Relative Ability Boost Items- Removed Elixirs Revised- Removed Tadpole Dialogue Without Resting- Removed trade with withers reset inventory- Removed Trade with Withers Add-on - Chef Module- Removed Trade with Withers - Fully modular and customizable treasure tables- Removed Trader Clutter Begone- Removed Better Dual Wielding O7 Vanilla Ranged Mechanic- Removed Better Dual Wielding O3 Vanilla Damage- Removed Better Dual Wielding- Removed Encrusted With Frost Spell Save DC Scaling- Removed Dynamic Wildheart Barbarian- Removed Smart Cunning Action- Removed Configurable movement speed - MCM compatible- Removed And Hold the Bra - A Dragonborn Underwear Mod- Removed Better end-game caster set- Removed Gear Revised Shields- Removed Wifi potions v2 tm- Removed Adjustable Shove-Pull Targeting- Removed Increased throw weight and range from enlarge- Removed Camp Event Notifications- Removed Auto Send Read Books To Camp- Removed Mark books as read- Removed Auto Send Food To Camp- Removed Auto Loot Seller V4- Removed Auto Use Soap- Removed Improved World Tooltips- Removed Just Wet- Removed Blessing of the Trickster Buff- Removed Multiclass Preferred Casting Ability Fix- Removed Unofficial Bug Fixer- Removed Extra Dyes for the Fashionable Folk of Faerun- Removed Disastrous Dyes- Removed Distinctive Dyes- Removed Dark Urge Banter Dialogue Fixes- Removed Elves Sit to Trance- Removed Gameplay_separator- Removed Neutral Facial Expressions Tweak- Removed Less Ugly Kicks (Gortash Boots Replacer)- Removed Gortash Concept Art Hair- Removed Gortash Refined- Removed Gortash Facelift- Removed Less Wrinkled Expression and Forehead for Face- Removed Character Overhauls_separator- Removed OIO - Overexplained Interaction Options- Removed Trade With Anyone- Removed Better Topbar- Removed Companions Panel and Camp Chest Everywhere- Removed Dynamic Sidebar- Removed Better Character and Party Panels- Removed ImpUI (ImprovedUI)- Removed Mod Configuration Menu (MCM)- Removed Custom Loading Screen- Removed Yet Another Script Extender Configuration- Removed Norbyte's Baldur's Gate 3 Script Extender
