@@ -1,11 +1,19 @@
 # Changelog
 
+
+- [2.0.1.1](#2011)
 - [2.0.1.0](#2010)
 - [2.0.0.4](#2004)
 - [2.0.0.3](#2003)
 - [2.0.0.2](#2002)
 - [2.0.0.1](#2001)
 - [2.0.0.0](#2000)
+
+
+## 2.0.1.1
+
+**Changes**
+The mods Appearance Edit Enhanced & Appearance Edit Origins are now toggled off by default.
 
 ## 2.0.1.0
 **Changes:**
