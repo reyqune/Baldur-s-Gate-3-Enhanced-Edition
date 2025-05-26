@@ -2,7 +2,7 @@
     {
         "$type": "ModListMetadata, Wabbajack.Lib",
         "title": "Baldur's Gate 3 Enhanced Edition",
-        "description": "Breathes new life into the realms with improved quality of life, vanquished bugs, enriched visuals, and finely tuned combat balance — all forged with reverence for the spirit of the original adventure.",
+        "description": "Breathes new life into the realms with improved quality of life, vanquished bugs, enriched visuals, and finely tuned combat balance, all forged with reverence for the spirit of the original adventure.",
         "author": "reyqune",
         "maintainers": [
             "https://github.com/reyqune/"
@@ -23,19 +23,19 @@
             "$type": "Links, Wabbajack.Lib",
             "image": "https://raw.githubusercontent.com/reyqune/Baldur-s-Gate-3-Enhanced-Edition/main/images/banner0.webp",
             "readme": "https://github.com/reyqune/Baldur-s-Gate-3-Enhanced-Edition/blob/main/README.md",
-            "download": "https://authored-files.wabbajack.org/Baldur's%20Gate%203%20Enhanced%20Edition.wabbajack_b131f33f-e453-4eaa-8085-a6f6196a76a6",
+            "download": "https://authored-files.wabbajack.org/Baldur's%20Gate%203%20Enhanced%20Edition.wabbajack_f382be42-769c-4f15-8e93-ee4ee313831c",
             "machineURL": "BG3EE",
             "discordURL": "https://discord.gg/ty62eQTdkE"
         },
         "download_metadata": {
             "$type": "DownloadMetadata, Wabbajack.Lib",
-            "Hash": "ay4HOPTFyq4=",
-            "Size": 1336516,
+            "Hash": "Ouahg0yxNqM=",
+            "Size": 1336503,
             "NumberOfArchives": 214,
             "SizeOfArchives": 4199134158,
             "NumberOfInstalledFiles": 2215,
-            "SizeOfInstalledFiles": 5691822436,
-            "TotalSize": 9890956594
+            "SizeOfInstalledFiles": 5691645457,
+            "TotalSize": 9890779615
         },
         "version": "2.0.1.5"
     }
