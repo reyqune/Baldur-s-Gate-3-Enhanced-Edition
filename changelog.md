@@ -1,6 +1,6 @@
 # Changelog
 
-
+- [2.0.1.5](#2015)
 - [2.0.1.1](#2011)
 - [2.0.1.0](#2010)
 - [2.0.0.4](#2004)
@@ -9,9 +9,40 @@
 - [2.0.0.1](#2001)
 - [2.0.0.0](#2000)
 
+## 2.0.1.5
+**Changes:**
+- Added [Bhaal Scars for All v2.1](https://www.nexusmods.com/baldursgate3/mods/2800)
+- Added [Unique Tav - Better Nipples v1.0.0.0](https://www.nexusmods.com/baldursgate3/mods/10350)
+- Added [Baldur's Gate 3 - Unofficial MO2 Support v0.7.1](https://www.nexusmods.com/site/mods/1268)
+- Added [Less Wrinkled Expression and Forehead for Face v1](https://www.nexusmods.com/baldursgate3/mods/1058)
+- Added [Dark Urge Dagger Tattoo v2.0](https://www.nexusmods.com/baldursgate3/mods/2805)
+- Added [Unique Tav - Better Nipples v1.0.0.0](https://www.nexusmods.com/baldursgate3/mods/10350)
+- Added [PRETTY BOYS by cedastarions v1.0](https://www.nexusmods.com/baldursgate3/mods/10897)
+- Added [Mari's makeup v1.0](https://www.nexusmods.com/baldursgate3/mods/4201)
+- Added [Mari's tattoo v1.0](https://www.nexusmods.com/baldursgate3/mods/3744)
+- Added [Little Women Head Presets by cedastarions v1.0](https://www.nexusmods.com/baldursgate3/mods/13863)
+- Added [More Heads for Flutter and Whimsy v1.1](https://www.nexusmods.com/baldursgate3/mods/15888)
+- Added [Myky's Makeup and Tattoos v1.0](https://www.nexusmods.com/baldursgate3/mods/11280)
+- Added [Jerinski's Alt Makeup v1.0.2](https://www.nexusmods.com/baldursgate3/mods/6674)
+- Added [Weeviljester's Draa'zvir Heads v1.0.0](https://www.nexusmods.com/baldursgate3/mods/3397)
+- Added [Jingle Tieflings by cedastarions v1.0](https://www.nexusmods.com/baldursgate3/mods/14413)
+- Added [The Hobbits Head Presets by cedastarions v1.0](https://www.nexusmods.com/baldursgate3/mods/10782)
+- Added [Weeviljester's Ethereal Heads v1.1.3](https://www.nexusmods.com/baldursgate3/mods/2548)
+- Added [The Lads Head Presets v1.0.0](https://www.nexusmods.com/baldursgate3/mods/10084)
+- Added [The Lasses Head Presets by cedastarions v1.0](https://www.nexusmods.com/baldursgate3/mods/11251)
+- Added [Tiefling Texture Fix v1.0.0](https://www.nexusmods.com/baldursgate3/mods/13020)
+- Added [Trips' Old Shader Pack v1.6.0.0](https://www.nexusmods.com/baldursgate3/mods/4752)
+- Added [Zip's Heads v1.4](https://www.nexusmods.com/baldursgate3/mods/5357)
+- Added [Kylin's Heads v1.3](https://www.nexusmods.com/baldursgate3/mods/6148)
+- Updated [Druid Perfection to v1.1.0](https://www.nexusmods.com/baldursgate3/mods/4939)
+- Updated [Deities Restored (plus Shar Curse Immunity) to v2.1](https://www.nexusmods.com/baldursgate3/mods/690)
+- Removed [BG3-MO2-Unofficial-Plugin.zip](https://github.com/Alvadus/BG3-MO2-Unofficial-Plugin/releases/download/0.7.0/BG3-MO2-Unofficial-Plugin.zip)
+- Removed [Druid Perfection](https://www.nexusmods.com/baldursgate3/mods/4939)
+- Removed [Deities Restored (plus Shar Curse Immunity)](https://www.nexusmods.com/baldursgate3/mods/690)
+- Removed [Gale's Beating And Glowing Orb](https://www.nexusmods.com/baldursgate3/mods/16205)
+
 
 ## 2.0.1.1
-
 **Changes**
 The mods Appearance Edit Enhanced & Appearance Edit Origins are now toggled off by default.
 
