@@ -88,7 +88,7 @@ Installing the mod list is relatively easy and, if you have Nexus Premium, will 
 
 >[!WARNING]
 >
-> You have to install the mod list to the same drive where the game is installed.
+> You have to either install the mod list to the same drive where the game is installed, or set the root builder in the included mod organiser 2 to copy post-install.
 
 ### Pre-Installation
 
@@ -267,6 +267,17 @@ If you use Windows Defender, it is advised that you set up an exception for the 
  2. Toggle Karmic Dice off
  3. Press Save
  ![](https://raw.githubusercontent.com/reyqune/Baldur-s-Gate-3-Enhanced-Edition/refs/heads/main/images/karmicDice.jpg)
+ 
+### Setting the root builder to copy mode.
+
+ 1. Open the bundled mod organiser 2
+ 2. Click tools
+ 3. Click root builder
+ 4. Click on copy
+ 5. You're done and can now launch the game if it's installed on another drive, but keep in mind that this will copy files to the actual game folder when the game is launched.
+ NOTE: Those files will not be automatically removed if the game is exited in an unexpected manner such as if it crashes, or is force closed by the task manager. To resolve that use the clear button.
+ 
+ ![](https://raw.githubusercontent.com/reyqune/Baldur-s-Gate-3-Enhanced-Edition/refs/heads/main/images/root_builder_howto.png)
 
 ## Updating the mod list
 
