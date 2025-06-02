@@ -1,5 +1,6 @@
 # Changelog
 
+- [2.0.1.7](#2017)
 - [2.0.1.5](#2015)
 - [2.0.1.1](#2011)
 - [2.0.1.0](#2010)
@@ -8,6 +9,30 @@
 - [2.0.0.2](#2002)
 - [2.0.0.1](#2001)
 - [2.0.0.0](#2000)
+
+## 2.0.1.7
+- Added [Claravel's Emotes for Photo Mode v1.0.0.4](https://www.nexusmods.com/baldursgate3/mods/16904)
+- Updated [Bhaal Scars for All to v2.1](https://www.nexusmods.com/baldursgate3/mods/2800)
+- Updated [Booming Blade BUGFIX to v1.0](https://www.nexusmods.com/baldursgate3/mods/15879)
+- Updated [Tav with a Backstory - Heavy Scarring Options to v1.0](https://www.nexusmods.com/baldursgate3/mods/16782)
+- Updated [Call Your Companions to v1.0](https://www.nexusmods.com/baldursgate3/mods/14979)
+- Updated [Deities Restored (plus Shar Curse Immunity) to v2.1](https://www.nexusmods.com/baldursgate3/mods/690)
+- Updated [Astralities' Hair Color Supplement to v1.2](https://www.nexusmods.com/baldursgate3/mods/2002)
+- Updated [Shadow Blade Upcasting BUGFIX to v1.0](https://www.nexusmods.com/baldursgate3/mods/15867)
+- Updated [No Nature's Step Effects to v3.0](https://www.nexusmods.com/baldursgate3/mods/7900)
+- Updated [Mod Configuration Menu to v1.4.1](https://www.nexusmods.com/baldursgate3/mods/9162)
+- Updated [Slightly Better Trade Menu to v1.32](https://www.nexusmods.com/baldursgate3/mods/1893)
+- Updated [Druid Quality of Life to v2.1.6](https://www.nexusmods.com/baldursgate3/mods/3214)
+- Removed [Mod Configuration Menu](https://www.nexusmods.com/baldursgate3/mods/9162)
+- Removed [Bhaal Scars for All](https://www.nexusmods.com/baldursgate3/mods/2800)
+- Removed [Druid Quality of Life](https://www.nexusmods.com/baldursgate3/mods/3214)
+- Removed [Dark Urge Dagger Tattoo](https://www.nexusmods.com/baldursgate3/mods/2805)
+- Removed [Tav with a Backstory - Heavy Scarring Options](https://www.nexusmods.com/baldursgate3/mods/16782)
+- Removed [Booming Blade BUGFIX](https://www.nexusmods.com/baldursgate3/mods/15879)
+- Removed [Call Your Companions](https://www.nexusmods.com/baldursgate3/mods/14979)
+- Removed [Deities Restored (plus Shar Curse Immunity)](https://www.nexusmods.com/baldursgate3/mods/690)
+- Removed [Shadow Blade Upcasting BUGFIX](https://www.nexusmods.com/baldursgate3/mods/15867)
+- Removed [No Nature's Step Effects](https://www.nexusmods.com/baldursgate3/mods/7900)
 
 ## 2.0.1.5
 **Changes:**
