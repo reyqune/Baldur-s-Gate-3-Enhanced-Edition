@@ -113,7 +113,7 @@ These steps are only required for installing the mod list for the first time. Ad
 - Right-click on your desktop and select `NVIDIA Control Panel`
 - Navigate and click `Manage 3D Settings`
 - Scroll down the **Global Settings** tab until you see **Shader Cache Size**
-- Double-click `Driver Default` to the right of **Shader Cache Size** and select at least `10 GB`
+- Double-click `Driver Default` to the right of **Shader Cache Size** and select `10 GB`
 - Click `Apply` in the bottom right hand corner
 - Exit out of the application
 ![](https://raw.githubusercontent.com/iAmMe27/Tahrovin/main/img/ShaderCache.png)
