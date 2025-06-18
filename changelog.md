@@ -1,5 +1,6 @@
 # Changelog
 
+- [2.0.1.9](#2019)
 - [2.0.1.7](#2017)
 - [2.0.1.5](#2015)
 - [2.0.1.1](#2011)
@@ -9,6 +10,23 @@
 - [2.0.0.2](#2002)
 - [2.0.0.1](#2001)
 - [2.0.0.0](#2000)
+
+## 2.0.1.9
+- Added [Various Dialogue Fixes v1.0.0](https://www.nexusmods.com/baldursgate3/mods/17091)
+- Added [BG3-MO2-Unofficial-Plugin.0.8.0.zip](https://github.com/Alvadus/BG3-MO2-Unofficial-Plugin/releases/download/0.8.0/BG3-MO2-Unofficial-Plugin.0.8.0.zip)
+- Added [Astral Pain - Lae'zel Romance Debuff v1.0.0.1](https://www.nexusmods.com/baldursgate3/mods/17067)
+- Updated [Mod Configuration Menu to v1.4.1](https://www.nexusmods.com/baldursgate3/mods/9162)
+- Updated [Druid Quality of Life to v2.1.6](https://www.nexusmods.com/baldursgate3/mods/3214)
+- Updated [Appearance Edit Enhanced to v3.0.7](https://www.nexusmods.com/baldursgate3/mods/899)
+- Updated [More beards to v1](https://www.nexusmods.com/baldursgate3/mods/6396)
+- Updated [Raphael Bed Story to v2.0.0.1](https://www.nexusmods.com/baldursgate3/mods/14695)
+- Updated [Compatibility Framework to v2.6.3.9](https://www.nexusmods.com/baldursgate3/mods/1933)
+- Removed [Appearance Edit Enhanced](https://www.nexusmods.com/baldursgate3/mods/899)
+- Removed [More beards](https://www.nexusmods.com/baldursgate3/mods/6396)
+- Removed [Raphael Bed Story](https://www.nexusmods.com/baldursgate3/mods/14695)
+- Removed [Compatibility Framework](https://www.nexusmods.com/baldursgate3/mods/1933)
+- Removed [Mod Configuration Menu](https://www.nexusmods.com/baldursgate3/mods/9162)
+- Removed [Druid Quality of Life](https://www.nexusmods.com/baldursgate3/mods/3214)
 
 ## 2.0.1.7
 - Added [Claravel's Emotes for Photo Mode v1.0.0.4](https://www.nexusmods.com/baldursgate3/mods/16904)
