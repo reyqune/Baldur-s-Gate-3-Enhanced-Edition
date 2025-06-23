@@ -34,7 +34,6 @@ What the list is:
 - A template to use to build a mod list of your own based on, the mods are clearly categorised.
 
 What the list isn't:
-- [Listonomicon](https://www.nexusmods.com/baldursgate3/mods/15237), you should go play it instead if you want what it provides, say hello to the devs from me. <3
 - additional races/classes
 - changes that deviate way too much from the original experience designed by Larian
 - adult mods, or frameworks
