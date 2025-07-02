@@ -142,8 +142,7 @@ https://support.gog.com/hc/en-us/articles/4412958845329-How-do-I-change-the-game
 
 ### Wabbajack Installation
 
-*For Linux users, see the addendum Linux, keep in mind that these are unnoficial, and unsupported steps.*
-or Click [here](#Linux)
+*For Linux users, see the addendum Linux, keep in mind that these are unnoficial, and unsupported steps, or Click [here](#Linux).*
 
 #### Installing Wabbajack
 
@@ -298,22 +297,22 @@ Simply delete the mod list folder. Congratulations, you have uninstalled the mod
 
 ## Linux
 
-# Install Wabbajack
+# (Linux) Install Wabbajack
 Follow this [guide](https://github.com/Omni-guides/Wabbajack-Modlist-Linux/wiki/Wabbajack-via-Proton) to install Wabbajack via Steam.
 
-# Download BG3 Enhanced
+# (Linux) Download BG3 Enhanced
 Start Wabbajack with your Steam shortcut and Download the list. The download location can be anywhere, but the install location should be on the same disk as BG3.
 
-# Configuration of the Mod Organizer 2 prefix
+# (Linux) Configuration of the Mod Organizer 2 prefix
 1. Add the 'ModOrganizer.exe' in your install location of the list as a non steam game to Steam.
 2. Choose Proton Experimental or the newest GE-Proton as the compatibility tool.
 3. Use Protontricks to install Dotnet 6,7,8,9, vcrun2012 and vcrun2017.
 4. Use winecfg to add dwrite.dll as a dll override.
 
-# Configuration of Mod Organizer 2
+# (Linux) Configuration of Mod Organizer 2
 Rootbuilder needs to be changed from the link mode to copy mode. To do this, click the puzzle symbol -> root builder -> root builder and check the box next to 'copy'. 
 
-# Launch the game
+# (Linux) Launch the game
 Launch the game by choosing BG3 - Vulkan and click on run.
 
 ## Issues
