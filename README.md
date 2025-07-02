@@ -59,7 +59,7 @@ A full list of the mods used in this mod list can be viewed [here](https://www.w
 >[!WARNING]
 >
 >- An SSD is **required** to the play the modlist.
->- Only Windows 10 or 11 operating systems are supported. Windows LTSC, special variants, lightened editions or any other modified variant **will not work.** Linux installations may work, but aren't supported. MacOS is just fully unsupported.
+>- Only Windows 10 or 11 operating systems are supported. Windows LTSC, special variants, lightened editions or any other modified variant **will not work.** Linux installations may work, but aren't supported, see the instructions bellow, or click [here](#Linux) for how to install. MacOS is just fully unsupported.
 
     Minimum:
         Requires a 64-bit processor and operating system
@@ -141,8 +141,6 @@ GOG:
 https://support.gog.com/hc/en-us/articles/4412958845329-How-do-I-change-the-game-language
 
 ### Wabbajack Installation
-
-*For Linux users, see the addendum Linux, keep in mind that these are unnoficial, and unsupported steps, or Click [here](#Linux).*
 
 #### Installing Wabbajack
 
