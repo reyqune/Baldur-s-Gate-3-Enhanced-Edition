@@ -142,6 +142,9 @@ https://support.gog.com/hc/en-us/articles/4412958845329-How-do-I-change-the-game
 
 ### Wabbajack Installation
 
+*For Linux users, see the addendum Linux, keep in mind that these are unnoficial, and unsupported steps.*
+or Click [here](#Linux)
+
 #### Installing Wabbajack
 
 Once you have completed the pre-installation section, follow these steps to install Wabbajack:
@@ -293,6 +296,26 @@ Updating is like installing the list. Simply make sure your paths are the same a
 
 Simply delete the mod list folder. Congratulations, you have uninstalled the mod list.
 
+## Linux
+
+# Install Wabbajack
+Follow this [guide](https://github.com/Omni-guides/Wabbajack-Modlist-Linux/wiki/Wabbajack-via-Proton) to install Wabbajack via Steam.
+
+# Download BG3 Enhanced
+Start Wabbajack with your Steam shortcut and Download the list. The download location can be anywhere, but the install location should be on the same disk as BG3.
+
+# Configuration of the Mod Organizer 2 prefix
+1. Add the 'ModOrganizer.exe' in your install location of the list as a non steam game to Steam.
+2. Choose Proton Experimental or the newest GE-Proton as the compatibility tool.
+3. Use Protontricks to install Dotnet 6,7,8,9, vcrun2012 and vcrun2017.
+4. Use winecfg to add dwrite.dll as a dll override.
+
+# Configuration of Mod Organizer 2
+Rootbuilder needs to be changed from the link mode to copy mode. To do this, click the puzzle symbol -> root builder -> root builder and check the box next to 'copy'. 
+
+# Launch the game
+Launch the game by choosing BG3 - Vulkan and click on run.
+
 ## Issues
 
 >[!TIP]
@@ -307,3 +330,4 @@ Simply delete the mod list folder. Congratulations, you have uninstalled the mod
 - [Ajax](https://github.com/ajaxxxxxxxx), and [LillyBird](https://linktr.ee/lillybird69) the creators of the list [Listonomicon](https://www.nexusmods.com/baldursgate3/mods/15237)
 - [BaldursGoonsack](https://next.nexusmods.com/profile/BaldursGoonsack/about-me?gameId=3474) the creator of the list [Difficulty, Immersion, Quality](https://next.nexusmods.com/baldursgate3/collections/pns4qv)
 - the creator of the plugin that made it possible to mod BG3 in MO2, [Alvadus (zino)](https://github.com/Alvadus)
+- steven2137 for writing the Linux guide
