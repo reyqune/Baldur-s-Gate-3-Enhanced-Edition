@@ -32,6 +32,7 @@ What the list is:
 - Even though the list was built to be played at Tactician+, you can also play it at any other difficulty level too.
 - Minor overhauls to a few story elements to make them smoother
 - A template to use to build a mod list of your own based on, the mods are clearly categorised.
+- The modlist has several options to customise the experience for your needs, there are options to make the difficulty higher, or lower using the different options provided. Most of these are set to the game's default settings by default, but can be changed by you the player. Overall difficulty can be customised thanks to the Tacitician Enhanced Mod, which by default scales the difficulty based on the setting you choose for the configurable party size mod, it is set to 4 by default, but can be increased/decreased using the MCM. But there are also some other elements which can be customised for prefered difficulty.
 
 What the list isn't:
 - additional races/classes
@@ -261,12 +262,23 @@ If you use Windows Defender, it is advised that you set up an exception for the 
  
  ### Optionals
  
+ The modlist has several optional mods that can be toggled on/off inside the included mod organizer software.
+ 
  For a better gameplay experience, it's recommended to disable the Karmic Dice
  1. Open the settings, and go to the Gameplay section
  2. Toggle Karmic Dice off
  3. Press Save
  ![](https://raw.githubusercontent.com/reyqune/Baldur-s-Gate-3-Enhanced-Edition/refs/heads/main/images/karmicDice.jpg)
  
+ ### Starting a new campaign
+ 
+To play the modlist at the intended difficulty level, you need to start a new game using the Custom Difficulty.
+When starting a new campaign, navigate to the right to select Custom Difficulty (it's after Honour Mode). Hit "Restore Default" at the bottom-right in the Custom Difficulty menu, all options should update to the intended settings. 
+The only exception is that you must manually change the ruleset from Standard Ruleset to Honour Ruleset, at the top of Custom Difficulty. Make sure you set this correctly, as you will not be able to change this later.
+While you are free to customise the settings as you prefer them, this is what the modlist was balanced around.
+
+![](https://raw.githubusercontent.com/reyqune/Baldur-s-Gate-3-Enhanced-Edition/refs/heads/main/images/rules.jpg)
+
 ### Setting the root builder to copy mode.
 
  1. Open the bundled mod organiser 2
