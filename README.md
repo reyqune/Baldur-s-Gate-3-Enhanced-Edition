@@ -276,11 +276,14 @@ To play the modlist at the intended difficulty level, you need to start a new ga
 <br/>
 When starting a new campaign, navigate to the right to select Custom Difficulty (it's after Honour Mode).
 <br/>
+<br/>
 Hit "Restore Default" at the bottom-right in the Custom Difficulty menu, all options should update to the intended settings.
 <br/>
 The only exception is that you must manually change the ruleset from Standard Ruleset to Honour Ruleset, at the top of Custom Difficulty.
 <br/>
+<br/>
 Make sure you set this correctly, as you will not be able to change this later.
+<br/>
 <br/>
 While you are free to customise the settings as you prefer them, this is what the modlist was balanced around.
 
