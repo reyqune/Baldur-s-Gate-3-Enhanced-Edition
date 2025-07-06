@@ -273,11 +273,11 @@ If you use Windows Defender, it is advised that you set up an exception for the 
  ### Starting a new campaign
  
 To play the modlist at the intended difficulty level, you need to start a new game using the Custom Difficulty.
-
+<br/>
 When starting a new campaign, navigate to the right to select Custom Difficulty (it's after Honour Mode). Hit "Restore Default" at the bottom-right in the Custom Difficulty menu, all options should update to the intended settings.
-
+<br/>
 The only exception is that you must manually change the ruleset from Standard Ruleset to Honour Ruleset, at the top of Custom Difficulty. Make sure you set this correctly, as you will not be able to change this later.
-
+<br/>
 While you are free to customise the settings as you prefer them, this is what the modlist was balanced around.
 
 ![](https://raw.githubusercontent.com/reyqune/Baldur-s-Gate-3-Enhanced-Edition/refs/heads/main/images/rules.jpg)
