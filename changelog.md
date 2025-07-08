@@ -1,5 +1,6 @@
 # Changelog
 
+- [3.0.1.0](#3010)
 - [3.0.0.0](#3000)
 - [2.0.1.9](#2019)
 - [2.0.1.7](#2017)
@@ -11,6 +12,35 @@
 - [2.0.0.2](#2002)
 - [2.0.0.1](#2001)
 - [2.0.0.0](#2000)
+
+## 3.0.1.0
+- Added [Planewalker's Barbershop - Short hairstyles v1.0](https://www.nexusmods.com/baldursgate3/mods/10684)
+- Added [Baldur's Baddies (Nails -  Dyeable Nails) v1.0](https://www.nexusmods.com/baldursgate3/mods/11548)
+- Added [Half-Tiefs (Tiefling Horns and Tail for All) v1.41](https://www.nexusmods.com/baldursgate3/mods/2538)
+- Added [Kai's Overhauled Appearance Interface aka KaiLimeUI v1.0](https://www.nexusmods.com/baldursgate3/mods/17443)
+- Added [Em's Custom Hair Pack 1 v1.3](https://www.nexusmods.com/baldursgate3/mods/5099)
+- Added [KaiLime Eyes - Illithid Soul v1.0](https://www.nexusmods.com/baldursgate3/mods/3285)
+- Added [Em's Custom Hair Pack 2 v1.1](https://www.nexusmods.com/baldursgate3/mods/5611)
+- Added [Em's Hair Mashups Pack 3 v1](https://www.nexusmods.com/baldursgate3/mods/4817)
+- Added [Kay's Material Library v1.0.0](https://www.nexusmods.com/baldursgate3/mods/16222)
+- Added [Baldur's Priority - CPU Performance FPS Optimizer v1.0.0](https://www.nexusmods.com/baldursgate3/mods/1326)
+- Added [Faces of Faerun v1.3.1](https://www.nexusmods.com/baldursgate3/mods/429)
+- Added [Faces of Faerun - Unique Tav Patch v1.0](https://www.nexusmods.com/baldursgate3/mods/17190)
+- Added [E-Cores Excluder v1.0.1](https://www.nexusmods.com/baldursgate3/mods/11060)
+- Added [Kay's Hair Extensions v1.0.0](https://www.nexusmods.com/baldursgate3/mods/5006)
+- Added [P4 Custom Tattoo and Makeup Colours v1.0.0.1](https://www.nexusmods.com/baldursgate3/mods/340)
+- Added [Kay's Hair Extensions v1.0.0](https://www.nexusmods.com/baldursgate3/mods/5006)
+- Added [New Character Creation Presets WIP vV.1.4](https://www.nexusmods.com/baldursgate3/mods/205)
+- Added [Kay's Hair Extensions v1.0.0](https://www.nexusmods.com/baldursgate3/mods/5006)
+- Added [New Character Creation Presets - Unique Tav and KAVT Patch v1.0](https://www.nexusmods.com/baldursgate3/mods/16924)
+- Added [Short Flowery Hair v1](https://www.nexusmods.com/baldursgate3/mods/5926)
+- Added [Piercing Edits v1.7](https://www.nexusmods.com/baldursgate3/mods/2001)
+- Added [Jerinski's Alt Hairs v1.0.6b](https://www.nexusmods.com/baldursgate3/mods/4163)
+- Added [P4 Custom Tattoo and Makeup Colours v1.0.0.1](https://www.nexusmods.com/baldursgate3/mods/340)
+- Updated [Kazstra's Virtual Tav x Tattoo Makeup and Scar Extender to v1.2](https://www.nexusmods.com/baldursgate3/mods/16325)
+- Updated [Netherseam - Head Presets to v1.1](https://www.nexusmods.com/baldursgate3/mods/17082)
+- Removed [Netherseam - Head Presets](https://www.nexusmods.com/baldursgate3/mods/17082)
+- Removed [Kazstra's Virtual Tav x Tattoo Makeup and Scar Extender](https://www.nexusmods.com/baldursgate3/mods/16325)
 
 ## 3.0.0.0
 - Added [No Character Creation Music vpatch5-plus](https://www.nexusmods.com/baldursgate3/mods/1997)
