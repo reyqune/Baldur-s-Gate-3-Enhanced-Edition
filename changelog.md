@@ -1,5 +1,6 @@
 # Changelog
 
+- [3.1.0.6](#3106)
 - [3.1.0.5](#3105)
 - [3.0.1.0](#3010)
 - [3.0.0.0](#3000)
@@ -13,6 +14,9 @@
 - [2.0.0.2](#2002)
 - [2.0.0.1](#2001)
 - [2.0.0.0](#2000)
+
+## 3.1.0.6
+- Updated [Trade with Withers - Fully modular and customizable treasure tables to v1.0.0.7](https://www.nexusmods.com/baldursgate3/mods/2458)
 
 ## 3.1.0.5
 - Added [Stomp that Tadpole v1.0.0.1](https://www.nexusmods.com/baldursgate3/mods/17485)
