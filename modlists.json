@@ -23,20 +23,20 @@
             "$type": "Links, Wabbajack.Lib",
             "image": "https://raw.githubusercontent.com/reyqune/Baldur-s-Gate-3-Enhanced-Edition/main/images/banner.webp",
             "readme": "https://github.com/reyqune/Baldur-s-Gate-3-Enhanced-Edition/blob/main/README.md",
-            "download": "https://authored-files.wabbajack.org/Baldur's%20Gate%203%20Enhanced%20Edition.wabbajack_9bdf014b-53ae-4dd2-8beb-9ae5b71e8f6d",
+            "download": "https://authored-files.wabbajack.org/Baldur's%20Gate%203%20Enhanced%20Edition.wabbajack_f59e1d81-cd0e-41e4-840c-cc234dd1c3bf",
             "machineURL": "BG3EE",
             "discordURL": "https://discord.gg/ty62eQTdkE"
         },
         "download_metadata": {
             "$type": "DownloadMetadata, Wabbajack.Lib",
-            "Hash": "fLAv7OQiv2A=",
-            "Size": 5590439,
-            "NumberOfArchives": 299,
-            "SizeOfArchives": 6804265456,
-            "NumberOfInstalledFiles": 2496,
-            "SizeOfInstalledFiles": 9159847294,
-            "TotalSize": 15964112750
+            "Hash": "24Qw9H0HWMw=",
+            "Size": 5607586,
+            "NumberOfArchives": 303,
+            "SizeOfArchives": 6832365992,
+            "NumberOfInstalledFiles": 2505,
+            "SizeOfInstalledFiles": 9271893321,
+            "TotalSize": 16104259313
         },
-        "version": "3.1.0.6"
+        "version": "3.2.0.0"
     }
 ]

@@ -1,5 +1,6 @@
 # Changelog
 
+- [3.2.0.0](#3200)
 - [3.1.0.6](#3106)
 - [3.1.0.5](#3105)
 - [3.0.1.0](#3010)
@@ -14,6 +15,18 @@
 - [2.0.0.2](#2002)
 - [2.0.0.1](#2001)
 - [2.0.0.0](#2000)
+
+## 3.2.0.0
+- Added [Hallowleafs in Camp v1.0.0.4](https://www.nexusmods.com/baldursgate3/mods/17838)
+- Added [Shadowed Torches (now with Shadowcasting) v1.0.0.88](https://www.nexusmods.com/baldursgate3/mods/17611)
+- Updated [Kazstra's CC Body Tattoo Selector to v1.0](https://www.nexusmods.com/baldursgate3/mods/17702)
+- Updated [Astralities' Glow Eyes to v1.4](https://www.nexusmods.com/baldursgate3/mods/4964)
+- Updated [WASD Character Movement to v1.9.3](https://www.nexusmods.com/baldursgate3/mods/781)
+- Updated [Compatibility Framework to v2.6.3.9](https://www.nexusmods.com/baldursgate3/mods/1933)
+- Updated [Really Shadowheart to v1.4.4.0](https://www.nexusmods.com/baldursgate3/mods/11524)
+- Removed [Compatibility Framework](https://www.nexusmods.com/baldursgate3/mods/1933)
+- Removed [WASD Character Movement](https://www.nexusmods.com/baldursgate3/mods/781)
+- Removed [Really Shadowheart](https://www.nexusmods.com/baldursgate3/mods/11524)
 
 ## 3.1.0.6
 - Updated [Trade with Withers - Fully modular and customizable treasure tables to v1.0.0.7](https://www.nexusmods.com/baldursgate3/mods/2458)
