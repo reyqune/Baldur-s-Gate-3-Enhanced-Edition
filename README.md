@@ -316,6 +316,7 @@ Updating is like installing the list. Simply make sure your paths are the same a
 Simply delete the mod list folder. Congratulations, you have uninstalled the mod list.
 
 ## Linux
+(provided as is)
 
 # (Linux) Install Wabbajack
 Follow this [guide](https://github.com/Omni-guides/Wabbajack-Modlist-Linux/wiki/Wabbajack-via-Proton) to install Wabbajack via Steam.
@@ -324,16 +325,20 @@ Follow this [guide](https://github.com/Omni-guides/Wabbajack-Modlist-Linux/wiki/
 Start Wabbajack with your Steam shortcut and Download the list. The download location can be anywhere, but the install location should be on the same disk as BG3.
 
 # (Linux) Configuration of the Mod Organizer 2 prefix
-1. Add the 'ModOrganizer.exe' in your install location of the list as a non steam game to Steam.
-2. Choose Proton Experimental or the newest GE-Proton as the compatibility tool.
-3. Use Protontricks to install Dotnet 6,7,8,9, vcrun2012 and vcrun2017.
-4. Use winecfg to add dwrite.dll as a dll override.
+Step 1: Have the modlist downloaded
+Step 2: Go to https://github.com/SulfurNitride/NaK, download the latest release.
+Step 3: Open the terminal where NaK is located, and run two commands. `chmod +x nak` and `./nak`
+Step 4: Choose Mod Managers, MO2, and Setup existing installation.
+Step 5: Provide the MO2 folder for the modlist and let it add it to steam and do dependancies.
+Step 6: After everything has completed, open up BG3EE and set root builder to copy. 
+Step 7: Enjoy the modlist!
+Requirements: Protontricks (flatpak, or native), and steam (native only), and Proton Experimental
 
 # (Linux) Configuration of Mod Organizer 2
 Rootbuilder needs to be changed from the link mode to copy mode. To do this, click the puzzle symbol -> root builder -> root builder and check the box next to 'copy'. 
 
 # (Linux) Launch the game
-Launch the game by choosing BG3 - Vulkan and click on run.
+Launch the game by choosing BG3 - Vulkan, and click on run.
 
 ## Issues
 
@@ -349,4 +354,4 @@ Launch the game by choosing BG3 - Vulkan and click on run.
 - [Ajax](https://github.com/ajaxxxxxxxx), and [LillyBird](https://linktr.ee/lillybird69) the creators of the list [Listonomicon](https://www.nexusmods.com/baldursgate3/mods/15237)
 - [BaldursGoonsack](https://next.nexusmods.com/profile/BaldursGoonsack/about-me?gameId=3474) the creator of the list [Difficulty, Immersion, Quality](https://next.nexusmods.com/baldursgate3/collections/pns4qv)
 - the creator of the plugin that made it possible to mod BG3 in MO2, [Alvadus (zino)](https://github.com/Alvadus)
-- steven2137 for writing the Linux guide
+- steven2137 for writing the Linux guide, and Sulfur Nitride for providing more steps for the linux instructions
