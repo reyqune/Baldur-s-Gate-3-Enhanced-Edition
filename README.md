@@ -326,12 +326,19 @@ Start Wabbajack with your Steam shortcut and Download the list. The download loc
 
 # (Linux) Configuration of the Mod Organizer 2 prefix
 Step 1: Have the modlist downloaded
+
 Step 2: Go to https://github.com/SulfurNitride/NaK, download the latest release.
+
 Step 3: Open the terminal where NaK is located, and run two commands. `chmod +x nak` and `./nak`
+
 Step 4: Choose Mod Managers, MO2, and Setup existing installation.
+
 Step 5: Provide the MO2 folder for the modlist and let it add it to steam and do dependancies.
+
 Step 6: After everything has completed, open up BG3EE and set root builder to copy. 
-Step 7: Enjoy the modlist!
+
+Step 7: Enjoy the modlist.
+
 Requirements: Protontricks (flatpak, or native), and steam (native only), and Proton Experimental
 
 # (Linux) Configuration of Mod Organizer 2
