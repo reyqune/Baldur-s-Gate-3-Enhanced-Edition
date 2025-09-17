@@ -99,6 +99,7 @@ These steps are only required for installing the mod list for the first time. Ad
  1. Install [Visual C++ x64](https://aka.ms/vs/17/release/vc_redist.x64.exe).
  2. Install [.NET Runtime 8.X.X Desktop x64](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-8.0.13-windows-x64-installer).
  3. Install [.NET 6.0 Runtime Desktop x64](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.30-windows-x64-installer).
+ 4. Reboot your PC
 
 >[!WARNING]
 >If you already have Visual C++ installed, please make sure you install it again and use the `Repair` option to get the latest version of the redistributables. **Do NOT skip this step or MO2 and the game may fail to launch.**
