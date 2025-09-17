@@ -20,7 +20,7 @@
 
 ## 3.3.3.4
 **Updated**
-- [Better Races All in One → v1.3](https://www.nexusmods.com/baldursgate3/mods/18503)  
+- [Better Races All in One v1.3](https://www.nexusmods.com/baldursgate3/mods/18503) 
 
 ## 3.3.3.3
 **Added**
@@ -88,47 +88,47 @@
 
 ## 3.1.0.5
 **Added**
-- [Stomp that Tadpole v1.0.0.1](https://www.nexusmods.com/baldursgate3/mods/17485)  
-- [Rainbow Difficulty Replacer v1](https://www.nexusmods.com/baldursgate3/mods/17543)  
-- [Mari's Tattoos Makeup and Scars for KAVT v1.0](https://www.nexusmods.com/baldursgate3/mods/17667)  
-- [Lae'zel Kiss Dialogue v1.0.0.3](https://www.nexusmods.com/baldursgate3/mods/17523)  
-- [Rugan Restored - A Sweet Sight v1.0.0.18](https://www.nexusmods.com/baldursgate3/mods/17399)  
-- [Minthara's Weaknesses - Astarion Minthara Banter Restored v1.0.1.1](https://www.nexusmods.com/baldursgate3/mods/17444)  
-- [Priestess Gut Gonna Knock You Out v1.0.0.3](https://www.nexusmods.com/baldursgate3/mods/17344)  
-- [Astarion Character Creation Camera Fix v1.0](https://www.nexusmods.com/baldursgate3/mods/9888)  
-- [Kazstra's CC Body Tattoo Selector v1.0](https://www.nexusmods.com/baldursgate3/mods/17702)  
-- [Raphael Restored - Last Light Fixes v1.0.0.8](https://www.nexusmods.com/baldursgate3/mods/17508)  
-- [Firestarter - Karlach Romance Overhaul v1.0.0.1](https://www.nexusmods.com/baldursgate3/mods/15282)  
-- [AahzLib v1.0.1.0](https://www.nexusmods.com/baldursgate3/mods/9832)  
-- [Astarion's Nightmare - Restored from Early Access v1.0.0.7](https://www.nexusmods.com/baldursgate3/mods/17511)  
+- [Stomp that Tadpole v1.0.0.1](https://www.nexusmods.com/baldursgate3/mods/17485) 
+- [Rainbow Difficulty Replacer v1](https://www.nexusmods.com/baldursgate3/mods/17543) 
+- [Mari's Tattoos Makeup and Scars for KAVT v1.0](https://www.nexusmods.com/baldursgate3/mods/17667) 
+- [Lae'zel Kiss Dialogue v1.0.0.3](https://www.nexusmods.com/baldursgate3/mods/17523) 
+- [Rugan Restored - A Sweet Sight v1.0.0.18](https://www.nexusmods.com/baldursgate3/mods/17399) 
+- [Minthara's Weaknesses - Astarion Minthara Banter Restored v1.0.1.1](https://www.nexusmods.com/baldursgate3/mods/17444) 
+- [Priestess Gut Gonna Knock You Out v1.0.0.3](https://www.nexusmods.com/baldursgate3/mods/17344) 
+- [Astarion Character Creation Camera Fix v1.0](https://www.nexusmods.com/baldursgate3/mods/9888) 
+- [Kazstra's CC Body Tattoo Selector v1.0](https://www.nexusmods.com/baldursgate3/mods/17702) 
+- [Raphael Restored - Last Light Fixes v1.0.0.8](https://www.nexusmods.com/baldursgate3/mods/17508) 
+- [Firestarter - Karlach Romance Overhaul v1.0.0.1](https://www.nexusmods.com/baldursgate3/mods/15282) 
+- [AahzLib v1.0.1.0](https://www.nexusmods.com/baldursgate3/mods/9832) 
+- [Astarion's Nightmare - Restored from Early Access v1.0.0.7](https://www.nexusmods.com/baldursgate3/mods/17511) 
 
 **Updated**
-- [Astral Pain - Lae'zel Romance Debuff → v1.0.0.1](https://www.nexusmods.com/baldursgate3/mods/17067)  
-- [Goon's Companion Protection → v1.1](https://www.nexusmods.com/baldursgate3/mods/14396)  
-- [Baldur's Gate 3 Community Library → v2.2.2.0](https://www.nexusmods.com/baldursgate3/mods/1333)  
-- [Kai's Overhauled Appearance Interface aka KaiLimeUI → v1.0](https://www.nexusmods.com/baldursgate3/mods/17443)  
-- [Mod Configuration Menu → v1.4.1](https://www.nexusmods.com/baldursgate3/mods/9162)  
-- [Compatibility Framework → v2.6.3.9](https://www.nexusmods.com/baldursgate3/mods/1933)  
-- [Various Dialogue Fixes → v1.0.0](https://www.nexusmods.com/baldursgate3/mods/17091)  
-- [Immersive Reading → v1.3](https://www.nexusmods.com/baldursgate3/mods/7704)  
-- [Baldur's Gate 3 Enhanced Edition → v1.1.10](https://www.nexusmods.com/baldursgate3/mods/15305)  
-- [Druid Quality of Life → v2.1.6](https://www.nexusmods.com/baldursgate3/mods/3214)  
-- [Really Shadowheart → v1.4.4.0](https://www.nexusmods.com/baldursgate3/mods/11524)  
-- [Actual Fire Surface Damage Boost → v0.0.0.1](https://www.nexusmods.com/baldursgate3/mods/14830)  
+- [Astral Pain - Lae'zel Romance Debuff v1.0.0.1](https://www.nexusmods.com/baldursgate3/mods/17067) 
+- [Goon's Companion Protection v1.1](https://www.nexusmods.com/baldursgate3/mods/14396) 
+- [Baldur's Gate 3 Community Library v2.2.2.0](https://www.nexusmods.com/baldursgate3/mods/1333) 
+- [Kai's Overhauled Appearance Interface aka KaiLimeUI v1.0](https://www.nexusmods.com/baldursgate3/mods/17443) 
+- [Mod Configuration Menu v1.4.1](https://www.nexusmods.com/baldursgate3/mods/9162) 
+- [Compatibility Framework v2.6.3.9](https://www.nexusmods.com/baldursgate3/mods/1933) 
+- [Various Dialogue Fixes v1.0.0](https://www.nexusmods.com/baldursgate3/mods/17091) 
+- [Immersive Reading v1.3](https://www.nexusmods.com/baldursgate3/mods/7704) 
+- [Baldur's Gate 3 Enhanced Edition v1.1.10](https://www.nexusmods.com/baldursgate3/mods/15305) 
+- [Druid Quality of Life v2.1.6](https://www.nexusmods.com/baldursgate3/mods/3214) 
+- [Really Shadowheart v1.4.4.0](https://www.nexusmods.com/baldursgate3/mods/11524) 
+- [Actual Fire Surface Damage Boost v0.0.0.1](https://www.nexusmods.com/baldursgate3/mods/14830) 
 
 **Removed**
-- [Mari's tattoo](https://www.nexusmods.com/baldursgate3/mods/3744)  
-- [Myky's Makeup and Tattoos](https://www.nexusmods.com/baldursgate3/mods/11280)  
-- [Stacking Carry Weight](https://www.nexusmods.com/baldursgate3/mods/7081)  
-- [VIVIDS - Makeup Lip and Tattoo Color Collection](https://www.nexusmods.com/baldursgate3/mods/5946)  
-- [CompatibilityForOfficialClass (Patch 8)](https://www.nexusmods.com/baldursgate3/mods/15817)  
-- [Jerinski's Alt Makeup](https://www.nexusmods.com/baldursgate3/mods/6674)  
-- [Mari's makeup](https://www.nexusmods.com/baldursgate3/mods/4201)  
+- [Mari's tattoo](https://www.nexusmods.com/baldursgate3/mods/3744) 
+- [Myky's Makeup and Tattoos](https://www.nexusmods.com/baldursgate3/mods/11280) 
+- [Stacking Carry Weight](https://www.nexusmods.com/baldursgate3/mods/7081) 
+- [VIVIDS - Makeup Lip and Tattoo Color Collection](https://www.nexusmods.com/baldursgate3/mods/5946) 
+- [CompatibilityForOfficialClass (Patch 8)](https://www.nexusmods.com/baldursgate3/mods/15817) 
+- [Jerinski's Alt Makeup](https://www.nexusmods.com/baldursgate3/mods/6674) 
+- [Mari's makeup](https://www.nexusmods.com/baldursgate3/mods/4201) 
 
 
 ## 3.0.1.0
 **Added**
-- [Baldur's Baddies (Nails -  Dyeable Nails) v1.0](https://www.nexusmods.com/baldursgate3/mods/11548)
+- [Baldur's Baddies (Nails - Dyeable Nails) v1.0](https://www.nexusmods.com/baldursgate3/mods/11548)
 - [Baldur's Priority - CPU Performance FPS Optimizer v1.0.0](https://www.nexusmods.com/baldursgate3/mods/1326)
 - [E-Cores Excluder v1.0.1](https://www.nexusmods.com/baldursgate3/mods/11060)
 - [Em's Custom Hair Pack 1 v1.3](https://www.nexusmods.com/baldursgate3/mods/5099)
@@ -157,7 +157,7 @@
 **Added**
 - [Arcane Acuity Rework v1.0.0.9](https://www.nexusmods.com/baldursgate3/mods/14595)
 - [Auto Use Soap v1.0.1](https://www.nexusmods.com/baldursgate3/mods/6880)
-- [Best Boy Can Dig -  Scratch Shovel v1](https://www.nexusmods.com/baldursgate3/mods/14004)
+- [Best Boy Can Dig - Scratch Shovel v1](https://www.nexusmods.com/baldursgate3/mods/14004)
 - [Catppuccin Themes for Mod Organizer 2 v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/123207)
 - [Carry Weight Increased - Up To Over 9000 v2.50](https://www.nexusmods.com/baldursgate3/mods/522)
 - [Companion Gale Can Consume Shadow Weave v1.0](https://www.nexusmods.com/baldursgate3/mods/16877)
