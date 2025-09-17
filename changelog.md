@@ -20,7 +20,7 @@
 
 ## 3.3.3.4
 **Updated**
-- [Better Races All in One v1.3](https://www.nexusmods.com/baldursgate3/mods/18503) 
+- [Better Races All in One](https://www.nexusmods.com/baldursgate3/mods/18503) 
 
 ## 3.3.3.3
 **Added**
