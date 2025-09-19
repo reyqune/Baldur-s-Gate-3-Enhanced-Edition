@@ -1,5 +1,6 @@
 # Changelog
 
+- [3.4.0.1](#3401)
 - [3.3.3.4](#3334)
 - [3.3.3.3](#3333)
 - [3.2.0.0](#3200)
@@ -17,6 +18,20 @@
 - [2.0.0.2](#2002)
 - [2.0.0.1](#2001)
 - [2.0.0.0](#2000)
+
+## 3.4.0.1
+**Added**
+- [Ex-Sharran Swimming Lessons for Shadowheart v1.0.0.1](https://www.nexusmods.com/baldursgate3/mods/17844)
+- [Missed Connections - Shadowheart v1.0.0.2](https://www.nexusmods.com/baldursgate3/mods/15272)
+- [Missed Connections - Shadowheart - Truly Connect v1.0.0.1](https://www.nexusmods.com/baldursgate3/mods/17359)
+- [Waterproof Shadowheart v1.0.0](https://www.nexusmods.com/baldursgate3/mods/18548)
+
+**Updated**
+- [Better Races All in One to v1.3](https://www.nexusmods.com/baldursgate3/mods/18503)
+
+**Removed**
+- [Really Shadowheart](https://www.nexusmods.com/baldursgate3/mods/11524)
+
 
 ## 3.3.3.4
 **Updated**
