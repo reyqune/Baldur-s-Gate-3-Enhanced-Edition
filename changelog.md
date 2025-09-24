@@ -1,5 +1,6 @@
 # Changelog
 
+- [3.4.0.2](#3402)
 - [3.4.0.1](#3401)
 - [3.3.3.4](#3334)
 - [3.3.3.3](#3333)
@@ -18,6 +19,23 @@
 - [2.0.0.2](#2002)
 - [2.0.0.1](#2001)
 - [2.0.0.0](#2000)
+
+
+## 3.4.0.2
+**Updated**
+- [Baldur's Gate 3 Enhanced Edition to v1.1.10](https://www.nexusmods.com/baldursgate3/mods/15305)
+- [Better Context Menu to v1.17](https://www.nexusmods.com/baldursgate3/mods/3617)
+- [Better Inventory UI (with Mark Books as Read support) to v1.11](https://www.nexusmods.com/baldursgate3/mods/4597)
+- [Better Shields to v1.0](https://www.nexusmods.com/baldursgate3/mods/18543)
+- [Better Tooltips to v1.1](https://www.nexusmods.com/baldursgate3/mods/6324)
+- [Fix Stragglers to v1.2.0](https://www.nexusmods.com/baldursgate3/mods/10795)
+- [Lae'zel Kiss Dialogue to v1.0.0.3](https://www.nexusmods.com/baldursgate3/mods/17523)
+- [Mod Configuration Menu to v1.4.1](https://www.nexusmods.com/baldursgate3/mods/9162)
+- [Native Camera Tweaks to v2.4.0](https://www.nexusmods.com/baldursgate3/mods/945)
+- [Rainbow Difficulty Replacer to v1](https://www.nexusmods.com/baldursgate3/mods/17543)
+- [Silent No Splash Screen to v1.0](https://www.nexusmods.com/baldursgate3/mods/12103)
+- [Various Dialogue Fixes to v1.0.0](https://www.nexusmods.com/baldursgate3/mods/17091)
+- [WASD Character Movement to v1.9.3](https://www.nexusmods.com/baldursgate3/mods/781)
 
 ## 3.4.0.1
 **Added**
