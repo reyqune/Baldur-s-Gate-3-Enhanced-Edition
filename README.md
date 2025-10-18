@@ -60,11 +60,11 @@ A full list of the mods used in this mod list can be viewed [here](https://www.w
 >[!WARNING]
 >
 >- An SSD is **required** to the play the modlist.
->- Only Windows 10 or 11 operating systems are supported. Windows LTSC, special variants, lightened editions or any other modified variant **will not work.** Linux installations may work, but aren't supported, see the instructions bellow, or click [here](#Linux) for how to install. MacOS is just fully unsupported.
+>- Only Windows 11 is supported. Windows LTSC, special variants, "lite" editions or any other modified variant **are absolutely not supported.** Linux installations may work, but aren't supported, see the instructions bellow, or click [here](#Linux) for how to install. MacOS is just fully unsupported.
 
     Minimum:
         Requires a 64-bit processor and operating system
-        OS: Windows 10 64-bit
+        OS: Windows 11
         Processor: Intel I5 4690 / AMD FX 8350
         Memory: 8 GB RAM
         Graphics: Nvidia GTX 970 / RX 480 (4GB+ of VRAM)
@@ -74,7 +74,7 @@ A full list of the mods used in this mod list can be viewed [here](https://www.w
 
     Recommended:
         Requires a 64-bit processor and operating system
-        OS: Windows 10 64-bit
+        OS: Windows 11
         Processor: Intel i7 8700K / AMD r5 3600
         Memory: 16 GB RAM
         Graphics: Nvidia 2060 Super / RX 5700 XT (8GB+ of VRAM)
