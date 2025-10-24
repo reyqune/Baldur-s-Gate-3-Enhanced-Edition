@@ -44,7 +44,7 @@
 - [Camp Event Overhaul](https://www.nexusmods.com/baldursgate3/mods/17753)
 - [Clawstep - Dragonborn body - Digitigrade legs](https://www.nexusmods.com/baldursgate3/mods/16384)
 - [Combat Grouping by Proximity](https://www.nexusmods.com/baldursgate3/mods/17387)
-- [Condition Fixer]https://www.nexusmods.com/baldursgate3/mods/18904
+- [Condition Fixer](https://www.nexusmods.com/baldursgate3/mods/18904
 - [Crazy Color pack](https://www.nexusmods.com/baldursgate3/mods/12868)
 - [Crystal Crown DMH - Gem Dragonborn CC](https://www.nexusmods.com/baldursgate3/mods/13316)
 - [Crystal Crown Pearl - Gem Dragonborn CC](https://www.nexusmods.com/baldursgate3/mods/13329)
