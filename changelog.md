@@ -1,5 +1,6 @@
 # Changelog
 
+- [4.0.0.4](#4004)
 - [4.0.0.0](#4000)
 - [3.4.0.2](#3402)
 - [3.4.0.1](#3401)
@@ -20,6 +21,25 @@
 - [2.0.0.2](#2002)
 - [2.0.0.1](#2001)
 - [2.0.0.0](#2000)
+
+## 4.0.0.4
+**Updated**
+- [Durge's manged head - Dragonborn CC pack to v1.0.0.3](https://www.nexusmods.com/baldursgate3/mods/9702)
+- [Clawstep - Dragonborn female body - Digitigrade legs to v1.0.0.28](https://www.nexusmods.com/baldursgate3/mods/16384)
+- [Display Status Immunities to v1.0](https://www.nexusmods.com/baldursgate3/mods/17976)
+- [Reforged Head - Dragonborn CC pack to v1.0.0.1](https://www.nexusmods.com/baldursgate3/mods/10343)
+- [Combat Console Commands to v1.01.00](https://www.nexusmods.com/baldursgate3/mods/9282)
+- [Paired Weapons and Improved Dual Wielding to v1.1](https://www.nexusmods.com/baldursgate3/mods/18562)
+- [Downed Condition DnD 5e to v1.1](https://www.nexusmods.com/baldursgate3/mods/19103)
+- [Mod Configuration Menu to v1.4.1](https://www.nexusmods.com/baldursgate3/mods/9162)
+- [Pearl - Seadragon - Dragonborn CC pack to v1.0.0.4](https://www.nexusmods.com/baldursgate3/mods/10761)
+- [Reforged Assets - Dark Urge Dragonborn CC to v1.0.0.9](https://www.nexusmods.com/baldursgate3/mods/13313)
+- [Companion Gale Can Consume Shadow Weave to v1.0](https://www.nexusmods.com/baldursgate3/mods/16877)
+- [Immersive Character Lighting to v1.0](https://www.nexusmods.com/baldursgate3/mods/19337)
+- [Mod Uninstaller to v1.3.1](https://www.nexusmods.com/baldursgate3/mods/9701)
+- [Better Maps All-In-One to v1.15](https://www.nexusmods.com/baldursgate3/mods/2256)
+- [Glow Ink - Body Tattoo - Clawstep - Dragonborn CC to v1.0.0.6](https://www.nexusmods.com/baldursgate3/mods/16855)
+- [Platonic Halsin (Halsin Never Confesses) to v1.0.0](https://www.nexusmods.com/baldursgate3/mods/18583)
 
 ## 4.0.0.0
 **Uppdated**
