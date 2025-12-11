@@ -1,5 +1,6 @@
 # Changelog
 
+- [5.0.0.0](#5000)
 - [4.0.0.4](#4004)
 - [4.0.0.0](#4000)
 - [3.4.0.2](#3402)
@@ -21,6 +22,32 @@
 - [2.0.0.2](#2002)
 - [2.0.0.1](#2001)
 - [2.0.0.0](#2000)
+
+## 5.0.0.0
+**Updated**
+- [Vexa - Dark Urge Slayer Dragonborn CC pack to v1.0.0.2](https://www.nexusmods.com/baldursgate3/mods/11622)
+- [Slayer Assets - Dark Urge Dragonborn CC to v1.0.0.7](https://www.nexusmods.com/baldursgate3/mods/13525)
+- [Druid Perfection to v1.1.0](https://www.nexusmods.com/baldursgate3/mods/4939)
+- [Mod Configuration Menu to v1.4.1](https://www.nexusmods.com/baldursgate3/mods/9162)
+- [Paired Weapons and Improved Dual Wielding to v1.1](https://www.nexusmods.com/baldursgate3/mods/18562)
+
+**Added**
+- [Half-Orcs Stand Tall v1.0](https://www.nexusmods.com/baldursgate3/mods/19679)
+- [NPC Redesign - Vampire Spawns by AzazeL (WIP) v1.4](https://www.nexusmods.com/baldursgate3/mods/17268)
+- [Ring of Mind Shielding Edit v1.0](https://www.nexusmods.com/baldursgate3/mods/19607)
+- [Axi and Cay's Meme Poses v1.0.4](https://www.nexusmods.com/baldursgate3/mods/19474)
+- [Florrick Is Not Dumb v1.0.0.4](https://www.nexusmods.com/baldursgate3/mods/19763)
+- [Dragonborn Walk to Idle Animation Bug Fix - Male and Female v1.0](https://www.nexusmods.com/baldursgate3/mods/19663)
+- [Configurable Pickpocketing v1.0.0](https://www.nexusmods.com/baldursgate3/mods/19367)
+- [No CG Intro Cinematic v1.0](https://www.nexusmods.com/baldursgate3/mods/19522)
+- [Be My Bhaalentine - Romance partner can be abducted v1.0.0.7](https://www.nexusmods.com/baldursgate3/mods/19470)
+- [Githyanki Can Parry v1.0](https://www.nexusmods.com/baldursgate3/mods/19713)
+- [Character Preset Framework (CPF) v1.4.1](https://www.nexusmods.com/baldursgate3/mods/19805)
+- [Icon and Race Patches for Tav's Hair Salon v1.5.0](https://www.nexusmods.com/baldursgate3/mods/3346)
+- [Passive Boost Deduplicator v1.0.0](https://www.nexusmods.com/baldursgate3/mods/19523)
+- [Pause The Game v1.0.0](https://www.nexusmods.com/baldursgate3/mods/19517)
+- [Goon's Vendor Overhaul - Trader Exploit Prevention v1.0.0.0](https://www.nexusmods.com/baldursgate3/mods/19741)
+- [Wyll - Theo Solomon Banter v1.1](https://www.nexusmods.com/baldursgate3/mods/19832)
 
 ## 4.0.0.4
 **Updated**
