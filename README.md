@@ -1,4 +1,3 @@
-
 ![](https://raw.githubusercontent.com/reyqune/Baldur-s-Gate-3-Enhanced-Edition/refs/heads/main/images/Banner.png)
 
 <p align="center">
@@ -311,6 +310,31 @@ Versioning for the list will adhere to the following format: `MAJOR.MINOR.PATCH`
 - In some rare cases you may see a fourth slot be used, which I will refer to as `HOTFIX`. These list "updates" will be used if the list needs to be recompiled for any reason. There will be no changes in these "updates" as they are purely for maintenance.
 
 Updating is like installing the list. Simply make sure your paths are the same and tick the `overwrite installation` button. Please keep in mind any mods you have added will be deleted when updating. To make sure that Wabbajack does not delete your self-added, mods upon updating, prefix your installed mods with `[NoDelete]`.
+
+## Troubleshooting
+
+### Q: Enemies stopped attacking, they just stand there doing nothing
+A: A vanilla game bug, that has existed since early access, and is still unresolved. 
+A workaround is to save the game, restart the game, and load your save file.
+
+### Q: Mods are disabled in the in game mod manager
+A: The mods are managed through MO2, and the included plugin. The mods should still be active in the actual game.
+The in game mod manager isn't usable with this mod list, and can safely be ignored.
+
+### Q: How do I download older versions of the list?
+A: Use the nexusmods page https://www.nexusmods.com/baldursgate3/mods/15305
+But do keep in mind that only the latest version is fully supported.
+
+### Q: I have an ongoing game with mods from the in-game modmanager, can I play this without everything getting broken?
+A: the plugin that allows mo2 to manage the mods overwrites stuff in `%Localappdata%\Larian Studios`.
+So if you don't want to re-download those mods, make a backup of that folder.
+
+
+### Q: Slow startup of the game through Mod Organizer 2 and/or it freezing on startup, or it takes time for the game to fully shutdown?
+A: Disable the root builder Autobuild option in the root builder settings, and run build manually instead.
+Only do this if you experience the issue, and it has to be redone if you notice that the script extender isn't starting.
+
+![](https://raw.githubusercontent.com/reyqune/Baldur-s-Gate-3-Enhanced-Edition/refs/heads/main/images/Rootbuilder_workaround.jpg)
 
 ## Removing the mod list
 
