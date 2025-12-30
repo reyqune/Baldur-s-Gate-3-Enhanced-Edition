@@ -1,5 +1,6 @@
 # Changelog
 
+- [5.0.0.5](#5005)
 - [5.0.0.1](#5001)
 - [5.0.0.0](#5000)
 - [4.0.0.4](#4004)
@@ -23,6 +24,11 @@
 - [2.0.0.2](#2002)
 - [2.0.0.1](#2001)
 - [2.0.0.0](#2000)
+
+## 5.0.0.5
+**Updated**
+[Lesser Restoration - Assorted Bug Fixes to v1.0.0.1](https://www.nexusmods.com/baldursgate3/mods/15125)
+[Goon's Vendor Overhaul - Trader Exploit Prevention to v1.0.0.0](https://www.nexusmods.com/baldursgate3/mods/19741)
 
 ## 5.0.0.1
 Fixed a minor visual issue, nothing was updated/added/deleted
