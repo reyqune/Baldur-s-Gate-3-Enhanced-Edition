@@ -238,7 +238,7 @@ If you use Windows Defender, it is advised that you set up an exception for the 
 <summary>Setting up Windows Defender Exceptions:</summary>
 
  1. Press the Windows Key.
- 2. Type "Windows Defender" in the search bar and select "Windows Security".
+ 2. Type "Windows Security" in the search bar and select "Windows Security".
  3. Click on "Virus & threat protection" in the left pane.
  4. Click the "Manage settings" option under "Virus & threat protection settings".
  5. Scroll down to "Exclusions" and click "Add or remove exclusions".
