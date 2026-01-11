@@ -309,7 +309,7 @@ Versioning for the list will adhere to the following format: `MAJOR.MINOR.PATCH`
 - `PATCH`: Any release with a number change here will be considered a patch, these updates should be save safe and will be used primarily for bugfixes.
 - In some rare cases you may see a fourth slot be used, which I will refer to as `HOTFIX`. These list "updates" will be used if the list needs to be recompiled for any reason. There will be no changes in these "updates" as they are purely for maintenance.
 
-Updating is like installing the list. Simply make sure your paths are the same and tick the `overwrite installation` button. Please keep in mind any mods you have added will be deleted when updating. To make sure that Wabbajack does not delete your self-added, mods upon updating, prefix your installed mods with `[NoDelete]`.
+Updating is like installing the list. Simply make sure your paths are the same as when you previously installed the modlist. Please keep in mind any mods you have added will be deleted when updating. To make sure that Wabbajack does not delete your self-added, mods upon updating, prefix your installed mods with `[NoDelete]`.
 
 ## Troubleshooting
 
