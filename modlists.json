@@ -10,10 +10,13 @@
         "game": "baldursgate3",
         "tags": [
             "Official",
-            "Quality of Life",
-            "Visual Enhancements",
-            "Balance Enhancements",
-            "Lore friendly"
+            "Combat Overhaul",
+            "Dark Fantasy",
+            "High Fantasy",
+            "Multiplayer",
+            "GOG",
+            "Steam",
+            "Vanilla+"
         ],
         "official": true,
         "nsfw": false,
@@ -23,20 +26,20 @@
             "$type": "Links, Wabbajack.Lib",
             "image": "https://raw.githubusercontent.com/reyqune/Baldur-s-Gate-3-Enhanced-Edition/main/images/banner2.webp",
             "readme": "https://github.com/reyqune/Baldur-s-Gate-3-Enhanced-Edition/blob/main/README.md",
-            "download": "https://authored-files.wabbajack.org/BG3EE5.0.0.5.wabbajack_84fbf0b0-00a7-44a4-b771-e18712db676e",
+            "download": "https://authored-files.wabbajack.org/BG3EE6.wabbajack_a659cd8d-b0ad-482d-85b5-c8489316e726",
             "machineURL": "BG3EE",
             "discordURL": "https://discord.gg/ty62eQTdkE"
         },
         "download_metadata": {
             "$type": "DownloadMetadata, Wabbajack.Lib",
-            "Hash": "JLONvJAm8S0=",
-            "Size": 2140917,
-            "NumberOfArchives": 395,
-            "SizeOfArchives": 7306798404,
-            "NumberOfInstalledFiles": 2732,
-            "SizeOfInstalledFiles": 9240297423,
-            "TotalSize": 16547095827
+            "Hash": "kqxLK5rnQdw=",
+            "Size": 1985223,
+            "NumberOfArchives": 343,
+            "SizeOfArchives": 4088277858,
+            "NumberOfInstalledFiles": 2551,
+            "SizeOfInstalledFiles": 5044366699,
+            "TotalSize": 9132644557
         },
-        "version": "5.0.0.5"
+        "version": "6.0.0.0"
     }
 ]
