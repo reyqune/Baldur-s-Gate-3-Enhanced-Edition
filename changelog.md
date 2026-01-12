@@ -1,5 +1,6 @@
 # Changelog
 
+- [6.0.0.2](#6002)
 - [6.0.0.0](#6000)
 - [5.0.0.5](#5005)
 - [5.0.0.1](#5001)
@@ -26,8 +27,15 @@
 - [2.0.0.1](#2001)
 - [2.0.0.0](#2000)
 
+## 6.0.0.2
+**Updated**
+- [Goon's Vendor Overhaul - Trader Exploit Prevention to v1.0.0.0](https://www.nexusmods.com/baldursgate3/mods/19741)
+- [Various Dialogue Fixes to v1.0.0](https://www.nexusmods.com/baldursgate3/mods/17091)
+- [Rootbuilder to 5.1.1](https://github.com/Kezyma/ModOrganizer-Plugins/releases/download/rootbuilder/rootbuilder.5.1.1.zip)
+
+
 ## 6.0.0.0
-## Updated
+**Updated**
 - [Bonk Enhanced - Knocked Out Failsafe - Non-Lethal Attacks and Damage Overhaul to v2.1](https://www.nexusmods.com/baldursgate3/mods/13727)
 - [Fix Stragglers to v1.2.0](https://www.nexusmods.com/baldursgate3/mods/10795)
 - [Goon's Companion Protection to v1.1](https://www.nexusmods.com/baldursgate3/mods/14396)
@@ -42,7 +50,7 @@
 - [Volition Cabinet to v1.1.0](https://www.nexusmods.com/baldursgate3/mods/7676)
 - [Zip's Heads to v1.4](https://www.nexusmods.com/baldursgate3/mods/5357)
 
-## Removed
+**Removed**
 - [Astra's Subtle Gradient Body Textures v1.0](https://www.nexusmods.com/baldursgate3/mods/18197)
 - [Astralities Fluffy Ears v1.0](https://www.nexusmods.com/baldursgate3/mods/10398)
 - [Astralities' Fantasy Skintone Expansion v1.0](https://www.nexusmods.com/baldursgate3/mods/2900)
