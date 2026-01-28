@@ -289,6 +289,17 @@ While you are free to customise the settings as you prefer them, this is what th
 
 ![](https://raw.githubusercontent.com/reyqune/Baldur-s-Gate-3-Enhanced-Edition/refs/heads/main/images/rules.jpg)
 
+Configuring the settings for PixellBytes' Tactician Enhanced
+
+After you have created your character you'll get a popup about configuring the settings for the difficulty configuration mod PixellBytes' Tactician Enhanced.
+(The main point of this mod is to allow the game to scale based on the amount of party members you have past the regular 4, this is something you can configure via the mod configuration menu. for more information see [this page](https://www.nexusmods.com/baldursgate3/mods/11172) )
+
+To play the game with the default recommended settings, be sure to select the option "I would like to use this preset" in the popup.
+
+![](https://raw.githubusercontent.com/reyqune/Baldur-s-Gate-3-Enhanced-Edition/refs/heads/main/images/tacticianenhanced.jpg)
+
+You can also configure the option to better suit your own preferences, see the [mod page](https://www.nexusmods.com/baldursgate3/mods/13685) for more information about that.
+
 ### Setting the root builder to copy mode.
 
  1. Open the bundled mod organiser 2
