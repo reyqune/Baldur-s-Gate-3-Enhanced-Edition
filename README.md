@@ -300,7 +300,7 @@ To play the game with the default recommended settings, be sure to select the op
 
 ![](https://raw.githubusercontent.com/reyqune/Baldur-s-Gate-3-Enhanced-Edition/refs/heads/main/images/tacticianenhanced.jpg)
 
-You can also configure the option to better suit your own preferences, see the [mod page](https://www.nexusmods.com/baldursgate3/mods/13685) for more information about that.
+You can also configure the option to better suit your own preferences, see the [mod page](https://www.nexusmods.com/baldursgate3/mods/13685) for Tactician Enhanced for more information.
 
 ### Setting the root builder to copy mode.
 
