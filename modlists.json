@@ -29,7 +29,13 @@
       "download": "https://authored-files.wabbajack.org/Baldur\u0027s Gate 3 Enhanced Edition.wabbajack_140d3345-5d7b-4046-ba3c-60b07567a927",
       "machineURL": "BG3EE",
       "discordURL": "https://discord.gg/ty62eQTdkE",
-      "websiteURL": ""
+      "websiteURL": "",
+      "nexusCollection": {
+        "collectionId": 402320,
+        "slug": "qj8rl0",
+        "domainName": "baldursgate3",
+        "lastRevisionNumber": 1
+      }
     },
     "download_metadata": {
       "Hash": "m6r+qVwrvgk=",
