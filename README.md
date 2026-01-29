@@ -21,7 +21,7 @@ Breathes new life into the realms with improved quality of life, vanquished bugs
 
 What the list is:
 
-[Load Order Library page](https://loadorderlibrary.com/lists/baldur-s-gate-3-enhanced-edition)
+A full list of the mods used in this mod list can be viewed [here](https://loadorderlibrary.com/lists/baldur-s-gate-3-enhanced-edition)
 
 - Quality of life additions for the user interface to make the experience smoother, also includes multiple options for several different Aspect ratios, 16:9, 16:10, and Ultrawide are available to choose from in Mod Organizer 2. Also includes accessibility options.
 - Enriched visuals that makes the world become more alive, but also with several options for personal preference.
@@ -41,8 +41,6 @@ What the list isn't:
 - cheats, unbalanced content, too punishing content, or too easy content. (Or rather that all depends on your skill as a player obviously ;))
 - a list to play regular honour mode, use custom mode instead. There are too many issues to break the game without mods, and it's unpredictable how these mods will affect a genuine honour mode play-through.
 
-
-A full list of the mods used in this mod list can be viewed [here](https://loadorderlibrary.com/lists/baldur-s-gate-3-enhanced-edition)
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
