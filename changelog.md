@@ -1,5 +1,6 @@
 # Changelog
 
+- [6.0.0.6](#6006)
 - [6.0.0.2](#6002)
 - [6.0.0.0](#6000)
 - [5.0.0.5](#5005)
@@ -26,6 +27,26 @@
 - [2.0.0.2](#2002)
 - [2.0.0.1](#2001)
 - [2.0.0.0](#2000)
+
+
+## 6.0.0.6
+**Updated**
+- [A Beautiful Webbing - Minthara's Romance Scene Unlocked to v1.0.1.37](https://www.nexusmods.com/baldursgate3/mods/18685)
+- [Display Status Immunities to v1.0](https://www.nexusmods.com/baldursgate3/mods/17976)
+- [Lesser Restoration - Assorted Bug Fixes to v1.0.0.1](https://www.nexusmods.com/baldursgate3/mods/15125)
+- [Mod Configuration Menu to v1.4.1](https://www.nexusmods.com/baldursgate3/mods/9162)
+- [Passive Boost Deduplicator to v1.0.0](https://www.nexusmods.com/baldursgate3/mods/19523)
+- [Second Chance - New Dark Urge Reward to v1.1](https://www.nexusmods.com/baldursgate3/mods/19179)
+- [Volition Cabinet to v1.1.0](https://www.nexusmods.com/baldursgate3/mods/7676)
+- [Wyll - Theo Solomon Banter to v1.1](https://www.nexusmods.com/baldursgate3/mods/19832)
+
+**Added**
+- [Better Dialogue Controls - SE v1.1.0.0](https://www.nexusmods.com/baldursgate3/mods/20908)
+- [Dice Roulette v1.0.0.0](https://www.nexusmods.com/baldursgate3/mods/20857)
+- [Mithridatism - poison resistance for Minthara v1.0](https://www.nexusmods.com/baldursgate3/mods/20901)
+- [Preemptively Label Containers v1.2.3](https://www.nexusmods.com/baldursgate3/mods/6313)
+- [Progression Preview - Full Class Progressions Shown Ingame v1.2.0.0](https://www.nexusmods.com/baldursgate3/mods/20193)
+- [ToggleFX - MCM v1.1.0.3](https://www.nexusmods.com/baldursgate3/mods/20766)
 
 ## 6.0.0.2
 **Updated**
