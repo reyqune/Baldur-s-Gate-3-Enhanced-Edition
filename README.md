@@ -302,6 +302,26 @@ To play the game with the default recommended settings, be sure to select the op
 
 You can also configure the option to better suit your own preferences, see the [mod page](https://www.nexusmods.com/baldursgate3/mods/13685) for Tactician Enhanced for more information.
 
+## Dialogue Navigation
+
+Default Keybinds
+
+Keyboard
+
+    W / S: Navigate dialogue options up/down
+    Space: Confirm selection / Skip dialogue
+    R: Roll dice
+    C: Use inspiration (reroll)
+    F: Continue after failed roll (Can also skip the roll animation entirely)
+
+Controller (disabled by default)
+
+    D-Pad Up/Down: Navigate dialogue options
+    A: Confirm selection / Roll dice
+    X: Skip dialogue / Continue after roll
+    Y: Use inspiration
+    Triggers: Can be bound to any action
+
 ### Setting the root builder to copy mode.
 
  1. Open the bundled mod organiser 2
