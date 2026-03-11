@@ -1,48 +1,54 @@
 [
-    {
-        "title": "Baldur's Gate 3 Enhanced Edition",
-        "description": "Breathes new life into the realms with improved quality of life, vanquished bugs, enriched visuals, and finely tuned combat balance, all forged with reverence for the spirit of the original adventure.",
-        "author": "reyqune",
-        "maintainers": [
-            "github/reyqune"
-        ],
-        "game": "baldursgate3",
-        "official": true,
-        "tags": [
-            "Official",
-            "Combat Overhaul",
-            "Dark Fantasy",
-            "High Fantasy",
-            "Multiplayer",
-            "GOG",
-            "Steam",
-            "Vanilla+"
-        ],
-        "nsfw": false,
-        "utility_list": false,
-        "image_contains_title": true,
-        "DisplayVersionOnlyInInstallerView": false,
-        "force_down": false,
-        "links": {
-            "image": "https://raw.githubusercontent.com/reyqune/Baldur-s-Gate-3-Enhanced-Edition/main/images/banner2.webp",
-            "readme": "https://github.com/reyqune/Baldur-s-Gate-3-Enhanced-Edition/blob/main/README.md",
-            "download": "https://authored-files.wabbajack.org/Baldur's Gate 3 Enhanced Edition.wabbajack_3e7661ca-883d-4d33-95f8-436cbca06fed",
-            "machineURL": "BG3EE",
-            "discordURL": "https://discord.gg/ty62eQTdkE",
-            "websiteURL": ""
-        },
-        "download_metadata": {
-            "Hash": "wIL59+Vwk7o=",
-            "Size": 1841219,
-            "NumberOfArchives": 274,
-            "SizeOfArchives": 1960307832,
-            "NumberOfInstalledFiles": 2377,
-            "SizeOfInstalledFiles": 2685543194,
-            "TotalSize": 4645851026
-        },
-        "version": "7.0.0.5",
-        "dateCreated": "1970-01-01T00:00:00Z",
-        "dateUpdated": "2026-03-11T16:46:21.6323439Z",
-        "repositoryName": ""
-    }
+  {
+    "title": "Baldur\u0027s Gate 3 Enhanced Edition",
+    "description": "Breathes new life into the realms with improved quality of life, vanquished bugs, enriched visuals, and finely tuned combat balance, all forged with reverence for the spirit of the original adventure.",
+    "author": "reyqune",
+    "maintainers": [
+      "github/reyqune"
+    ],
+    "game": "baldursgate3",
+    "official": true,
+    "tags": [
+      "Official",
+      "Combat Overhaul",
+      "Dark Fantasy",
+      "High Fantasy",
+      "Multiplayer",
+      "GOG",
+      "Steam",
+      "Vanilla\u002B"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/reyqune/Baldur-s-Gate-3-Enhanced-Edition/main/images/banner2.webp",
+      "readme": "https://github.com/reyqune/Baldur-s-Gate-3-Enhanced-Edition/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Baldur\u0027s Gate 3 Enhanced Edition.wabbajack_3e7661ca-883d-4d33-95f8-436cbca06fed",
+      "machineURL": "BG3EE",
+      "discordURL": "https://discord.gg/ty62eQTdkE",
+      "websiteURL": "",
+      "nexusCollection": {
+        "collectionId": "422570",
+        "slug": "kwkohu",
+        "domainName": "baldursgate3",
+        "lastRevisionNumber": 1
+      }
+    },
+    "download_metadata": {
+      "Hash": "wIL59+Vwk7o=",
+      "Size": 1841219,
+      "NumberOfArchives": 274,
+      "SizeOfArchives": 1960307832,
+      "NumberOfInstalledFiles": 2377,
+      "SizeOfInstalledFiles": 2685543194,
+      "TotalSize": 4645851026
+    },
+    "version": "7.0.0.5",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2026-03-11T16:46:21.6323439Z",
+    "repositoryName": ""
+  }
 ]
