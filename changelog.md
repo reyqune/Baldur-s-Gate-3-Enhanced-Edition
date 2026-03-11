@@ -1,4 +1,5 @@
 # Changelog
+- [7.0.0.5](#7005)
 - [7.0.0.0](#7000)
 - [6.0.0.6](#6006)
 - [6.0.0.2](#6002)
@@ -27,6 +28,17 @@
 - [2.0.0.2](#2002)
 - [2.0.0.1](#2001)
 - [2.0.0.0](#2000)
+
+## 7.0.0.5
+**Updated**
+- Updated [Barcus Wroot - Dynamic Appearances to v1.0.0.10](https://www.nexusmods.com/baldursgate3/mods/21518)
+- Updated [Dark Urge Tweeaks to v1.0.0.15](https://www.nexusmods.com/baldursgate3/mods/15031)
+- Updated [Mod Configuration Menu to v1.4.1](https://www.nexusmods.com/baldursgate3/mods/9162)
+- Updated [No Crest for Dragonborn - Toolkit to v1.0.0.2](https://www.nexusmods.com/baldursgate3/mods/13054)
+
+**Added**
+- Added [Fix Your Incubus - Tail Animations Restored v1.0.0.3](https://www.nexusmods.com/baldursgate3/mods/21846)
+
 
 
 ## 7.0.0.0
