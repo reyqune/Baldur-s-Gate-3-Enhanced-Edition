@@ -30,7 +30,12 @@
       "machineURL": "BG3EE",
       "discordURL": "https://discord.gg/ty62eQTdkE",
       "websiteURL": "",
-      "nexusCollection": null
+      "nexusCollection": {
+        "collectionId": "422560",
+        "slug": "",
+        "domainName": "baldursgate3",
+        "lastRevisionNumber": 1
+      }
     },
     "download_metadata": {
       "Hash": "LtrVKoXjj1A=",
