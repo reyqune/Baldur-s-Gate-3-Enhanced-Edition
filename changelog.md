@@ -1,6 +1,5 @@
 # Changelog
 
-- [7.1.0.0](#7100)
 - [7.0.0.6](#7006)
 - [7.0.0.5](#7005)
 - [7.0.0.0](#7000)
@@ -31,11 +30,6 @@
 - [2.0.0.2](#2002)
 - [2.0.0.1](#2001)
 - [2.0.0.0](#2000)
-
-## 7.1.0.0
-**Removed due to the mods being removed from nexusmods**
-- Removed [Barcus Wroot - Dynamic Appearances v1.0.0.10](https://www.nexusmods.com/baldursgate3/mods/21518)
-- Removed [A Beautiful Webbing - Minthara's Romance Scene Unlocked v1.0.1.37](https://www.nexusmods.com/baldursgate3/mods/18685)
 
 ## 7.0.0.6
 **Uppdated**
