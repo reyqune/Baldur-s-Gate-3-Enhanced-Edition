@@ -1,4 +1,5 @@
 # Changelog
+- [7.0.0.6](#7006)
 - [7.0.0.5](#7005)
 - [7.0.0.0](#7000)
 - [6.0.0.6](#6006)
@@ -28,6 +29,11 @@
 - [2.0.0.2](#2002)
 - [2.0.0.1](#2001)
 - [2.0.0.0](#2000)
+
+## 7.0.0.6
+**Uppdated**
+- Updated [Barcus Wroot - Dynamic Appearances to v1.0.0.10](https://www.nexusmods.com/baldursgate3/mods/21518)
+- Updated [BG3-MO2-Unofficial-Plugin to v1.0.1](https://github.com/Alvadus/BG3-MO2-Unofficial-Plugin/releases/)
 
 ## 7.0.0.5
 **Updated**
