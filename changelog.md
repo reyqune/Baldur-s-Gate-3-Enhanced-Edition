@@ -1,5 +1,6 @@
 # Changelog
 
+- [7.0.0.7](#7007)
 - [7.0.0.6](#7006)
 - [7.0.0.5](#7005)
 - [7.0.0.0](#7000)
@@ -32,21 +33,25 @@
 - [2.0.0.0](#2000)
 
 ## 7.0.0.6
+Fixed Hashing issues
+
+**Updated**
+- [Dice Roulette to v1.1.0.0](https://www.nexusmods.com/baldursgate3/mods/20857)
+
+## 7.0.0.6
 **Uppdated**
-- Updated [Barcus Wroot - Dynamic Appearances to v1.0.0.10](https://www.nexusmods.com/baldursgate3/mods/21518)
-- Updated [BG3-MO2-Unofficial-Plugin to v1.0.1](https://github.com/Alvadus/BG3-MO2-Unofficial-Plugin/releases/)
+[Barcus Wroot - Dynamic Appearances to v1.0.0.10](https://www.nexusmods.com/baldursgate3/mods/21518)
+[BG3-MO2-Unofficial-Plugin to v1.0.1](https://github.com/Alvadus/BG3-MO2-Unofficial-Plugin/releases/)
 
 ## 7.0.0.5
 **Updated**
-- Updated [Barcus Wroot - Dynamic Appearances to v1.0.0.10](https://www.nexusmods.com/baldursgate3/mods/21518)
-- Updated [Dark Urge Tweeaks to v1.0.0.15](https://www.nexusmods.com/baldursgate3/mods/15031)
-- Updated [Mod Configuration Menu to v1.4.1](https://www.nexusmods.com/baldursgate3/mods/9162)
-- Updated [No Crest for Dragonborn - Toolkit to v1.0.0.2](https://www.nexusmods.com/baldursgate3/mods/13054)
+[Barcus Wroot - Dynamic Appearances to v1.0.0.10](https://www.nexusmods.com/baldursgate3/mods/21518)
+[Dark Urge Tweeaks to v1.0.0.15](https://www.nexusmods.com/baldursgate3/mods/15031)
+[Mod Configuration Menu to v1.4.1](https://www.nexusmods.com/baldursgate3/mods/9162)
+[No Crest for Dragonborn - Toolkit to v1.0.0.2](https://www.nexusmods.com/baldursgate3/mods/13054)
 
 **Added**
 - Added [Fix Your Incubus - Tail Animations Restored v1.0.0.3](https://www.nexusmods.com/baldursgate3/mods/21846)
-
-
 
 ## 7.0.0.0
 **Updated**
