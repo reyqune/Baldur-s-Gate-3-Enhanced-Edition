@@ -35,18 +35,18 @@
 
 ## 7.0.1.2
 
-Mostly a stability/crash-fix update. Should be save safe with any 7.0.0.0+ version
+Mostly a stability/crash-fix update. Should be save safe with any 7.0.0.0+ version.
 
 **Updated**
-[Better Dialogue Controls - SE to v1.1.0.0](https://www.nexusmods.com/baldursgate3/mods/20908)
-[Compatibility Framework to v2.6.3.9](https://www.nexusmods.com/baldursgate3/mods/1933)
-[Dice Roulette to v1.0.0.0](https://www.nexusmods.com/baldursgate3/mods/20857)
-[Early Access Scenes Restored to v1.2.1.1](https://www.nexusmods.com/baldursgate3/mods/16830)
-[EasyCheat with in-game UI (MCM)(SE) to v1.2](https://www.nexusmods.com/baldursgate3/mods/9827)
-[Full Restore Fix to v1.1](https://www.nexusmods.com/baldursgate3/mods/18642)
-[Immersive Reading to v1.3](https://www.nexusmods.com/baldursgate3/mods/7704)
-[Priestess Gut Gonna Knock You Out to v1.0.0.3](https://www.nexusmods.com/baldursgate3/mods/17344)
-[Stomp that Tadpole to v1.0.0.1](https://www.nexusmods.com/baldursgate3/mods/17485)
+- [Better Dialogue Controls - SE to v1.1.0.0](https://www.nexusmods.com/baldursgate3/mods/20908)
+- [Compatibility Framework to v2.6.3.9](https://www.nexusmods.com/baldursgate3/mods/1933)
+- [Dice Roulette to v1.0.0.0](https://www.nexusmods.com/baldursgate3/mods/20857)
+- [Early Access Scenes Restored to v1.2.1.1](https://www.nexusmods.com/baldursgate3/mods/16830)
+- [EasyCheat with in-game UI (MCM)(SE) to v1.2](https://www.nexusmods.com/baldursgate3/mods/9827)
+- [Full Restore Fix to v1.1](https://www.nexusmods.com/baldursgate3/mods/18642)
+- [Immersive Reading to v1.3](https://www.nexusmods.com/baldursgate3/mods/7704)
+- [Priestess Gut Gonna Knock You Out to v1.0.0.3](https://www.nexusmods.com/baldursgate3/mods/17344)
+- [Stomp that Tadpole to v1.0.0.1](https://www.nexusmods.com/baldursgate3/mods/17485)
 
 ## 7.0.0.7
 Fixed Hashing issues
