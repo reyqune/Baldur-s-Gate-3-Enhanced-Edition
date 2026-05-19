@@ -1,5 +1,6 @@
 # Changelog
 
+- [7.0.1.8](#7018)
 - [7.0.1.2](#7012)
 - [7.0.0.7](#7007)
 - [7.0.0.6](#7006)
@@ -33,8 +34,17 @@
 - [2.0.0.1](#2001)
 - [2.0.0.0](#2000)
 
-## 7.0.1.2
+## 7.0.1.8
+- [Character Preset Framework (CPF) v1.4.1](https://www.nexusmods.com/baldursgate3/mods/19805)
+- [Druid Perfection v1.1.0](https://www.nexusmods.com/baldursgate3/mods/4939)
+- [Druid Quality of Life v2.1.6](https://www.nexusmods.com/baldursgate3/mods/3214)
+- [Progression Preview - Full Class Progressions Shown Ingame v1.2.0.0](https://www.nexusmods.com/baldursgate3/mods/20193)
+- [EasyCheat with in-game UI (MCM)(SE) v1.2](https://www.nexusmods.com/baldursgate3/mods/9827)
+- [Immersive Reading v1.3](https://www.nexusmods.com/baldursgate3/mods/7704)
+- [Booming Blade BUGFIX v1.0](https://www.nexusmods.com/baldursgate3/mods/15879)
+- [Downed Condition DnD 5e v1.1](https://www.nexusmods.com/baldursgate3/mods/19103)
 
+## 7.0.1.2
 Mostly a stability/crash-fix update. Should be save safe with any 7.0.0.0+ version.
 
 **Updated**
