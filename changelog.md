@@ -1,5 +1,6 @@
 # Changelog
 
+- [8.0.0.0](#8000)
 - [7.0.1.8](#7018)
 - [7.0.1.2](#7012)
 - [7.0.0.7](#7007)
@@ -33,6 +34,42 @@
 - [2.0.0.2](#2002)
 - [2.0.0.1](#2001)
 - [2.0.0.0](#2000)
+
+## 8.0.0.0
+**Added**
+
+- [BG3-MO2-Unofficial-Plugin.1.1.1.zip](https://github.com/Alvadus/BG3-MO2-Unofficial-Plugin/releases/download/1.1.1/BG3-MO2-Unofficial-Plugin.1.1.1.zip)
+- [Goon's Inheritance Fixes v1.2.0.0](https://www.nexusmods.com/baldursgate3/mods/23439)
+- [True Consequences (Anti savescum) v1.0.0](https://www.nexusmods.com/baldursgate3/mods/23725)
+- [Wyll You Sit With Me v1.0.0.20](https://www.nexusmods.com/baldursgate3/mods/18972)
+- [Druid Wild Shape Overhaul v0.5.1](https://www.nexusmods.com/baldursgate3/mods/1148)
+- [More Camp Idles For Karlach and Shadowheart v1.0](https://www.nexusmods.com/baldursgate3/mods/23227)
+- [Auntie Ethel Always Surrenders v1.1.0.2](https://www.nexusmods.com/baldursgate3/mods/22300)
+- [Dynamic Camp Supply Cost v1.0.0](https://www.nexusmods.com/baldursgate3/mods/21884)
+- [Bleeding Overhaul v1.0.0.0](https://www.nexusmods.com/baldursgate3/mods/17401)
+- [If Fate Chose Differently - Wyll Pact Points Overhaul (WCU Mod 4) v1.0.0.9](https://www.nexusmods.com/baldursgate3/mods/22731)
+- [Embrace Shart - Hug Shadowheart in Act 2 v1.0.0.21](https://www.nexusmods.com/baldursgate3/mods/23610)
+- [Lesson Learned - Animation Fix for Gale's Magic Lesson v1.0.0.9](https://www.nexusmods.com/baldursgate3/mods/23085)
+- [Endgame Lae'zel has Githyanki egg v1.0](https://www.nexusmods.com/baldursgate3/mods/23488)
+
+**Updated**
+
+- [Goon's Companion Protection v1.1](https://www.nexusmods.com/baldursgate3/mods/14396)
+- [Wyll - Theo Solomon Banter v1.1](https://www.nexusmods.com/baldursgate3/mods/19832)
+- [Character Preset Framework (CPF) v1.4.1](https://www.nexusmods.com/baldursgate3/mods/19805)
+- [Better Dialogue Controls - SE v1.1.0.0](https://www.nexusmods.com/baldursgate3/mods/20908)
+- [Passive Boost Deduplicator v1.0.0](https://www.nexusmods.com/baldursgate3/mods/19523)
+- [WASD Character Movement v1.9.3](https://www.nexusmods.com/baldursgate3/mods/781)
+- [Early Access Scenes Restored v1.2.1.1](https://www.nexusmods.com/baldursgate3/mods/16830)
+- [Githyanki Frog Eyes v1.0.0.2](https://www.nexusmods.com/baldursgate3/mods/17647)
+- [Progression Preview - Full Class Progressions Shown Ingame v1.2.0.0](https://www.nexusmods.com/baldursgate3/mods/20193)
+
+**Removed**
+
+- [Druid Perfection v1.1.0](https://www.nexusmods.com/baldursgate3/mods/4939)
+- [Druid Quality of Life v2.1.6](https://www.nexusmods.com/baldursgate3/mods/3214)
+- [Druid Quality of Life - Hotbar Restore v1.0.1](https://www.nexusmods.com/baldursgate3/mods/5877)
+- [Dice Roulette v1.0.0.0](https://www.nexusmods.com/baldursgate3/mods/20857)
 
 ## 7.0.1.8
 - [Character Preset Framework (CPF) v1.4.1](https://www.nexusmods.com/baldursgate3/mods/19805)
