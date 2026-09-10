@@ -1,5 +1,6 @@
 # Changelog
 
+- [8.0.0.1](#8001)
 - [8.0.0.0](#8000)
 - [7.0.1.8](#7018)
 - [7.0.1.2](#7012)
@@ -35,6 +36,23 @@
 - [2.0.0.1](#2001)
 - [2.0.0.0](#2000)
 
+## 8.0.0.1
+**Updated**
+- [Auto Send Food To Camp v1.3.3](https://www.nexusmods.com/baldursgate3/mods/6086)
+- [Automated Summons v1.00.00](https://www.nexusmods.com/baldursgate3/mods/10922)
+- [Barcus Wroot - Dynamic Appearances v1.0.0.10](https://www.nexusmods.com/baldursgate3/mods/21518)
+- [Better Dialogue Controls - SE v1.1.0.0](https://www.nexusmods.com/baldursgate3/mods/20908)
+- [Companion Gale Can Consume Shadow Weave v1.0](https://www.nexusmods.com/baldursgate3/mods/16877)
+- [Goon's Inheritance Fixes v1.2.0.0](https://www.nexusmods.com/baldursgate3/mods/23439)
+- [Mod Configuration Menu v1.4.1](https://www.nexusmods.com/baldursgate3/mods/9162)
+- [P4 Custom Tattoo and Makeup Colours v1.0.0.1](https://www.nexusmods.com/baldursgate3/mods/340)
+- [Progression Preview - Full Class Progressions Shown Ingame v1.2.0.0](https://www.nexusmods.com/baldursgate3/mods/20193)
+- [Stomp that Tadpole v1.0.0.1](https://www.nexusmods.com/baldursgate3/mods/17485)
+- [True Consequences (Anti savescum) v1.0.0](https://www.nexusmods.com/baldursgate3/mods/23725)
+- [Volition Cabinet v1.1.0](https://www.nexusmods.com/baldursgate3/mods/7676)
+- [WASD Character Movement v1.9.3](https://www.nexusmods.com/baldursgate3/mods/781)
+- [Wyll - Theo Solomon Banter v1.1](https://www.nexusmods.com/baldursgate3/mods/19832)
+
 ## 8.0.0.0
 **Added**
 
@@ -53,7 +71,6 @@
 - [Endgame Lae'zel has Githyanki egg v1.0](https://www.nexusmods.com/baldursgate3/mods/23488)
 
 **Updated**
-
 - [Goon's Companion Protection v1.1](https://www.nexusmods.com/baldursgate3/mods/14396)
 - [Wyll - Theo Solomon Banter v1.1](https://www.nexusmods.com/baldursgate3/mods/19832)
 - [Character Preset Framework (CPF) v1.4.1](https://www.nexusmods.com/baldursgate3/mods/19805)
