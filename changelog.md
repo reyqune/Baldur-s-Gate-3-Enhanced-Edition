@@ -43,7 +43,7 @@
 - [Skip Mod Verification Window v1.0.0](https://www.nexusmods.com/baldursgate3/mods/24338)
 
 **Updated**
-- [BG3-MO2-Unofficial-Plugin.1.2.0.zip](https://github.com/Alvadus/BG3-MO2-Unofficial-Plugin/releases/download/1.2.0/BG3-MO2-Unofficial-Plugin.1.2.0.zip)
+- [BG3-MO2-Unofficial-Plugin.1.2.0.zip](https://github.com/Alvadus/BG3-MO2-Unofficial-Plugin/releases/tag/1.2.0)
 - [Automated Summons v1.00.00](https://www.nexusmods.com/baldursgate3/mods/10922)
 - [Baldur's Gate 3 Enhanced Edition v1.1.10](https://www.nexusmods.com/baldursgate3/mods/15305)
 - [Companion Gale Can Consume Shadow Weave v1.0](https://www.nexusmods.com/baldursgate3/mods/16877)
