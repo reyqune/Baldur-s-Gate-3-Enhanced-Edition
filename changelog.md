@@ -1,4 +1,5 @@
 # Changelog
+- [8.0.0.8](#8008)
 - [8.0.0.3](#8003)
 - [8.0.0.1](#8001)
 - [8.0.0.0](#8000)
@@ -36,7 +37,14 @@
 - [2.0.0.1](#2001)
 - [2.0.0.0](#2000)
 
-
+## 8.0.0.8
+**Added**
+- [Default Camp Chest First v1](https://www.nexusmods.com/baldursgate3/mods/25609)
+**Updated**
+- [Companions Panel and Camp Chest Everywhere v1.15](https://www.nexusmods.com/baldursgate3/mods/4968)
+- [Immersive Character Lighting v1.0](https://www.nexusmods.com/baldursgate3/mods/19337)
+- [Immersive Dice Roll v2.0](https://www.nexusmods.com/baldursgate3/mods/6878)
+- [Immersive Reading v1.3](https://www.nexusmods.com/baldursgate3/mods/7704)
 
 ## 8.0.0.3
 **Added**
