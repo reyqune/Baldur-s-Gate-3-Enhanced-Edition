@@ -73,10 +73,6 @@ What the list isn't:
 
 Installing the mod list is relatively easy and, if you have Nexus Premium, will be a simple waiting game. If you are updating the mod list, you can safely skip to the [updating section](#updating-the-mod list).
 
->[!WARNING]
->
-> You have to either install the mod list to the same drive where the game is installed, or set the root builder in the included mod organiser 2 to copy post-install.
-
 ### Pre-Installation
 
 These steps are only required for installing the mod list for the first time. Additionally, many of these steps may be covered in other mod list installs, for new users I suggest reading through here regardless.
@@ -350,13 +346,6 @@ But do keep in mind that only the latest version is fully supported.
 A: the plugin that allows mo2 to manage the mods overwrites stuff in `%Localappdata%\Larian Studios`.
 So if you don't want to re-download those mods, make a backup of that folder.
 
-
-### Q: Slow startup of the game through Mod Organizer 2 and/or it freezing on startup, or it takes time for the game to fully shutdown?
-A: Disable the root builder Autobuild option in the root builder settings, and run build manually instead.
-Only do this if you experience the issue, and it has to be redone if you notice that the script extender isn't starting.
-
-![](https://raw.githubusercontent.com/reyqune/Baldur-s-Gate-3-Enhanced-Edition/refs/heads/main/images/Rootbuilder_workaround.jpg)
-
 ## Removing the mod list
 
 Simply delete the mod list folder. Congratulations, you have uninstalled the mod list.
@@ -386,9 +375,6 @@ Step 6: After everything has completed, open up BG3EE and set root builder to co
 Step 7: Enjoy the modlist.
 
 Requirements: Protontricks (flatpak, or native), and steam (native only), and Proton Experimental
-
-# (Linux) Configuration of Mod Organizer 2
-Rootbuilder needs to be changed from the link mode to copy mode. To do this, click the puzzle symbol -> root builder -> root builder and check the box next to 'copy'. 
 
 # (Linux) Launch the game
 Launch the game by choosing BG3 - Vulkan, and click on run.
