@@ -1,4 +1,5 @@
 # Changelog
+- [8.0.0.11](#80011)
 - [8.0.0.8](#8008)
 - [8.0.0.3](#8003)
 - [8.0.0.1](#8001)
@@ -36,6 +37,33 @@
 - [2.0.0.2](#2002)
 - [2.0.0.1](#2001)
 - [2.0.0.0](#2000)
+
+
+
+## 8.0.0.11
+**Added**
+- [BG3 Native Camera Fix v1](https://www.nexusmods.com/baldursgate3/mods/26249)
+- [BG3SE-Updater-20261012.zip](https://github.com/Norbyte/bg3se/releases/download/v33/BG3SE-Updater-20261012.zip)
+**Updated**
+- [Auto Send Food To Camp v1.3.3](https://www.nexusmods.com/baldursgate3/mods/6086)
+- [Character Preset Framework (CPF) v1.4.1](https://www.nexusmods.com/baldursgate3/mods/19805)
+- [Combat Console Commands v1.01.00](https://www.nexusmods.com/baldursgate3/mods/9282)
+- [Compatibility Framework v2.6.3.9](https://www.nexusmods.com/baldursgate3/mods/1933)
+- [Dragonborn Extra Tabs - Horns and Hair - Toolkit v1.0.0.1](https://www.nexusmods.com/baldursgate3/mods/12876)
+- [Dynamic Camp Supply Cost v1.0.0](https://www.nexusmods.com/baldursgate3/mods/21884)
+- [Epilogue bug fixes v1.0.0.2](https://www.nexusmods.com/baldursgate3/mods/14626)
+- [Fix Stragglers v1.2.0](https://www.nexusmods.com/baldursgate3/mods/10795)
+- [Immersive Character Lighting v1.0](https://www.nexusmods.com/baldursgate3/mods/19337)
+- [Immersive Dice Roll v2.0](https://www.nexusmods.com/baldursgate3/mods/6878)
+- [Immersive Reading v1.3](https://www.nexusmods.com/baldursgate3/mods/7704)
+- [Justice For Nessa v1.0.0](https://www.nexusmods.com/baldursgate3/mods/16040)
+- [Mod Configuration Menu v1.4.1](https://www.nexusmods.com/baldursgate3/mods/9162)
+- [Progression Preview - Full Class Progressions Shown Ingame v1.2.0.0](https://www.nexusmods.com/baldursgate3/mods/20193)
+- [Smart Autosaving v2.3.0](https://www.nexusmods.com/baldursgate3/mods/5899)
+**Removed**
+- [BG3SE-Updater-20240430.zip](https://github.com/Norbyte/bg3se/releases/download/updater-20240430/BG3SE-Updater-20240430.zip)
+- [rootbuilder.5.1.1.zip](https://github.com/Kezyma/ModOrganizer-Plugins/releases/download/rootbuilder/rootbuilder.5.1.1.zip)
+
 
 ## 8.0.0.8
 **Added**
