@@ -44,6 +44,7 @@
 **Added**
 - [BG3 Native Camera Fix v1](https://www.nexusmods.com/baldursgate3/mods/26249)
 - [BG3SE-Updater-20261012.zip](https://github.com/Norbyte/bg3se/releases/download/v33/BG3SE-Updater-20261012.zip)
+
 **Updated**
 - [Auto Send Food To Camp v1.3.3](https://www.nexusmods.com/baldursgate3/mods/6086)
 - [Character Preset Framework (CPF) v1.4.1](https://www.nexusmods.com/baldursgate3/mods/19805)
@@ -60,6 +61,7 @@
 - [Mod Configuration Menu v1.4.1](https://www.nexusmods.com/baldursgate3/mods/9162)
 - [Progression Preview - Full Class Progressions Shown Ingame v1.2.0.0](https://www.nexusmods.com/baldursgate3/mods/20193)
 - [Smart Autosaving v2.3.0](https://www.nexusmods.com/baldursgate3/mods/5899)
+
 **Removed**
 - [BG3SE-Updater-20240430.zip](https://github.com/Norbyte/bg3se/releases/download/updater-20240430/BG3SE-Updater-20240430.zip)
 - [rootbuilder.5.1.1.zip](https://github.com/Kezyma/ModOrganizer-Plugins/releases/download/rootbuilder/rootbuilder.5.1.1.zip)
@@ -68,6 +70,7 @@
 ## 8.0.0.8
 **Added**
 - [Default Camp Chest First v1](https://www.nexusmods.com/baldursgate3/mods/25609)
+
 **Updated**
 - [Companions Panel and Camp Chest Everywhere v1.15](https://www.nexusmods.com/baldursgate3/mods/4968)
 - [Immersive Character Lighting v1.0](https://www.nexusmods.com/baldursgate3/mods/19337)
