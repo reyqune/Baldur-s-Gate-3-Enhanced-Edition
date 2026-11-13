@@ -41,7 +41,7 @@
 
 ## 8.0.0.12
 **Changed**
-fixes script extender pathing, otherwise the same as the revision before this one
+fixes script extender pathing, otherwise the same as the version before this one
 
 ## 8.0.0.11
 **Added**
