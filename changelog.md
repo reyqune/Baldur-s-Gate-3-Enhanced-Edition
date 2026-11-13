@@ -1,4 +1,5 @@
 # Changelog
+- [8.0.0.12](#80012)
 - [8.0.0.11](#80011)
 - [8.0.0.8](#8008)
 - [8.0.0.3](#8003)
@@ -38,7 +39,9 @@
 - [2.0.0.1](#2001)
 - [2.0.0.0](#2000)
 
-
+## 8.0.0.12
+**Changed**
+fixes script extender pathing, otherwise the same as the revision before this one
 
 ## 8.0.0.11
 **Added**
